@@ -45,10 +45,6 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
-  <action id="EditorEscape">
-    <keyboard-shortcut first-keystroke="escape" />
-    <keyboard-shortcut first-keystroke="ctrl q" />
-  </action>
   <action id="EditorIndentSelection" />
   <action id="EditorPageDown">
     <keyboard-shortcut first-keystroke="page_down" />
