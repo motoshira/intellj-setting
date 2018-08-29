@@ -16,6 +16,10 @@
     <keyboard-shortcut first-keystroke="alt right" />
     <keyboard-shortcut first-keystroke="ctrl meta f" />
   </action>
+  <action id=":cursive.actions.paredit/splice">
+    <keyboard-shortcut first-keystroke="alt s" />
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
   <action id="ActivateREPLToolWindow">
     <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="ctrl z" />
   </action>
@@ -23,6 +27,7 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="k" />
   </action>
+  <action id="DBNavigator.Actions.SourceEditor.Save" />
   <action id="Debug" />
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="meta w" />
@@ -74,6 +79,9 @@
   <action id="NextTemplateParameter" />
   <action id="NextTemplateVariable">
     <keyboard-shortcut first-keystroke="enter" />
+  </action>
+  <action id="SaveAll">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="s" />
   </action>
   <action id="ToggleFullScreen" />
   <action id="TypeHierarchy">
