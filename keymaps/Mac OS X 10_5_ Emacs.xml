@@ -20,6 +20,12 @@
     <keyboard-shortcut first-keystroke="alt s" />
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
+  <action id=":cursive.testing.actions/run-ns-tests">
+    <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="ctrl t" />
+  </action>
+  <action id=":cursive.testing.actions/run-single-test">
+    <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="t" />
+  </action>
   <action id="ActivateREPLToolWindow">
     <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="ctrl z" />
   </action>
