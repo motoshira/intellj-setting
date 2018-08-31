@@ -2,6 +2,8 @@
   <component name="ClojureIdeSettings">
     <option name="coloredParentheses" value="true" />
     <option name="separateREPLItems" value="true" />
+    <option name="structuralStyle" value="2" />
+    <option name="maintainSelectionOnWrap" value="true" />
     <option name="confirmReplExit" value="false" />
   </component>
 </application>
