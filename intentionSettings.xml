@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Clojure/Indentation/Indentation" />
+  </component>
+</application>
