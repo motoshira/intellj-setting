@@ -3,6 +3,7 @@
   :defhandler :only-indent
   :anpi.handler.bbs/defhandler 2
   :clojure.core/assoc 0
+  :clojure.core/cond-&gt; :only-indent
   :clojure.core/defmulti 2
   :cursive.formatting/align-conditionals false
   :cursive.formatting/align-maps false
