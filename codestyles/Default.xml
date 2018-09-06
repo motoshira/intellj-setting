@@ -1,5 +1,8 @@
 <code_scheme name="Default" version="173">
   <ClojureCodeStyleSettings>{
+  :defhandler :only-indent
+  :anpi.handler.bbs/defhandler 2
+  :clojure.core/defmulti 2
   :cursive.formatting/align-conditionals false
   :cursive.formatting/align-maps false
   :cursive.formatting/one-space-lists true
