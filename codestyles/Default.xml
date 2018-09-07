@@ -8,6 +8,8 @@
   :cursive.formatting/align-conditionals false
   :cursive.formatting/align-maps false
   :cursive.formatting/one-space-lists true
+  :midje.sweet/fact 1
+  :midje.sweet/facts 1
 }</ClojureCodeStyleSettings>
   <DBN-PSQL>
     <case-options enabled="false">
