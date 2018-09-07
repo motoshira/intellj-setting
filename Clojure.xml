@@ -4,6 +4,7 @@
     <option name="separateREPLItems" value="true" />
     <option name="structuralStyle" value="2" />
     <option name="maintainSelectionOnWrap" value="true" />
+    <option name="twoSemicolonComments" value="true" />
     <option name="confirmReplExit" value="false" />
   </component>
 </application>
