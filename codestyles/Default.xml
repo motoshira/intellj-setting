@@ -2,6 +2,7 @@
   <ClojureCodeStyleSettings>{
   :defhandler :only-indent
   :anpi.handler.bbs/defhandler 2
+  :anpi.handler.personal-setting/defhandler 1
   :clojure.core/assoc 0
   :clojure.core/cond-&gt; :only-indent
   :clojure.core/defmulti 2
