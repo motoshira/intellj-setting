@@ -3,6 +3,7 @@
   :defhandler :only-indent
   :anpi.core.family-test/let-test-data 1000
   :anpi.core.family-test/with-test-db 0
+  :anpi.handler/defhandler :only-indent
   :anpi.handler.bbs/defhandler 2
   :anpi.handler.personal-setting/defhandler 1
   :clojure.core/assoc 0
@@ -11,6 +12,7 @@
   :cursive.formatting/align-conditionals false
   :cursive.formatting/align-maps false
   :cursive.formatting/one-space-lists true
+  :formative.parse/with-fallback :only-indent
   :midje.sweet/fact 1
   :midje.sweet/facts 1
 }</ClojureCodeStyleSettings>
