@@ -8,6 +8,9 @@
   :anpi.handler.bbs/defhandler 2
   :anpi.handler.personal-setting/defhandler 1
   :anpi.security.auth/db 0
+  :cljs.core/assoc 0
+  :cljs.core/cond-&gt; :only-indent
+  :cljs.core/cond-&gt;&gt; :only-indent
   :clojure.core/assoc 0
   :clojure.core/cond-&gt; :only-indent
   :clojure.core/defmulti 2
