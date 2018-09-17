@@ -20,6 +20,7 @@
   :formative.parse/with-fallback :only-indent
   :midje.sweet/fact 1
   :midje.sweet/facts 1
+  :mount.lite/defstate :only-indent
 }</ClojureCodeStyleSettings>
   <DBN-PSQL>
     <case-options enabled="false">
