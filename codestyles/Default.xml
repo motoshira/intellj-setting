@@ -3,6 +3,7 @@
   :defhandler :only-indent
   :anpi.core.family-test/let-test-data 1000
   :anpi.core.family-test/with-test-db 0
+  :anpi.db/with-db-transaction :only-indent
   :anpi.db.domain.system-setting-ip-address/check-ip-address 1
   :anpi.handler/defhandler :only-indent
   :anpi.handler.bbs/defhandler 2
