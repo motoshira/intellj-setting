@@ -10,6 +10,7 @@
   :anpi.handler.personal-setting/defhandler 1
   :anpi.lib.test-helper/let-test-data :only-indent
   :anpi.security.auth/db 0
+  :anpi.test-helper/with-sync-test-state 2
   :cljs.core/assoc 0
   :cljs.core/cond-&gt; :only-indent
   :cljs.core/cond-&gt;&gt; :only-indent
