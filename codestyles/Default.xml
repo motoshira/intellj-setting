@@ -16,7 +16,7 @@
   :cljs.core/cond-&gt;&gt; :only-indent
   :clojure.core/assoc 0
   :clojure.core/cond-&gt; :only-indent
-  :clojure.core/defmulti 2
+  :clojure.core/cond-&gt;&gt; :only-indent
   :cursive.formatting/align-conditionals false
   :cursive.formatting/align-maps false
   :cursive.formatting/one-space-lists true
