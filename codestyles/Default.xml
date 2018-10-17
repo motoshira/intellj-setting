@@ -18,12 +18,15 @@
   :clojure.core/assoc 0
   :clojure.core/cond-&gt; :only-indent
   :clojure.core/cond-&gt;&gt; :only-indent
+  :clojure.core/empty? 1000
   :cursive.formatting/align-conditionals false
   :cursive.formatting/align-maps false
   :cursive.formatting/one-space-lists true
   :formative.parse/with-fallback :only-indent
+  :midje.sweet/=&gt; 0
   :midje.sweet/fact 1
   :midje.sweet/facts 1
+  :midje.sweet/with-state-changes :only-indent
   :mount.lite/defstate :only-indent
   :mount.lite/with-substitutes :only-indent
 }</ClojureCodeStyleSettings>
