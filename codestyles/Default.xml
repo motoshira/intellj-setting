@@ -12,7 +12,7 @@
   :anpi.lib.test-helper/let-test-data :only-indent
   :anpi.security.auth/db 0
   :anpi.test-helper/with-endpoint :only-indent
-  :anpi.test-helper/with-sync-test-state 2
+  :anpi.test-helper/with-sync-test-state :only-indent
   :anpi.test-helper/with-test-state :only-indent
   :cljs.core/assoc 0
   :cljs.core/cond-&gt; :only-indent
