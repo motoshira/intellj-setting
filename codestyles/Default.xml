@@ -82,4 +82,7 @@
       <option name="ITERATION_ELEMENTS_WRAPPING" value="chop_down_if_not_single" />
     </formatting-settings>
   </DBN-SQL>
+  <yaml>
+    <option name="INDENT_SEQUENCE_VALUE" value="true" />
+  </yaml>
 </code_scheme>
