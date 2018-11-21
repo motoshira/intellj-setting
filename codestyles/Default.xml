@@ -24,6 +24,7 @@
   :clojure.core/cond-&gt;&gt; :only-indent
   :clojure.core/defonce :only-indent
   :clojure.core/empty? 1000
+  :clojure.java.jdbc/with-db-connection :only-indent
   :cursive.formatting/align-conditionals false
   :cursive.formatting/align-maps false
   :cursive.formatting/one-space-lists true
