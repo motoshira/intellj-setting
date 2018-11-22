@@ -30,7 +30,8 @@
   :cursive.formatting/one-space-lists true
   :formative.parse/with-fallback :only-indent
   :midje.sweet/=&gt; 0
-  :midje.sweet/fact 1
+  :midje.sweet/against-background :only-indent
+  :midje.sweet/fact :only-indent
   :midje.sweet/facts 1
   :midje.sweet/with-state-changes :only-indent
   :mount.lite/defstate :only-indent
