@@ -1,10 +1,12 @@
 <code_scheme name="Default" version="173">
+  <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <ClojureCodeStyleSettings>{
   :defhandler :only-indent
   :anpi.core.family-test/let-test-data 1000
   :anpi.core.family-test/with-test-db 0
+  :anpi.db/with-arglists :only-indent
   :anpi.db/with-db-transaction :only-indent
-  :anpi.db.domain.system-setting-ip-address/check-ip-address 1
+  :anpi.db.domain.system-setting-ip-address/check-ip-address 0
   :anpi.db.test-helper/with-test-db :only-indent
   :anpi.handler/defhandler :only-indent
   :anpi.handler.bbs/defhandler 2
@@ -20,13 +22,16 @@
   :clojure.core/assoc 0
   :clojure.core/cond-&gt; :only-indent
   :clojure.core/cond-&gt;&gt; :only-indent
+  :clojure.core/defonce :only-indent
   :clojure.core/empty? 1000
+  :clojure.java.jdbc/with-db-connection :only-indent
   :cursive.formatting/align-conditionals false
   :cursive.formatting/align-maps false
   :cursive.formatting/one-space-lists true
   :formative.parse/with-fallback :only-indent
   :midje.sweet/=&gt; 0
-  :midje.sweet/fact 1
+  :midje.sweet/against-background :only-indent
+  :midje.sweet/fact :only-indent
   :midje.sweet/facts 1
   :midje.sweet/with-state-changes :only-indent
   :mount.lite/defstate :only-indent
@@ -82,4 +87,7 @@
       <option name="ITERATION_ELEMENTS_WRAPPING" value="chop_down_if_not_single" />
     </formatting-settings>
   </DBN-SQL>
+  <yaml>
+    <option name="INDENT_SEQUENCE_VALUE" value="true" />
+  </yaml>
 </code_scheme>
