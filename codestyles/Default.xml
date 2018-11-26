@@ -34,6 +34,7 @@
   :midje.sweet/against-background :only-indent
   :midje.sweet/fact :only-indent
   :midje.sweet/facts 1
+  :midje.sweet/provided :only-indent
   :midje.sweet/with-state-changes :only-indent
   :mount.lite/defstate :only-indent
   :mount.lite/with-session :only-indent
