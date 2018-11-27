@@ -7,6 +7,7 @@
   :anpi.db/with-arglists :only-indent
   :anpi.db/with-db-transaction :only-indent
   :anpi.db.domain.system-setting-ip-address/check-ip-address 0
+  :anpi.db.test-helper/with-rollback :only-indent
   :anpi.db.test-helper/with-test-db :only-indent
   :anpi.handler/defhandler :only-indent
   :anpi.handler.bbs/defhandler 2
