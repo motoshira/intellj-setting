@@ -29,6 +29,7 @@
   :cursive.formatting/align-conditionals false
   :cursive.formatting/align-maps false
   :cursive.formatting/one-space-lists true
+  :etaoin.api/with-chrome-headless :only-indent
   :formative.parse/with-fallback :only-indent
   :midje.sweet/=&gt; 0
   :midje.sweet/against-background :only-indent
