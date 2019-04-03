@@ -6,6 +6,15 @@
   <action id="$Paste">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift meta z" />
+    <keyboard-shortcut first-keystroke="shift alt back_space" />
+    <keyboard-shortcut first-keystroke="shift ctrl slash" />
+  </action>
+  <action id="$Undo">
+    <keyboard-shortcut first-keystroke="meta z" />
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+  </action>
   <action id=":cursive.actions.paredit/backward">
     <keyboard-shortcut first-keystroke="meta left" />
     <keyboard-shortcut first-keystroke="alt left" />
@@ -33,6 +42,14 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="k" />
   </action>
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="meta alt slash" />
+    <keyboard-shortcut first-keystroke="meta alt divide" />
+    <keyboard-shortcut first-keystroke="shift ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift meta slash" />
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+  </action>
   <action id="DBNavigator.Actions.SourceEditor.Save" />
   <action id="Debug" />
   <action id="Editor Copy">
@@ -40,6 +57,12 @@
   </action>
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="shift ctrl slash" />
+  </action>
+  <action id="Editor Undo">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
   <action id="EditorBackSpace">
     <keyboard-shortcut first-keystroke="back_space" />
