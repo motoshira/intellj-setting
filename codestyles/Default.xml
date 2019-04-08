@@ -34,6 +34,7 @@
   :cursive.formatting/one-space-lists true
   :etaoin.api/with-chrome-headless :only-indent
   :formative.parse/with-fallback :only-indent
+  :kitchen-async.promise/let :only-indent
   :midje.sweet/=&gt; 0
   :midje.sweet/against-background :only-indent
   :midje.sweet/fact :only-indent
