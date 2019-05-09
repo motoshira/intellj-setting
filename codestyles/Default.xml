@@ -41,6 +41,7 @@
   :formative.parse/with-fallback :only-indent
   :kitchen-async.promise/let :only-indent
   :kitchen-async.promise/loop :only-indent
+  :kmailer.view.mailset.webhook/defnk :only-indent
   :midje.sweet/=&gt; 0
   :midje.sweet/against-background :only-indent
   :midje.sweet/fact :only-indent
