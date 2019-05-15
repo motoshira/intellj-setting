@@ -32,6 +32,7 @@
   :clojure.core/assoc 0
   :clojure.core/cond-&gt; :only-indent
   :clojure.core/cond-&gt;&gt; :only-indent
+  :clojure.core/defmulti :only-indent
   :clojure.core/defonce :only-indent
   :clojure.core/empty? 1000
   :clojure.java.jdbc/with-db-connection :only-indent
@@ -40,6 +41,7 @@
   :cursive.formatting/one-space-lists true
   :etaoin.api/with-chrome-headless :only-indent
   :formative.parse/with-fallback :only-indent
+  :hiccup2.core/html 1000
   :kitchen-async.promise/let :only-indent
   :kitchen-async.promise/loop :only-indent
   :kmailer.view.mailset.webhook/defnk :only-indent
