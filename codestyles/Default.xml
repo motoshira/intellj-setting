@@ -52,6 +52,7 @@
   :midje.sweet/facts 1
   :midje.sweet/provided :only-indent
   :midje.sweet/with-state-changes :only-indent
+  :migration/with-migrator :only-indent
   :mount.lite/defstate :only-indent
   :mount.lite/with-session :only-indent
   :mount.lite/with-substitutes :only-indent
