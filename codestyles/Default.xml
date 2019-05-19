@@ -59,6 +59,7 @@
   :user/with-migrator :only-indent
   :zou.component/with-component :only-indent
   :zou.component/with-system :only-indent
+  :zou.ext.kmailer.repl/with-migrator :only-indent
 }</ClojureCodeStyleSettings>
   <DBN-PSQL>
     <case-options enabled="false">
