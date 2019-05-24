@@ -50,6 +50,8 @@
   :kitchen-async.promise/loop :only-indent
   :kmailer.handler/defhandler :only-indent
   :kmailer.service/defservice :only-indent
+  :kmailer.test-helper/let-test-data :only-indent
+  :kmailer.test-helper/with-test-db :only-indent
   :kmailer.validation/with-validate :only-indent
   :kmailer.view.mailset.webhook/defnk :only-indent
   :midje.sweet/=&gt; 0
