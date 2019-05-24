@@ -49,6 +49,7 @@
   :kitchen-async.promise/let :only-indent
   :kitchen-async.promise/loop :only-indent
   :kmailer.handler/defhandler :only-indent
+  :kmailer.macros/go-loop-sub :only-indent
   :kmailer.service/defservice :only-indent
   :kmailer.test-helper/let-test-data :only-indent
   :kmailer.test-helper/with-test-db :only-indent
