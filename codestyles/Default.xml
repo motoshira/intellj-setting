@@ -54,6 +54,7 @@
   :kmailer.test-helper/with-test-db :only-indent
   :kmailer.validation/with-validate :only-indent
   :kmailer.view.mailset.webhook/defnk :only-indent
+  :merr.core/let :only-indent
   :midje.sweet/=&gt; 0
   :midje.sweet/against-background :only-indent
   :midje.sweet/fact :only-indent
