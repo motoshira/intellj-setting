@@ -139,6 +139,10 @@
   <action id="NextTemplateVariable">
     <keyboard-shortcut first-keystroke="enter" />
   </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+    <keyboard-shortcut first-keystroke="ctrl meta back_slash" />
+  </action>
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="s" />
   </action>
