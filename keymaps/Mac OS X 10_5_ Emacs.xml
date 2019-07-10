@@ -118,12 +118,6 @@
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
-  <action id="GotoDeclaration">
-    <keyboard-shortcut first-keystroke="meta b" />
-    <mouse-shortcut keystroke="meta button1" />
-    <mouse-shortcut keystroke="button2" />
-    <keyboard-shortcut first-keystroke="a" />
-  </action>
   <action id="MethodDown">
     <keyboard-shortcut first-keystroke="ctrl meta e" />
   </action>
