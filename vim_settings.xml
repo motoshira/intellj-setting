@@ -6,13 +6,13 @@
       <file name="$USER_HOME$/projects/anpi/lib/src/anpi/component/translate.clj" timestamp="1563083151437">
         <mark key="'" line="3" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/anpi/web/src/anpi/util/form.clj" timestamp="1563083159812">
+      <file name="$USER_HOME$/projects/anpi/web/src/anpi/util/form.clj" timestamp="1563084877248">
         <mark key="'" line="49" column="9" />
         <mark key="j" line="89" column="0" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="^" line="89" column="10" />
-        <mark key="." line="73" column="0" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="^" line="49" column="4" />
+        <mark key="." line="88" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -51,48 +51,47 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICh0aHJvdyAoZXgtaW5mbyBlcnJvci1pbmZvIHs6cHJvYmxlbXMgKHZlYyBlcnJvcnMpfSkpKSkK</text>
       </register>
       <register name="-" type="4">
-        <text>throw</text>
+        <text>tr</text>
       </register>
       <register name="/" type="4">
         <text>view</text>
       </register>
       <register name="0" type="4">
-        <text>(when (seq errors)
-    (throw (ex-info error-info {:problems (vec errors)})))</text>
+        <text>img</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICh0aHJvdyAoZXgtaW5mbyBlcnJvci1pbmZvIHs6cHJvYmxlbXMgKHZlYyBlcnJvcnMpfSkpKSkK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgWzpzcGFuLmdseXBoaWNvbi5nbHlwaGljb24tcmVtb3ZlLnRleHQtcHJpbWFyeSB7OmFyaWEtaGlkZGVuICJ0cnVlIn1dCiAgICAgICAgICAgICAgICAgIH4odHIvdHJhbnNsYXRlIHRyYW5zbGF0b3IgbG9jYWxlIDp2aWV3LmNvbW1vbi51dGlsL2RlbGV0ZSldKX0pKQoKKGRlZm4gbm9uLXF1ZXN0aW9uLWZvcm0tbm90aWZpY2F0aW9uCiAgIuioreWVj+ODleOCqeODvOODoOOBjOWtmOWcqOOBl+OBquOBhOaZguOBruWFsemAmuODoeODg+OCu+ODvOOCuCIKICBbezphcyBmb3JtLWRhdGEgOmtleXMgW3F1ZXN0aW9uLWZvcm1zXX1dCiAgKHdoZW4tbm90IChzZXEgcXVlc3Rpb24tZm9ybXMpCiAgICBbOmRpdi5jb2wtbWQtMTIKICAgICBbOnAubm90aWZpY2F0aW9uLW1lc3NhZ2UKICAgICAgIuKAu+ioreWVj+ODleOCqeODvOODoOOBjOS9nOaIkOOBleOCjOOBpuOBhOOBquOBhOOBn+OCgeOAgeioreWVj+S7mOOBjeOBruS4gOaWiemAgeS/oeOCkuihjOOBhuOBk+OBqOOBjOOBp+OBjeOBvuOBm+OCk+OAgiJdCiAgICAgWzpwLm5vdGlmaWNhdGlvbi1tZXNzYWdlCiAgICAgICLigLvoqK3llY/jg5Xjgqnjg7zjg6DjgpLkvZzmiJDjgZnjgovloLTlkIjjga/jgIHpgYvnlKjoqK3lrprjga7jgI7oqK3llY/jg5Xjgqnjg7zjg6Djga7nrqHnkIbjgI/jgafkvZzmiJDjgZfjgabjgY/jgaDjgZXjgYTjgIIiXV0pKQoKKGRlZm4gLT5lcnJvcgogICLjg5Xjgqnjg7zjg6Djga7lhaXlipvjgqjjg6njg7zjga7jg4fjg7zjgr/lvaLlvI8iCiAgW2sgbXNnXQogIHs6cHJlIFsoY29sbD8gaykgKHNlcSBtc2cpXX0KICB7OmtleXMgKHZlYyBrKSA6bXNnIG1zZ30pCgooZGVmbiB0aHJvdy1lcnJvcgogICLlhaXlipvjgqjjg6njg7zjgpLjg6bjg7zjgrbjg7zjgavov5TjgZnjgajjgY3jgavkvb/jgYYiCiAgW2Vycm9yLWluZm8gJiBlcnJvcnNdCiAgKHdoZW4gKHNlcSBlcnJvcnMpCiAgICAodGhyb3cgKGV4LWluZm8gZXJyb3ItaW5mbyB7OnByb2JsZW1zICh2ZWMgZXJyb3JzKX0pKSkpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgWzpzcGFuLmdseXBoaWNvbi5nbHlwaGljb24tcGx1cy50ZXh0LXByaW1hcnkgezphcmlhLWhpZGRlbiAidHJ1ZSJ9XQogICAgICAgICAgICAgICAgICB+KHRyL3RyYW5zbGF0ZSB0cmFuc2xhdG9yIGxvY2FsZSA6dmlldy5jb21tb24udXRpbC9hZGQpXQogICAgICAgICAgICAgICAgIFs6c3BhbiNjYW5jZWwtZmlsZS5jbGlja2FibGUKICAgICAgICAgICAgICAgICAgWzpzcGFuLmdseXBoaWNvbi5nbHlwaGljb24tcmVtb3ZlLnRleHQtcHJpbWFyeSB7OmFyaWEtaGlkZGVuICJ0cnVlIn1dCiAgICAgICAgICAgICAgICAgIH4odHIvdHJhbnNsYXRlIHRyYW5zbGF0b3IgbG9jYWxlIDp2aWV3LmNvbW1vbi51dGlsL2RlbGV0ZSldKX0pKQoKKGRlZm4gbm9uLXF1ZXN0aW9uLWZvcm0tbm90aWZpY2F0aW9uCiAgIuioreWVj+ODleOCqeODvOODoOOBjOWtmOWcqOOBl+OBquOBhOaZguOBruWFsemAmuODoeODg+OCu+ODvOOCuCIKICBbezphcyBmb3JtLWRhdGEgOmtleXMgW3F1ZXN0aW9uLWZvcm1zXX1dCiAgKHdoZW4tbm90IChzZXEgcXVlc3Rpb24tZm9ybXMpCiAgICBbOmRpdi5jb2wtbWQtMTIKICAgICBbOnAubm90aWZpY2F0aW9uLW1lc3NhZ2UKICAgICAgIuKAu+ioreWVj+ODleOCqeODvOODoOOBjOS9nOaIkOOBleOCjOOBpuOBhOOBquOBhOOBn+OCgeOAgeioreWVj+S7mOOBjeOBruS4gOaWiemAgeS/oeOCkuihjOOBhuOBk+OBqOOBjOOBp+OBjeOBvuOBm+OCk+OAgiJdCiAgICAgWzpwLm5vdGlmaWNhdGlvbi1tZXNzYWdlCiAgICAgICLigLvoqK3llY/jg5Xjgqnjg7zjg6DjgpLkvZzmiJDjgZnjgovloLTlkIjjga/jgIHpgYvnlKjoqK3lrprjga7jgI7oqK3llY/jg5Xjgqnjg7zjg6Djga7nrqHnkIbjgI/jgafkvZzmiJDjgZfjgabjgY/jgaDjgZXjgYTjgIIiXV0pKQoKKGRlZm4gLT5lcnJvcgogICLjg5Xjgqnjg7zjg6Djga7lhaXlipvjgqjjg6njg7zjga7jg4fjg7zjgr/lvaLlvI8iCiAgW2sgbXNnXQogIHs6cHJlIFsoY29sbD8gaykgKHNlcSBtc2cpXX0KICB7OmtleXMgKHZlYyBrKSA6bXNnIG1zZ30pCgooZGVmbiB0aHJvdy1lcnJvcgogICLlhaXlipvjgqjjg6njg7zjgpLjg6bjg7zjgrbjg7zjgavov5TjgZnjgajjgY3jgavkvb/jgYYiCiAgW2Vycm9yLWluZm8gJiBlcnJvcnNdCiAgKHdoZW4gKHNlcSBlcnJvcnMpCiAgICAodGhyb3cgKGV4LWluZm8gZXJyb3ItaW5mbyB7OnByb2JsZW1zICh2ZWMgZXJyb3JzKX0pKSkpCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>when (seq errors)
     (throw (ex-info error-info {:problems (vec errors)}))</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">cCh0aHJvdyAoZXgtaW5mbyBlcnJvci1pbmZvIHs6cHJvYmxlbXMgKHZlYyBlcnJvcnMpfSkpCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICh0aHJvdyAoZXgtaW5mbyBlcnJvci1pbmZvIHs6cHJvYmxlbXMgKHZlYyBlcnJvcnMpfSkpKSkK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICApCg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">KGxldCBbaSAxMDEwXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>jumps</text>
+        <text>d84,</text>
       </register>
     </registers>
     <search>
@@ -116,6 +115,9 @@
         <entry>find handler</entry>
         <entry>h</entry>
         <entry>jumps</entry>
+        <entry>d65</entry>
+        <entry>d 66</entry>
+        <entry>d84,</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
