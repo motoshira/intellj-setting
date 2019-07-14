@@ -37,10 +37,6 @@
     <keyboard-shortcut first-keystroke="shift meta back_slash" />
     <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="ctrl m" />
   </action>
-  <action id=":cursive.repl.actions/run-top-sexp">
-    <keyboard-shortcut first-keystroke="shift meta p" />
-    <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="ctrl c" />
-  </action>
   <action id=":cursive.testing.actions/run-ns-tests">
     <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="ctrl t" />
   </action>

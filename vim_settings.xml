@@ -1,0 +1,157 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/projects/anpi/lib/src/anpi/component/translate.clj" timestamp="1563083151437">
+        <mark key="'" line="3" column="3" />
+      </file>
+      <file name="$USER_HOME$/projects/anpi/web/src/anpi/util/form.clj" timestamp="1563083159812">
+        <mark key="'" line="49" column="9" />
+        <mark key="j" line="89" column="0" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="^" line="89" column="10" />
+        <mark key="." line="73" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="66" column="28" filename="$USER_HOME$/projects/anpi/web/src/anpi/util/form.clj" />
+      <jump line="90" column="2" filename="$USER_HOME$/projects/anpi/web/src/anpi/util/form.clj" />
+      <jump line="89" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/util/form.clj" />
+      <jump line="87" column="19" filename="$USER_HOME$/projects/anpi/web/src/anpi/util/form.clj" />
+      <jump line="1" column="18" filename="$USER_HOME$/projects/anpi/web/src/anpi/util/form.clj" />
+      <jump line="63" column="52" filename="$USER_HOME$/projects/anpi/web/src/anpi/util/form.clj" />
+      <jump line="73" column="5" filename="$USER_HOME$/projects/anpi/web/src/anpi/util/form.clj" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/util/form.clj" />
+      <jump line="88" column="57" filename="$USER_HOME$/projects/anpi/web/src/anpi/util/form.clj" />
+      <jump line="32" column="36" filename="$USER_HOME$/projects/anpi/web/src/anpi/util/form.clj" />
+      <jump line="22" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/util/form.clj" />
+      <jump line="23" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/util/form.clj" />
+      <jump line="24" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/util/form.clj" />
+      <jump line="27" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/util/form.clj" />
+      <jump line="28" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/util/form.clj" />
+      <jump line="33" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/util/form.clj" />
+      <jump line="36" column="2" filename="$USER_HOME$/projects/anpi/web/src/anpi/util/form.clj" />
+      <jump line="37" column="2" filename="$USER_HOME$/projects/anpi/web/src/anpi/util/form.clj" />
+      <jump line="51" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/util/form.clj" />
+      <jump line="68" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/util/form.clj" />
+      <jump line="78" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/util/form.clj" />
+      <jump line="56" column="9" filename="$USER_HOME$/projects/anpi/web/src/anpi/util/form.clj" />
+      <jump line="50" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/util/form.clj" />
+      <jump line="60" column="9" filename="$USER_HOME$/projects/anpi/web/src/anpi/util/form.clj" />
+      <jump line="77" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/util/form.clj" />
+      <jump line="67" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/util/form.clj" />
+      <jump line="71" column="2" filename="$USER_HOME$/projects/anpi/web/src/anpi/util/form.clj" />
+      <jump line="43" column="4" filename="$USER_HOME$/projects/anpi/web/src/anpi/util/form.clj" />
+      <jump line="83" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/util/form.clj" />
+      <jump line="3" column="12" filename="$USER_HOME$/projects/anpi/web/src/anpi/util/form.clj" />
+      <jump line="3" column="3" filename="$USER_HOME$/projects/anpi/lib/src/anpi/component/translate.clj" />
+      <jump line="49" column="9" filename="$USER_HOME$/projects/anpi/web/src/anpi/util/form.clj" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>throw</text>
+      </register>
+      <register name="/" type="4">
+        <text>view</text>
+      </register>
+      <register name="0" type="4">
+        <text>(when (seq errors)
+    (throw (ex-info error-info {:problems (vec errors)})))</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
+        <text>when (seq errors)
+    (throw (ex-info error-info {:problems (vec errors)}))</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">cCh0aHJvdyAoZXgtaW5mbyBlcnJvci1pbmZvIHs6cHJvYmxlbXMgKHZlYyBlcnJvcnMpfSkpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICh0aHJvdyAoZXgtaW5mbyBlcnJvci1pbmZvIHs6cHJvYmxlbXMgKHZlYyBlcnJvcnMpfSkpKSkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICApCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">KGxldCBbaSAxMDEwXQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>jumps</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>view</last-search>
+      <last-offset />
+      <last-pattern>view</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>view</entry>
+      </history-search>
+      <history-cmd>
+        <entry>version</entry>
+        <entry>1</entry>
+        <entry>10</entry>
+        <entry>78</entry>
+        <entry>q</entry>
+        <entry>find</entry>
+        <entry>find handler</entry>
+        <entry>h</entry>
+        <entry>jumps</entry>
+      </history-cmd>
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
