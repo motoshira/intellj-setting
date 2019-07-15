@@ -17,6 +17,11 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="28" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/anpi/db/src/anpi/db/domain/training.clj" timestamp="1563165101421">
+        <mark key="[" line="69" column="6" />
+        <mark key="]" line="69" column="7" />
+        <mark key="." line="69" column="6" />
+      </file>
       <file name="$USER_HOME$/projects/anpi/web/src/anpi/state/handler.clj" timestamp="1563087001990">
         <mark key="'" line="72" column="2" />
       </file>
@@ -28,6 +33,9 @@
       </file>
       <file name="$USER_HOME$/projects/anpi/lib/src/anpi/component/translate.clj" timestamp="1563083151437">
         <mark key="'" line="3" column="3" />
+      </file>
+      <file name="$USER_HOME$/projects/anpi/admin/src/anpi/handler/training.clj" timestamp="1563164992836">
+        <mark key="'" line="35" column="8" />
       </file>
       <file name="$USER_HOME$/projects/anpi/web/src/anpi/util/form.clj" timestamp="1563086806071">
         <mark key="'" line="51" column="27" />
@@ -104,6 +112,8 @@
       <jump line="239" column="1" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/message.clj" />
       <jump line="227" column="1" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/message.clj" />
       <jump line="213" column="1" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/message.clj" />
+      <jump line="38" column="0" filename="$USER_HOME$/projects/anpi/admin/src/anpi/handler/training.clj" />
+      <jump line="35" column="8" filename="$USER_HOME$/projects/anpi/admin/src/anpi/handler/training.clj" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -113,7 +123,7 @@
         <text>]</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZWZuXD4=</text>
+        <text encoding="base64">XDx2aWV3XD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">KGxldCBbb2xkZXN0LWF0ICh1ZC8tPnNxbC10aW1lc3RhbXAgb2xkZXN0LWF0KQogICAgICAgICBjb21tZW50cysxIChkb21haW4vZmluZC1tZXNzYWdlLXJlc3BvbnNlIGRiIG1lc3NhZ2UtaWQgZGVsZXRlZC1zdWZmaXgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7Om9sZGVzdC1hdCBvbGRlc3QtYXQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOmxpbWl0IChpbmMgbGltaXQpfSkKICAgICAgICAgY29tbWVudHMgKHRha2UgbGltaXQgY29tbWVudHMrMSldCiAgICAgezpjb21tZW50cyBjb21tZW50cwogICAgICA6b2xkZXN0LWF0ICh1ZC8tPnVuaXgtdGltZXN0YW1wICg6Y3JlYXRlZC1hdCAobGFzdCBjb21tZW50cykpKQogICAgICA6bW9yZS1leGlzdHMgKD4gKGNvdW50IGNvbW1lbnRzKzEpIGxpbWl0KQogICAgICA6bWVzc2FnZS1pZCBtZXNzYWdlLWlkfSk=</text>
@@ -167,16 +177,19 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZWZuXD4=</last-search>
+      <last-search encoding="base64">XDx2aWV3XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZWZuXD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern encoding="base64">XDx2aWV3XD4=</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute encoding="base64">XDx2aWV3XD4=</last-substitute>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>view</entry>
         <entry encoding="base64">XDxkZWZuXD4=</entry>
+        <entry encoding="base64">XDx2aWV3XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>version</entry>
