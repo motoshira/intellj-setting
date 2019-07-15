@@ -18,11 +18,22 @@
       <file name="$USER_HOME$/projects/anpi/web/src/anpi/state/handler.clj" timestamp="1563087001990">
         <mark key="'" line="72" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/anpi/admin/src/anpi/view/training.clj" timestamp="1563167372411">
-        <mark key="'" line="119" column="5" />
+      <file name="$USER_HOME$/projects/anpi/admin/src/anpi/view/training.clj" timestamp="1563168600576">
+        <mark key="'" line="123" column="24" />
+        <mark key="[" line="123" column="3" />
+        <mark key="]" line="123" column="44" />
+        <mark key="^" line="123" column="44" />
+        <mark key="." line="123" column="44" />
       </file>
       <file name="$MAVEN_REPOSITORY$/functionalbytes/mount-lite/2.1.1/mount-lite-2.1.1.jar!/mount/lite.clj" timestamp="1563087005016">
         <mark key="'" line="119" column="10" />
+      </file>
+      <file name="$USER_HOME$/projects/anpi/admin/src/anpi/form/training.clj" timestamp="1563167937774">
+        <mark key="'" line="27" column="2" />
+        <mark key="[" line="33" column="55" />
+        <mark key="]" line="33" column="61" />
+        <mark key="." line="33" column="61" />
+        <mark key="^" line="33" column="61" />
       </file>
       <file name="$USER_HOME$/projects/anpi/lib/src/anpi/component/translate.clj" timestamp="1563083151437">
         <mark key="'" line="3" column="3" />
@@ -44,15 +55,22 @@
       <file name="/REPL.clj" timestamp="1563164057493">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" timestamp="1563166851216">
+      <file name="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" timestamp="1563168073270">
         <mark key="'" line="107" column="6" />
-        <mark key="[" line="113" column="290" />
-        <mark key="]" line="113" column="348" />
-        <mark key="^" line="107" column="9" />
-        <mark key="." line="113" column="290" />
+        <mark key="[" line="136" column="11" />
+        <mark key="]" line="136" column="28" />
+        <mark key="^" line="136" column="28" />
+        <mark key="." line="136" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/anpi/admin/src/anpi/handler/training.clj" timestamp="1563166998070">
-        <mark key="'" line="103" column="15" />
+      <file name="$USER_HOME$/projects/anpi/web/src/anpi/form/system_setting/csv_import.clj" timestamp="1563167629353">
+        <mark key="[" line="79" column="2" />
+        <mark key="]" line="88" column="32" />
+      </file>
+      <file name="$USER_HOME$/projects/anpi/admin/src/anpi/handler/training.clj" timestamp="1563168941222">
+        <mark key="'" line="80" column="6" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/projects/anpi/web/src/anpi/util/form.clj" timestamp="1563086806071">
         <mark key="'" line="51" column="27" />
@@ -142,35 +160,87 @@
       <jump line="46" column="0" filename="$USER_HOME$/projects/anpi/admin/src/anpi/handler/training.clj" />
       <jump line="59" column="15" filename="$USER_HOME$/projects/anpi/admin/src/anpi/handler/training.clj" />
       <jump line="103" column="15" filename="$USER_HOME$/projects/anpi/admin/src/anpi/handler/training.clj" />
+      <jump line="119" column="5" filename="$USER_HOME$/projects/anpi/admin/src/anpi/view/training.clj" />
+      <jump line="26" column="12" filename="$USER_HOME$/projects/anpi/admin/src/anpi/form/training.clj" />
+      <jump line="32" column="19" filename="$USER_HOME$/projects/anpi/admin/src/anpi/form/training.clj" />
+      <jump line="2" column="29" filename="$USER_HOME$/projects/anpi/admin/src/anpi/form/training.clj" />
+      <jump line="27" column="2" filename="$USER_HOME$/projects/anpi/admin/src/anpi/form/training.clj" />
       <jump line="117" column="16" filename="$USER_HOME$/projects/anpi/admin/src/anpi/view/training.clj" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/anpi/admin/src/anpi/view/training.clj" />
-      <jump line="119" column="5" filename="$USER_HOME$/projects/anpi/admin/src/anpi/view/training.clj" />
+      <jump line="120" column="22" filename="$USER_HOME$/projects/anpi/admin/src/anpi/view/training.clj" />
+      <jump line="282" column="6" filename="$USER_HOME$/projects/anpi/admin/src/anpi/view/training.clj" />
+      <jump line="125" column="14" filename="$USER_HOME$/projects/anpi/admin/src/anpi/view/training.clj" />
+      <jump line="123" column="24" filename="$USER_HOME$/projects/anpi/admin/src/anpi/view/training.clj" />
+      <jump line="58" column="11" filename="$USER_HOME$/projects/anpi/admin/src/anpi/handler/training.clj" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/anpi/admin/src/anpi/handler/training.clj" />
+      <jump line="40" column="2" filename="$USER_HOME$/projects/anpi/admin/src/anpi/handler/training.clj" />
+      <jump line="80" column="6" filename="$USER_HOME$/projects/anpi/admin/src/anpi/handler/training.clj" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIF8gKGNsb2p1cmUucHByaW50L3BwcmludCBwYXJzZWQpCg==</text>
+        <text encoding="base64">ICAoY2xvanVyZS5wcHJpbnQvcHByaW50IHBhcmFtcykK</text>
       </register>
       <register name="-" type="4">
-        <text>{:as params :keys [training-date mail-title mail-content]}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJ0aWNpcGFudFw+</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">KGxldCBbb2xkZXN0LWF0ICh1ZC8tPnNxbC10aW1lc3RhbXAgb2xkZXN0LWF0KQogICAgICAgICBjb21tZW50cysxIChkb21haW4vZmluZC1tZXNzYWdlLXJlc3BvbnNlIGRiIG1lc3NhZ2UtaWQgZGVsZXRlZC1zdWZmaXgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7Om9sZGVzdC1hdCBvbGRlc3QtYXQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOmxpbWl0IChpbmMgbGltaXQpfSkKICAgICAgICAgY29tbWVudHMgKHRha2UgbGltaXQgY29tbWVudHMrMSldCiAgICAgezpjb21tZW50cyBjb21tZW50cwogICAgICA6b2xkZXN0LWF0ICh1ZC8tPnVuaXgtdGltZXN0YW1wICg6Y3JlYXRlZC1hdCAobGFzdCBjb21tZW50cykpKQogICAgICA6bW9yZS1leGlzdHMgKD4gKGNvdW50IGNvbW1lbnRzKzEpIGxpbWl0KQogICAgICA6bWVzc2FnZS1pZCBtZXNzYWdlLWlkfSk=</text>
+        <text>{:fields [{:name :csv-file :type :file :label &quot;CSVファイル&quot; :accept &quot;.csv&quot;}
+            {:name :is-utf8? :type :hidden :datatype :boolean}]
+   :validations [[:required [:csv-file] &quot;CSVファイルを選択してください&quot;]]
+   :values {:is-utf8? false}
+   :problems (vec (:problems req))
+   :enctype &quot;multipart/form-data&quot;
+   :submit-label &quot;次に、ファイルの中身を確認する&quot;
+   :cancel-href (r/href req :main/home)
+   :cancel-label &quot;キャンセルする&quot;
+   :renderer :bootstrap3-stacked}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIF8gKGNsb2p1cmUucHByaW50L3BwcmludCBwYXJzZWQpCg==</text>
+        <text encoding="base64">ICAoY2xvanVyZS5wcHJpbnQvcHByaW50IHBhcmFtcykK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgKG1lcmdlIChzZXJ2aWNlL2ZldGNoLW5ldy1wYXJ0aWNpcGFudC1jYW5kaWRhdGUgKDpkYiBzdGF0ZXMpICg6aWQgcGFyYW1zKSkpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CihkZWZuIG5ldy1wYXJ0aWNpcGFudAogICLmlrDjgZfjgYTlj4LliqDogIXjgpLov73liqDjgZnjgovjg5Xjgqnjg7zjg6AiCiAgW3s6a2V5cyBbdmFsdWVzIHByb2JsZW1zXX1dCiAgezpmaWVsZHMgW3s6bmFtZSA6Y3N2LWZpbGUgOnR5cGUgOmZpbGUgOmxhYmVsICJDU1bjg5XjgqHjgqTjg6siIDphY2NlcHQgIi5jc3YifV0KICAgOnZhbGlkYXRpb25zIFtbOnJlcXVpcmVkIFs6Y3N2LWZpbGVdICJDU1bjg5XjgqHjgqTjg6vjgpLpgbjmip7jgZfjgabjgY/jgaDjgZXjgYQiXV0KICAgOnZhbHVlcyB7</text>
+      </register>
+      <register name="5" type="4">
+        <text>{:fields [{:name :training-date :type :date-picker :datatype :str
+             :required true
+             :label &quot;予定日&quot;}
+            {:name :mail-title :type :text
+             :datatype :str :required true
+             :label &quot;標題&quot;}
+            {:name :mail-content :type :textarea
+             :datatype :str :rows 5 :required true
+             :label &quot;本文&quot;}]
+   :validations [[:required [:training-date :mail-title :mail-content] &quot;必須入力項目です&quot;]
+                 [:max-length 256 [:mail-title] &quot;標題は256文字以内で入力してください&quot;]
+                 [:max-length 3000 [:mail-content] &quot;本文は3000文字以内で入力してください&quot;]]
+   :values (or values
+               {:training-date (str (ud/today))})
+   :problems problems
+   :submit-label &quot;新しい一斉訓練予定を追加する&quot;
+   :renderer :bootstrap3-stacked}</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIF8gKGNsb2p1cmUucHByaW50L3BwcmludCBwYXJzZWQpCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="3" type="4">
+      <register name="8" type="4">
         <text>{:pre [(= (class training-date) java.time.LocalDate)
          (seq mail-title)
          (seq mail-content)]}</text>
       </register>
-      <register name="4" type="4">
+      <register name="9" type="4">
         <text>:require [anpi.aws.sqs :as sqs]
             [anpi.constant.job :as job]
             [anpi.core.common.validation :as cv]
@@ -189,24 +259,8 @@
             [clojure.set :as set]
             [clojure.tools.logging :as log]</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW2FucGkuY29tcG9uZW50LnRyYW5zbGF0ZSA6YXMgdHJdCg==</text>
-      </register>
-      <register name="6" type="4">
-        <text>find-member-by-message-id db msg-id)
-       (map :member-i</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIDxkaXYgaWQ9ImhlYWRlciI+CiAgICAgIDxuYXYgY2xhc3M9Im5hdmJhciBuYXZiYXItZGVmYXVsdCBtZW51LW5hdmJhciBub24tbWVudS1uYXZiYXIiPgogICAgICAgIDxkaXYgY2xhc3M9ImNvbnRhaW5lci1mbHVpZCI+CiAgICAgICAgICA8ZGl2IGNsYXNzPSJuYXZiYXItaGVhZGVyIj4KICAgICAgICAgICAgPHNwYW4gY2xhc3M9Im5hdmJhci1icmFuZCI+5a6J5ZCm56K66KqN44K144O844OT44K577ySPC9zcGFuPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvbmF2PgogICAgPC9kaXY+Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">CgogICAgPGRpdiBpZD0iaGVhZGVyIj4KICAgICAgPG5hdiBjbGFzcz0ibmF2YmFyIG5hdmJhci1kZWZhdWx0IG1lbnUtbmF2YmFyIG5vbi1tZW51LW5hdmJhciI+CiAgICAgICAgPGRpdiBjbGFzcz0iY29udGFpbmVyLWZsdWlkIj4KICAgICAgICAgIDxkaXYgY2xhc3M9Im5hdmJhci1oZWFkZXIiPgogICAgICAgICAgICA8c3BhbiBjbGFzcz0ibmF2YmFyLWJyYW5kIj7lronlkKbnorroqo3jgrXjg7zjg5PjgrnvvJI8L3NwYW4+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgICAgPC9uYXY+CiAgICA8L2Rpdj4KCiAgICA8ZGl2IGlkPSJtYWluIj4KICAgICAgPGRpdiBpZD0iY29udGVudCIgY2xhc3M9ImNvbnRhaW5lci1mbHVpZCI+CiAgICAgICAgPGRpdiBjbGFzcz0ianVtYm90cm9uIj4KICAgICAgICAgIDxoMj7jg6rjgq/jgqjjgrnjg4jjgrXjgqTjgrrjgYzliLbpmZDjgpLotoXjgYjjgabjgYTjgb7jgZk8L2gyPgogICAgICAgICAgPHA+44OV44Kp44O844Og44Gu5YWl5Yqb44KS44GU56K66KqN44GP44Gg44GV44GE44CCPC9wPgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgIDwvZGl2PgoKICAgIDxkaXYgaWQ9ImZvb3RlciI+CiAgICAgIDxkaXYgY2xhc3M9ImNvbnRhaW5lci1mbHVpZCI+CiAgICAgICAgPGRpdiBjbGFzcz0iY29sLXNtLTYiPgogICAgICAgICAgPGEgaHJlZj0iaHR0cDovL2FucGkuY3N0YXAuY29tL2FucGkyL3VwZGF0ZS5odG1sIiB0YXJnZXQ9Il9ibGFuayI+CiAgICAgICAgICAgIOWuieWQpueiuuiqjeOCteODvOODk+OCue+8kiBWZXIuMS4xOS4xNCDCqSBUT1lPS1VNTwogICAgICAgICAgPC9hPgogICAgICAgIDwvZGl2PgogICAgICAgIDxkaXYgY2xhc3M9ImNvbC1zbS02Ij4KICAgICAgICAgIDx1bCBjbGFzcz0ibGlzdC1pbmxpbmUgdGV4dC1yaWdodCI+CiAgICAgICAgICAgIDxsaT48YSBocmVmPSJodHRwczovL2FucGlmYXEuemVuZGVzay5jb20vaGMvamEiIHRhcmdldD0iX2JsYW5rIj7jg5jjg6vjg5c8L2E+PC9saT4KICAgICAgICAgICAgPGxpPjxhIGhyZWY9Imh0dHBzOi8vYW5waS5jc3RhcC5jb20vbWFudWFsX2xpc3QuaHRtbCIgdGFyZ2V0PSJfYmxhbmsiPuODnuODi+ODpeOCouODqzwvYT48L2xpPgogICAgICAgICAgICA8bGk+PGEgaHJlZj0iaHR0cHM6Ly90b3lva3Vtby5jby5qcC9wb2xpY3kiIHRhcmdldD0iX2JsYW5rIj7jg5fjg6njgqTjg5Djgrfjg7zjg53jg6rjgrfjg7w8L2E+PC9saT4KICAgICAgICAgICAgPGxpPjxhIGhyZWY9Imh0dHBzOi8vdmlld2VyLmtpbnRvbmVhcHAuY29tL3B1YmxpYy9pbmRleC12aWV3LzI0NzM/dmlld0NvZGU9MzIxMGVhYmNmODNiMzdkYTEwOGQyNWVlYzZhYTRmMTBiODQ3NDE5NyZwYWdlPTEiIHRhcmdldD0iX2JsYW5rIj7pmpzlrrPmg4XloLE8L2E+PC9saT4KICAgICAgICAgIDwvdWw+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgogICAgPC9kaXY+CgogIA==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIDxkaXYgaWQ9ImhlYWRlciI+CiAgICAgIDxuYXYgY2xhc3M9Im5hdmJhciBuYXZiYXItZGVmYXVsdCBtZW51LW5hdmJhciBub24tbWVudS1uYXZiYXIiPgogICAgICAgIDxkaXYgY2xhc3M9ImNvbnRhaW5lci1mbHVpZCI+CiAgICAgICAgICA8ZGl2IGNsYXNzPSJuYXZiYXItaGVhZGVyIj4KICAgICAgICAgICAgPHNwYW4gY2xhc3M9Im5hdmJhci1icmFuZCI+5a6J5ZCm56K66KqN44K144O844OT44K577ySPC9zcGFuPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvbmF2PgogICAgPC9kaXY+Cg==</text>
-      </register>
       <register name=":" type="4">
-        <text>120</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -247,6 +301,7 @@
         <entry>marks</entry>
         <entry>q</entry>
         <entry>120</entry>
+        <entry>w</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
