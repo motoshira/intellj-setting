@@ -56,22 +56,22 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/anpi/db/src/anpi/db/entity/training_company.clj" timestamp="1563171493411">
+      <file name="$USER_HOME$/projects/anpi/db/src/anpi/db/entity/training_company.clj" timestamp="1563173102378">
         <mark key="'" line="17" column="24" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="21" column="74" />
-        <mark key="." line="2" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="/REPL.clj" timestamp="1563164057493">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" timestamp="1563171969561">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="173" column="22" />
-        <mark key="]" line="178" column="19" />
-        <mark key="^" line="178" column="19" />
-        <mark key="." line="178" column="19" />
+      <file name="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" timestamp="1563173561185">
+        <mark key="'" line="168" column="34" />
+        <mark key="[" line="172" column="21" />
+        <mark key="]" line="173" column="28" />
+        <mark key="^" line="173" column="28" />
+        <mark key="." line="173" column="28" />
       </file>
       <file name="$USER_HOME$/projects/anpi/web/src/anpi/form/system_setting/csv_import.clj" timestamp="1563167629353">
         <mark key="[" line="79" column="2" />
@@ -101,8 +101,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/util/form.clj" />
-      <jump line="88" column="57" filename="$USER_HOME$/projects/anpi/web/src/anpi/util/form.clj" />
       <jump line="32" column="36" filename="$USER_HOME$/projects/anpi/web/src/anpi/util/form.clj" />
       <jump line="22" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/util/form.clj" />
       <jump line="23" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/util/form.clj" />
@@ -201,13 +199,15 @@
       <jump line="18" column="24" filename="$USER_HOME$/projects/anpi/db/src/anpi/db/entity/training_company.clj" />
       <jump line="165" column="8" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
+      <jump line="179" column="69" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
+      <jump line="168" column="34" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgZXJyIFtdCg==</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>rest</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjc3ZcPg==</text>
@@ -224,32 +224,34 @@
    :cancel-label &quot;キャンセルする&quot;
    :renderer :bootstrap3-stacked}</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgZXJyIFtdCg==</text>
+      <register name="1" type="4">
+        <text>rows (map-indexed (fn [i [code hour]]
+                            {:row i :code code :hour hour})
+                          csv)</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgZXJyIFtdCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KFtbcm93IDphcyByZXN0XSBbMSAyIDNdXQogIHJlc3QpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAobGV0IFtyb3dzIChtYXAtaW5kZXhlZCAoZm4gW2kgW2NvZGUgaG91cl1dCg==</text>
+        <text encoding="base64">KFtbcm93IDphcyByZXN0XSBbMSAyIDNdXQogIHJlc3QpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW2FucGkuZGIuZW50aXR5LmNvbW1vbiA6YXMgY29tbW9uXQo=</text>
+        <text encoding="base64">ICAobGV0IFtyb3dzIChtYXAtaW5kZXhlZCAoZm4gW2kgW2NvZGUgaG91cl1dCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgKGNsb2p1cmUucHByaW50L3BwcmludCBjc3YpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgW2FucGkuZGIuZW50aXR5LmNvbW1vbiA6YXMgY29tbW9uXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIF8gKGNsb2p1cmUucHByaW50L3BwcmludCBwYXJzZWQpCg==</text>
+        <text encoding="base64">ICAgICAgKGNsb2p1cmUucHByaW50L3BwcmludCBjc3YpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIF8gKGNsb2p1cmUucHByaW50L3BwcmludCBwYXJzZWQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>3</text>
@@ -343,6 +345,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
