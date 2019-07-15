@@ -66,15 +66,21 @@
         <mark key="^" line="13" column="30" />
         <mark key="." line="13" column="30" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/clojure/tools.logging/0.4.1/tools.logging-0.4.1.jar!/clojure/tools/logging.clj" timestamp="1563233155594">
+        <mark key="[" line="183" column="3" />
+        <mark key="]" line="183" column="2" />
+        <mark key="^" line="183" column="2" />
+        <mark key="." line="183" column="2" />
+      </file>
       <file name="/REPL.clj" timestamp="1563164057493">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" timestamp="1563176548610">
-        <mark key="'" line="164" column="27" />
-        <mark key="[" line="209" column="35" />
-        <mark key="]" line="209" column="34" />
-        <mark key="^" line="209" column="34" />
-        <mark key="." line="209" column="34" />
+      <file name="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" timestamp="1563233582896">
+        <mark key="'" line="223" column="6" />
+        <mark key="[" line="188" column="40" />
+        <mark key="]" line="188" column="39" />
+        <mark key="^" line="188" column="39" />
+        <mark key="." line="188" column="39" />
       </file>
       <file name="$USER_HOME$/projects/anpi/web/src/anpi/form/system_setting/csv_import.clj" timestamp="1563167629353">
         <mark key="[" line="79" column="2" />
@@ -104,33 +110,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/util/form.clj" />
-      <jump line="71" column="2" filename="$USER_HOME$/projects/anpi/web/src/anpi/util/form.clj" />
-      <jump line="43" column="4" filename="$USER_HOME$/projects/anpi/web/src/anpi/util/form.clj" />
-      <jump line="83" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/util/form.clj" />
-      <jump line="3" column="12" filename="$USER_HOME$/projects/anpi/web/src/anpi/util/form.clj" />
-      <jump line="3" column="3" filename="$USER_HOME$/projects/anpi/lib/src/anpi/component/translate.clj" />
-      <jump line="49" column="9" filename="$USER_HOME$/projects/anpi/web/src/anpi/util/form.clj" />
-      <jump line="22" column="0" filename="$USER_HOME$/projects/anpi/web/eb/production/.ebextensions/nginx/413.html" />
-      <jump line="23" column="4" filename="$USER_HOME$/projects/anpi/web/eb/production/.ebextensions/nginx/413.html" />
-      <jump line="21" column="0" filename="$USER_HOME$/projects/anpi/web/eb/production/.ebextensions/nginx/413.html" />
-      <jump line="40" column="0" filename="$USER_HOME$/projects/anpi/web/eb/production/.ebextensions/nginx/413.html" />
-      <jump line="31" column="0" filename="$USER_HOME$/projects/anpi/web/eb/production/.ebextensions/nginx/413.html" />
-      <jump line="28" column="17" filename="$USER_HOME$/projects/anpi/web/src/anpi/util/form.clj" />
-      <jump line="51" column="27" filename="$USER_HOME$/projects/anpi/web/src/anpi/util/form.clj" />
-      <jump line="72" column="2" filename="$USER_HOME$/projects/anpi/web/src/anpi/state/handler.clj" />
-      <jump line="119" column="10" filename="$MAVEN_REPOSITORY$/functionalbytes/mount-lite/2.1.1/mount-lite-2.1.1.jar!/mount/lite.clj" />
-      <jump line="84" column="6" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/message.clj" />
-      <jump line="86" column="30" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/message.clj" />
-      <jump line="77" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/message.clj" />
-      <jump line="82" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/message.clj" />
-      <jump line="105" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/message.clj" />
-      <jump line="93" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/message.clj" />
-      <jump line="99" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/message.clj" />
-      <jump line="103" column="22" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/message.clj" />
-      <jump line="33" column="6" filename="$USER_HOME$/projects/anpi/db/src/anpi/db/entity/message_member.clj" />
-      <jump line="100" column="20" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/message.clj" />
-      <jump line="285" column="6" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/message.clj" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/message.clj" />
       <jump line="80" column="2" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/message.clj" />
       <jump line="18" column="42" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/message.clj" />
@@ -194,69 +173,96 @@
       <jump line="201" column="33" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
       <jump line="197" column="94" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
       <jump line="370" column="2" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
-      <jump line="190" column="60" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
       <jump line="171" column="42" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
       <jump line="199" column="57" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
       <jump line="165" column="3" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
       <jump line="168" column="66" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
       <jump line="172" column="47" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
       <jump line="209" column="34" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
-      <jump line="210" column="34" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
-      <jump line="164" column="27" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
+      <jump line="188" column="54" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
+      <jump line="210" column="18" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
+      <jump line="162" column="44" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
+      <jump line="185" column="55" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
+      <jump line="203" column="86" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
+      <jump line="186" column="18" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
+      <jump line="204" column="37" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
+      <jump line="193" column="30" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
+      <jump line="178" column="30" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
+      <jump line="176" column="27" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
+      <jump line="175" column="14" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
+      <jump line="194" column="45" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
+      <jump line="62" column="32" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
+      <jump line="58" column="11" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
+      <jump line="56" column="32" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
+      <jump line="51" column="0" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
+      <jump line="63" column="0" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
+      <jump line="64" column="0" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
+      <jump line="87" column="0" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
+      <jump line="88" column="0" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
+      <jump line="90" column="27" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
+      <jump line="97" column="0" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
+      <jump line="98" column="3" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
+      <jump line="128" column="1" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
+      <jump line="125" column="1" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
+      <jump line="121" column="1" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
+      <jump line="190" column="0" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
+      <jump line="198" column="55" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
+      <jump line="164" column="8" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
+      <jump line="223" column="6" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICh0aHJvdyAoZXgtaW5mbyAiQ1NWIGlzIGVtcHR5IiB7OnByb2JsZW1zIFt7OmtleXMgW10gOm1zZyAiQ1NW44OV44Kh44Kk44Or44GM56m644Gn44GZIn1dfSkpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>(empty</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>db</text>
+        <text>add</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">XkxvY2FsRGF0ZVRpbWUgdHJhaW5pbmctZGF0ZSAoc29tZS0+ICh0cmFpbmluZy9maW5kLWJ5LWlkIGRiIGlkKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDp0cmFpbmluZy1kYXRlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdWQvLT5sb2NhbC1kYXRlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdWQvLT5sb2NhbC1kYXRldGltZSk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICh0aHJvdyAoZXgtaW5mbyAiQ1NWIGlzIGVtcHR5IiB7OnByb2JsZW1zIFt7OmtleXMgW10gOm1zZyAiQ1NW44OV44Kh44Kk44Or44GM56m644Gn44GZIn1dfSkpKQo=</text>
+        <text encoding="base64">CihkZWZtYWNybyBpbmZvCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAod2hlbiA/IGNzdikK</text>
+        <text encoding="base64">ICAgICh0aHJvdyAoZXgtaW5mbyAiQ1NWIGlzIGVtcHR5IiB7OnByb2JsZW1zIFt7OmtleXMgW10gOm1zZyAiQ1NW44OV44Kh44Kk44Or44GM56m644Gn44GZIn1dfSkpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAod2hlbiA/IGNzdikKICAgICh0aHJvdyAoZXgtaW5mbyAiQ1NWIGlzIGVtcHR5IiB7OnByb2JsZW1zIFt7OmtleXMgW10gOm1zZyAiQ1NW44OV44Kh44Kk44Or44GM56m644Gn44GZIn1dfSkpKQogIChsZXQgW15Mb2NhbERhdGVUaW1lIHRyYWluaW5nLWRhdGUgKHNvbWUtPiAodHJhaW5pbmcvZmluZC1ieS1pZCBkYiB0cmFpbmluZy1pZCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOnRyYWluaW5nLWRhdGUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdWQvLT5sb2NhbC1kYXRlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVkLy0+bG9jYWwtZGF0ZXRpbWUpCiAgICAgICAgY29tcGFueS1tYXAgKC0+PiAoY29tcGFueS9maW5kLWNvbXBhbnkgZGIpCiAgICAgICAgICAgICAgICAgICAgICAgICAocmVkdWNlICMoYXNzb2MgJTEgKDpjb2RlICUyKSAoOmlkICUyKSkge30pKQogICAgICAgIFtlcnJzIHJldHNdIChsb29wIFtpIDEKICAgICAgICAgICAgICAgICAgICAgICAgICAgW3JvdyA6YXMgcm93c10gY3N2CiAgICAgICAgICAgICAgICAgICAgICAgICAgIGVycnMgW10KICAgICAgICAgICAgICAgICAgICAgICAgICAgY29tcGFueS1pZHMgI3t9CiAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHMgW11dCiAgICAgICAgICAgICAgICAgICAgICAoaWYtbm90IHJvdwogICAgICAgICAgICAgICAgICAgICAgICBbZXJycyByZXRzXQogICAgICAgICAgICAgICAgICAgICAgICAobGV0IFtbY29kZSBob3VyXSByb3cKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29tcGFueS1pZCAoZ2V0IGNvbXBhbnktbWFwIGNvZGUpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVyciAoY29uZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAobm90IChnZXQgY29tcGFueS1tYXAgY29kZSkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHs6a2V5cyBbOmNzdi1maWxlXSA6bXNnIChzdHIgaSAi6KGM55uuOiDlrZjlnKjjgZfjgarjgYTjg4fjgqPjg6zjgq/jg4jjg6rjgafjgZkiKX0KCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChjb250YWlucz8gY29tcGFueS1pZHMgY29tcGFueS1pZCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgezprZXlzIFs6Y3N2LWZpbGVdIDptc2cgKHN0ciBpICLooYznm646IOmHjeikh+OBl+OBn+ODh+OCo+ODrOOCr+ODiOODquOBp+OBmSIpfQoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKG5vdCAoTnVtYmVyVXRpbHMvaXNOdW1iZXIgaG91cikpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHs6a2V5cyBbOmNzdi1maWxlXSA6bXNnIChzdHIgaSAi6KGM55uuOiDmmYLliLvjgYzmlbDlgKTjgafjga/jgYLjgorjgb7jgZvjgpMiKX0KCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDplbHNlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5pbCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0ICh3aGVuLW5vdCBlcnIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRjL21hcC0+VHJhaW5pbmdDb21wYW55CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7OnRyYWluaW5nLWlkIHRyYWluaW5nLWlkCg==</text>
+        <text encoding="base64">ICAod2hlbiA/IGNzdikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBfICh0aHJvdyAoZXgtaW5mbyAiaW52YWxpZCB0cmFpbmluZyIgezpwcm9ibGVtcyBbezp9XX0pKQo=</text>
+        <text encoding="base64">ICAod2hlbiA/IGNzdikKICAgICh0aHJvdyAoZXgtaW5mbyAiQ1NWIGlzIGVtcHR5IiB7OnByb2JsZW1zIFt7OmtleXMgW10gOm1zZyAiQ1NW44OV44Kh44Kk44Or44GM56m644Gn44GZIn1dfSkpKQogIChsZXQgW15Mb2NhbERhdGVUaW1lIHRyYWluaW5nLWRhdGUgKHNvbWUtPiAodHJhaW5pbmcvZmluZC1ieS1pZCBkYiB0cmFpbmluZy1pZCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOnRyYWluaW5nLWRhdGUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdWQvLT5sb2NhbC1kYXRlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVkLy0+bG9jYWwtZGF0ZXRpbWUpCiAgICAgICAgY29tcGFueS1tYXAgKC0+PiAoY29tcGFueS9maW5kLWNvbXBhbnkgZGIpCiAgICAgICAgICAgICAgICAgICAgICAgICAocmVkdWNlICMoYXNzb2MgJTEgKDpjb2RlICUyKSAoOmlkICUyKSkge30pKQogICAgICAgIFtlcnJzIHJldHNdIChsb29wIFtpIDEKICAgICAgICAgICAgICAgICAgICAgICAgICAgW3JvdyA6YXMgcm93c10gY3N2CiAgICAgICAgICAgICAgICAgICAgICAgICAgIGVycnMgW10KICAgICAgICAgICAgICAgICAgICAgICAgICAgY29tcGFueS1pZHMgI3t9CiAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHMgW11dCiAgICAgICAgICAgICAgICAgICAgICAoaWYtbm90IHJvdwogICAgICAgICAgICAgICAgICAgICAgICBbZXJycyByZXRzXQogICAgICAgICAgICAgICAgICAgICAgICAobGV0IFtbY29kZSBob3VyXSByb3cKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29tcGFueS1pZCAoZ2V0IGNvbXBhbnktbWFwIGNvZGUpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVyciAoY29uZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAobm90IChnZXQgY29tcGFueS1tYXAgY29kZSkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHs6a2V5cyBbOmNzdi1maWxlXSA6bXNnIChzdHIgaSAi6KGM55uuOiDlrZjlnKjjgZfjgarjgYTjg4fjgqPjg6zjgq/jg4jjg6rjgafjgZkiKX0KCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChjb250YWlucz8gY29tcGFueS1pZHMgY29tcGFueS1pZCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgezprZXlzIFs6Y3N2LWZpbGVdIDptc2cgKHN0ciBpICLooYznm646IOmHjeikh+OBl+OBn+ODh+OCo+ODrOOCr+ODiOODquOBp+OBmSIpfQoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKG5vdCAoTnVtYmVyVXRpbHMvaXNOdW1iZXIgaG91cikpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHs6a2V5cyBbOmNzdi1maWxlXSA6bXNnIChzdHIgaSAi6KGM55uuOiDmmYLliLvjgYzmlbDlgKTjgafjga/jgYLjgorjgb7jgZvjgpMiKX0KCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDplbHNlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5pbCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0ICh3aGVuLW5vdCBlcnIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKHRjL21hcC0+VHJhaW5pbmdDb21wYW55CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7OnRyYWluaW5nLWlkIHRyYWluaW5nLWlkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDp0cmFpbmluZy1hdCAoLnBsdXNIb3VyIHRyYWluaW5nLWRhdGUgKEludGVnZXIvcGFyc2VJbnQgaG91cikpCg==</text>
+        <text encoding="base64">ICAgICAgICBfICh0aHJvdyAoZXgtaW5mbyAiaW52YWxpZCB0cmFpbmluZyIgezpwcm9ibGVtcyBbezp9XX0pKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDp0cmFpbmluZy1hdCAoLnBsdXNIb3VyIHRyYWluaW5nLWRhdGUgKEludGVnZXIvcGFyc2VJbnQgaG91cikpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAodWQvLT5sb2NhbC1kYXRldGltZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAod2hlbi1sZXQgW10pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAodWQvLT5sb2NhbC1kYXRldGltZSkK</text>
       </register>
       <register name=":" type="4">
-        <text>3</text>
+        <text>199</text>
       </register>
     </registers>
     <search>
-      <last-search>db</last-search>
+      <last-search>add</last-search>
       <last-offset />
-      <last-pattern>db</last-pattern>
+      <last-pattern>add</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx2aWV3XD4=</last-substitute>
-      <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>-1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -270,21 +276,22 @@
         <entry encoding="base64">XDxjc3ZcPg==</entry>
         <entry>plusHour</entry>
         <entry>db</entry>
+        <entry encoding="base64">XDxpc051bWJlclw+</entry>
+        <entry encoding="base64">XDxpZHNcPg==</entry>
+        <entry>recour</entry>
+        <entry>ret</entry>
+        <entry>training</entry>
+        <entry>defn</entry>
+        <entry>add-</entry>
+        <entry>remove</entry>
+        <entry>add</entry>
       </history-search>
       <history-cmd>
-        <entry>version</entry>
-        <entry>1</entry>
-        <entry>10</entry>
-        <entry>78</entry>
-        <entry>find</entry>
-        <entry>find handler</entry>
-        <entry>jumps</entry>
         <entry>d65</entry>
         <entry>d 66</entry>
         <entry>d84,</entry>
         <entry>13</entry>
         <entry>23</entry>
-        <entry>x</entry>
         <entry>h</entry>
         <entry>h gU</entry>
         <entry>marks</entry>
@@ -292,6 +299,14 @@
         <entry>120</entry>
         <entry>w</entry>
         <entry>3</entry>
+        <entry>noh</entry>
+        <entry>action</entry>
+        <entry>x</entry>
+        <entry>source ~/ideavimrc</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>action CloseContent</entry>
+        <entry>18i9</entry>
+        <entry>199</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
