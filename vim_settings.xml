@@ -13,6 +13,9 @@
         <mark key="." line="23" column="64" />
         <mark key="^" line="23" column="64" />
       </file>
+      <file name="/Dummy.txt" timestamp="1563173932829">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/anpi/db/src/anpi/db/domain/training.clj" timestamp="1563165101421">
         <mark key="[" line="69" column="6" />
         <mark key="]" line="69" column="7" />
@@ -66,12 +69,11 @@
       <file name="/REPL.clj" timestamp="1563164057493">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" timestamp="1563173561185">
-        <mark key="'" line="168" column="34" />
-        <mark key="[" line="172" column="21" />
-        <mark key="]" line="173" column="28" />
-        <mark key="^" line="173" column="28" />
-        <mark key="." line="173" column="28" />
+      <file name="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" timestamp="1563174289798">
+        <mark key="[" line="185" column="39" />
+        <mark key="]" line="185" column="40" />
+        <mark key="." line="185" column="40" />
+        <mark key="^" line="189" column="36" />
       </file>
       <file name="$USER_HOME$/projects/anpi/web/src/anpi/form/system_setting/csv_import.clj" timestamp="1563167629353">
         <mark key="[" line="79" column="2" />
@@ -101,9 +103,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="36" filename="$USER_HOME$/projects/anpi/web/src/anpi/util/form.clj" />
-      <jump line="22" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/util/form.clj" />
-      <jump line="23" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/util/form.clj" />
       <jump line="24" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/util/form.clj" />
       <jump line="27" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/util/form.clj" />
       <jump line="33" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/util/form.clj" />
@@ -198,60 +197,58 @@
       <jump line="62" column="0" filename="$USER_HOME$/projects/anpi/admin/src/anpi/handler/training.clj" />
       <jump line="18" column="24" filename="$USER_HOME$/projects/anpi/db/src/anpi/db/entity/training_company.clj" />
       <jump line="165" column="8" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
       <jump line="179" column="69" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
       <jump line="168" column="34" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
+      <jump line="189" column="31" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
+      <jump line="192" column="5" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
+      <jump line="184" column="45" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>(recur (inc i)
+                           (rest rows)
+                           err
+                           ret)</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text encoding="base64">IDEyIDE=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjc3ZcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>{:fields [{:name :csv-file :type :file :label &quot;CSVファイル&quot; :accept &quot;.csv&quot;}
-            {:name :is-utf8? :type :hidden :datatype :boolean}]
-   :validations [[:required [:csv-file] &quot;CSVファイルを選択してください&quot;]]
-   :values {:is-utf8? false}
-   :problems (vec (:problems req))
-   :enctype &quot;multipart/form-data&quot;
-   :submit-label &quot;次に、ファイルの中身を確認する&quot;
-   :cancel-href (r/href req :main/home)
-   :cancel-label &quot;キャンセルする&quot;
-   :renderer :bootstrap3-stacked}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChjb25qIGVyciB7OmtleXMgWzpjc3YtZmlsZV0gOm1zZyAoc3RyIGkgIuihjOebrjog5a2Y5Zyo44GX44Gq44GE44OH44Kj44Os44Kv44OI44Oq44Gn44GZIil9KQo=</text>
       </register>
       <register name="1" type="4">
-        <text>rows (map-indexed (fn [i [code hour]]
-                            {:row i :code code :hour hour})
-                          csv)</text>
+        <text>(recur (inc i)
+                           (rest rows)
+                           err
+                           ret)</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgZXJyIFtdCg==</text>
+        <text encoding="base64">ICAgICAgICByb3dzIChtYXAtaW5kZXhlZCAoZm4gW2kgW2NvZGUgaG91cl1dCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB7OnJvdyAoaW5jIGkpIDpjb2RlIGNvZGUgOmhvdXIgaG91cn0pCiAgICAgICAgICAgICAgICAgICAgICAgICAgY3N2KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByb3dzIChtYXAtaW5kZXhlZCAoZm4gW2kgW2NvZGUgaG91cl1dCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB7OnJvdyAoaW5jIGkpIDpjb2RlIGNvZGUgOmhvdXIgaG91cn0pCiAgICAgICAgICAgICAgICAgICAgICAgICAgY3N2KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByb3dzIChtYXAtaW5kZXhlZCAoZm4gW2kgW2NvZGUgaG91cl1dCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB7OnJvdyAoaW5jIGkpIDpjb2RlIGNvZGUgOmhvdXIgaG91cn0pCiAgICAgICAgICAgICAgICAgICAgICAgICAgY3N2KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KFtbcm93IDphcyByZXN0XSBbMSAyIDNdXQogIHJlc3QpCg==</text>
+        <text encoding="base64">ICAgICAgICByb3dzIChtYXAtaW5kZXhlZCAoZm4gW2kgW2NvZGUgaG91cl1dCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB7OnJvdyAoaW5jIGkpIDpjb2RlIGNvZGUgOmhvdXIgaG91cn0pCiAgICAgICAgICAgICAgICAgICAgICAgICAgY3N2KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAobGV0IFtyb3dzIChtYXAtaW5kZXhlZCAoZm4gW2kgW2NvZGUgaG91cl1dCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW2FucGkuZGIuZW50aXR5LmNvbW1vbiA6YXMgY29tbW9uXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgKGNsb2p1cmUucHByaW50L3BwcmludCBjc3YpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIF8gKGNsb2p1cmUucHByaW50L3BwcmludCBwYXJzZWQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>3</text>
