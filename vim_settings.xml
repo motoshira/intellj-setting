@@ -43,13 +43,19 @@
         <mark key="[" line="291" column="1" />
         <mark key="]" line="291" column="1" />
       </file>
+      <file name="$USER_HOME$/projects/anpi/web/src/anpi/handler/system_setting/branch_manager.clj" timestamp="1563269510091">
+        <mark key="'" line="24" column="13" />
+      </file>
+      <file name="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" timestamp="1563269522311">
+        <mark key="'" line="251" column="0" />
+        <mark key="[" line="534" column="34" />
+        <mark key="]" line="251" column="0" />
+        <mark key="." line="251" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/anpi/admin/test/anpi/service/company_test.clj" timestamp="1563246576972">
         <mark key="'" line="492" column="0" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="4" column="74" />
-      </file>
-      <file name="/REPL.clj" timestamp="1563164057493">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/anpi/admin/test/anpi/service/training_test.clj" timestamp="1563246826282">
         <mark key="'" line="51" column="12" />
@@ -73,13 +79,9 @@
         <mark key="." line="23" column="64" />
         <mark key="^" line="23" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563173932829">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/anpi/web/src/anpi/state/handler.clj" timestamp="1563087001990">
         <mark key="'" line="72" column="2" />
       </file>
-      <file name="$USER_HOME$/projects/anpi/db/src/anpi/db/entity/company.clj" timestamp="1563170939623" />
       <file name="$USER_HOME$/projects/anpi/lib/src/anpi/util/datetime.clj" timestamp="1563240284762">
         <mark key="'" line="150" column="35" />
         <mark key="[" line="167" column="57" />
@@ -92,8 +94,17 @@
         <mark key="]" line="169" column="10" />
         <mark key="." line="169" column="9" />
       </file>
+      <file name="$USER_HOME$/projects/anpi/web/src-cljs/anpi/main.cljs" timestamp="1563270066346">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+        <mark key="^" line="49" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/anpi/worker/src/anpi/service/training.clj" timestamp="1563241537291">
         <mark key="'" line="10" column="52" />
+      </file>
+      <file name="$USER_HOME$/projects/anpi/web/src/anpi/handler/system_setting/branch_risk_manager.clj" timestamp="1563268781335">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/anpi/db/src/anpi/db/entity/training_company.clj" timestamp="1563242042649">
         <mark key="'" line="17" column="24" />
@@ -132,10 +143,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="0" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
-      <jump line="134" column="0" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
-      <jump line="14" column="0" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
-      <jump line="21" column="0" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
       <jump line="24" column="0" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
       <jump line="26" column="0" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
       <jump line="29" column="0" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
@@ -232,13 +239,17 @@
       <jump line="62" column="0" filename="$USER_HOME$/projects/anpi/admin/src/anpi/handler/training.clj" />
       <jump line="79" column="0" filename="$USER_HOME$/projects/anpi/admin/src/anpi/handler/training.clj" />
       <jump line="72" column="0" filename="$USER_HOME$/projects/anpi/admin/src/anpi/handler/training.clj" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/handler/system_setting/branch_risk_manager.clj" />
+      <jump line="493" column="8" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
+      <jump line="251" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
+      <jump line="24" column="13" filename="$USER_HOME$/projects/anpi/web/src/anpi/handler/system_setting/branch_manager.clj" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">KHdoaWNoLWhhbmRsZXIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbnBpXD4=</text>
@@ -247,34 +258,34 @@
         <text encoding="base64">ICAgICAgICAgICAgW2FucGkubGliLnRlc3QtaGVscGVyIDphcyB0aCA6cmVmZXIgW2xldC10ZXN0LWRhdGFdXQogICAgICAgICAgICBbYW5waS50ZXN0LWhlbHBlciA6cmVmZXIgW3dpdGgtc3luYy10ZXN0LXN0YXRlIHNldHVwLXRlc3QtZGJdXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW2FucGkudGVzdC1oZWxwZXIgOnJlZmVyIFt3aXRoLXRlc3QtZGJdXQo=</text>
+        <text encoding="base64">KHdoaWNoLWhhbmRsZXIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW2FucGkubGliLnRlc3QtaGVscGVyIDpyZWZlciBbbGV0LXRlc3QtZGF0YV1dCg==</text>
+        <text encoding="base64">KHJvdXRpbmcvbWF0Y2gtcm91dGUgKC4tcGF0aG5hbWUganMvbG9jYXRpb24pIHs6cmVxdWVzdC1tZXRob2QgOmdldH0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW2FucGkudGVzdC1oZWxwZXIgOnJlZmVyIFt3aXRoLXRlc3QtZGJdXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW2FucGkudGVzdC1oZWxwZXIgOnJlZmVyIFt3aXRoLXRlc3QtZGJdXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KHMvZGVmbiByZXZva2UtYWxsLWJyYW5jaC1tYW5hZ2VycwogIFtkYiBici1yb2xlcyBjb21wYW55LWlkIDotIHMvSW50XQogIChsZXQgW20taWRzIChtYXAgOmlkIGJyLXJvbGVzKQogICAgICAgIHJvbGUtaWRzIChtYXAgIyhnZXQtaW4gJSBbOm1lbWJlci1yb2xlIDptZW1iZXItcm9sZS1pZF0pCiAgICAgICAgICAgICAgICAgICAgICBici1yb2xlcyldCiAgICAod2hlbiAoYW5kIChzZXEgbS1pZHMpIChzZXEgcm9sZS1pZHMpKQogICAgICAoYXNzZXJ0LWJlZm9yZS1tYW5hZ2VyLXJlbW92YWwgZGIgY29tcGFueS1pZCBici1yb2xlcykKICAgICAgKGJ1bGstcmV2b2tlLXJvbGVzIGRiIHJvbGUtaWRzKSkpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KGRlZm4gciAgZXBsYWNlLXRyYWluaW5nLWNvbXBhbnkgW2RiIHRyYWluaW5nLWlkIHRyYWluaW5nLWNvbXBhaWVzXQogIChkYi93aXRoLWRiLXRyYW5zYWN0aW9uIFtkYiBkYl0KICAgICh0Yy9kZWxldGUtYnktdHJhaW5pbmctaWQgZGIgdHJhaW5pbmctaWQpCiAgICAoLT4+IHRyYWluaW5nLWNvbXBhaWVzCiAgICAgICAgIChtYXAgIygtPiAlCiAgICAgICAgICAgICAgICAgICAoYXNzb2MgOnRyYWluaW5nLWlkIHRyYWluaW5nLWlkKQogICAgICAgICAgICAgICAgICAgKHVwZGF0ZSA6dHJhaW5pbmctYXQgdWQvLT5zcWwtdGltZXN0YW1wKSkpCiAgICAgICAgICh0Yy9idWxrLWluc2VydCBkYikpKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgW2FucGkudGVzdC1oZWxwZXIgOnJlZmVyIFt3aXRoLXRlc3QtZGJdXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgW2FucGkubGliLnRlc3QtaGVscGVyIDpyZWZlciBbbGV0LXRlc3QtZGF0YV1dCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgW2FucGkudGVzdC1oZWxwZXIgOnJlZmVyIFt3aXRoLXRlc3QtZGJdXQo=</text>
       </register>
       <register name=":" type="4">
-        <text>80</text>
+        <text>x</text>
       </register>
     </registers>
     <search>
@@ -323,13 +334,13 @@
         <entry>199</entry>
         <entry>27</entry>
         <entry>nohj</entry>
-        <entry>x</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action CloseContent</entry>
         <entry>158</entry>
         <entry>w</entry>
-        <entry>noh</entry>
         <entry>80</entry>
+        <entry>noh</entry>
+        <entry>x</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
