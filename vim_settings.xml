@@ -4,10 +4,10 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/projects/anpi/db/src/anpi/db/domain/training.clj" timestamp="1563245094803">
-        <mark key="'" line="269" column="0" />
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
+        <mark key="'" line="295" column="0" />
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="." line="112" column="0" />
       </file>
       <file name="$USER_HOME$/projects/anpi/admin/src/anpi/view/training.clj" timestamp="1563249073893">
         <mark key="'" line="117" column="24" />
@@ -35,10 +35,6 @@
       </file>
       <file name="$USER_HOME$/projects/anpi/db/test/anpi/db/test_helper.clj" timestamp="1563234796537">
         <mark key="'" line="79" column="12" />
-        <mark key="[" line="923" column="44" />
-        <mark key="]" line="923" column="45" />
-        <mark key="^" line="923" column="45" />
-        <mark key="." line="923" column="45" />
       </file>
       <file name="$USER_HOME$/projects/anpi/lib/src/anpi/component/translate.clj" timestamp="1563083151437">
         <mark key="'" line="3" column="3" />
@@ -63,11 +59,9 @@
         <mark key="." line="53" column="16" />
       </file>
       <file name="$USER_HOME$/projects/anpi/admin/src/anpi/handler/training.clj" timestamp="1563263315138">
-        <mark key="'" line="72" column="0" />
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="^" line="68" column="49" />
-        <mark key="." line="86" column="0" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
       </file>
       <file name="$USER_HOME$/projects/anpi/web/src/anpi/handler/system_setting/csv_import.clj" timestamp="1563169469074">
         <mark key="'" line="0" column="0" />
@@ -93,6 +87,11 @@
         <mark key="." line="178" column="48" />
         <mark key="^" line="178" column="48" />
       </file>
+      <file name="$USER_HOME$/projects/anpi/db/src/anpi/db/entity/member_role.clj" timestamp="1563268104859">
+        <mark key="[" line="169" column="9" />
+        <mark key="]" line="169" column="10" />
+        <mark key="." line="169" column="9" />
+      </file>
       <file name="$USER_HOME$/projects/anpi/worker/src/anpi/service/training.clj" timestamp="1563241537291">
         <mark key="'" line="10" column="52" />
       </file>
@@ -110,10 +109,10 @@
         <mark key="." line="183" column="2" />
       </file>
       <file name="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" timestamp="1563245096825">
-        <mark key="'" line="414" column="0" />
-        <mark key="]" line="414" column="0" />
-        <mark key="." line="414" column="0" />
-        <mark key="^" line="414" column="0" />
+        <mark key="'" line="395" column="0" />
+        <mark key="]" line="395" column="0" />
+        <mark key="." line="395" column="0" />
+        <mark key="^" line="395" column="0" />
       </file>
       <file name="$USER_HOME$/projects/anpi/web/src/anpi/form/system_setting/csv_import.clj" timestamp="1563167629353">
         <mark key="[" line="79" column="2" />
@@ -126,11 +125,10 @@
         <mark key="^" line="86" column="43" />
       </file>
       <file name="$USER_HOME$/projects/anpi/db/src/anpi/db/entity/training.clj" timestamp="1563239983332">
-        <mark key="'" line="26" column="10" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="35" column="21" />
-        <mark key="." line="35" column="0" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="34" column="21" />
+        <mark key="." line="34" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -276,7 +274,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>80</text>
       </register>
     </registers>
     <search>
@@ -312,7 +310,6 @@
         <entry encoding="base64">XDxhbnBpXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>13</entry>
         <entry>23</entry>
         <entry>h</entry>
         <entry>h gU</entry>
@@ -332,6 +329,7 @@
         <entry>158</entry>
         <entry>w</entry>
         <entry>noh</entry>
+        <entry>80</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
