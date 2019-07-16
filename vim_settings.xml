@@ -43,19 +43,19 @@
         <mark key="[" line="291" column="1" />
         <mark key="]" line="291" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/anpi/web/src/anpi/handler/system_setting/branch_manager.clj" timestamp="1563272224609">
-        <mark key="'" line="20" column="7" />
-        <mark key="[" line="80" column="5" />
-        <mark key="]" line="80" column="64" />
-        <mark key="." line="80" column="64" />
-        <mark key="^" line="80" column="64" />
+      <file name="$USER_HOME$/projects/anpi/web/src/anpi/handler/system_setting/branch_manager.clj" timestamp="1563318903409">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="79" column="64" />
       </file>
-      <file name="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" timestamp="1563273264220">
-        <mark key="'" line="393" column="19" />
-        <mark key="[" line="540" column="33" />
-        <mark key="]" line="540" column="32" />
-        <mark key="^" line="540" column="32" />
-        <mark key="." line="540" column="32" />
+      <file name="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" timestamp="1563319310769">
+        <mark key="'" line="216" column="21" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="^" line="539" column="69" />
+        <mark key="." line="93" column="0" />
       </file>
       <file name="$USER_HOME$/projects/anpi/admin/test/anpi/service/company_test.clj" timestamp="1563246576972">
         <mark key="'" line="492" column="0" />
@@ -157,19 +157,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="0" filename="$USER_HOME$/projects/anpi/db/src/anpi/db/domain/training.clj" />
-      <jump line="85" column="0" filename="$USER_HOME$/projects/anpi/db/src/anpi/db/domain/training.clj" />
-      <jump line="87" column="0" filename="$USER_HOME$/projects/anpi/db/src/anpi/db/domain/training.clj" />
-      <jump line="89" column="0" filename="$USER_HOME$/projects/anpi/db/src/anpi/db/domain/training.clj" />
-      <jump line="91" column="0" filename="$USER_HOME$/projects/anpi/db/src/anpi/db/domain/training.clj" />
-      <jump line="113" column="0" filename="$USER_HOME$/projects/anpi/db/src/anpi/db/domain/training.clj" />
-      <jump line="136" column="0" filename="$USER_HOME$/projects/anpi/db/src/anpi/db/domain/training.clj" />
-      <jump line="143" column="0" filename="$USER_HOME$/projects/anpi/db/src/anpi/db/domain/training.clj" />
-      <jump line="156" column="0" filename="$USER_HOME$/projects/anpi/db/src/anpi/db/domain/training.clj" />
-      <jump line="172" column="0" filename="$USER_HOME$/projects/anpi/db/src/anpi/db/domain/training.clj" />
-      <jump line="197" column="0" filename="$USER_HOME$/projects/anpi/db/src/anpi/db/domain/training.clj" />
-      <jump line="203" column="0" filename="$USER_HOME$/projects/anpi/db/src/anpi/db/domain/training.clj" />
-      <jump line="213" column="0" filename="$USER_HOME$/projects/anpi/db/src/anpi/db/domain/training.clj" />
       <jump line="216" column="0" filename="$USER_HOME$/projects/anpi/db/src/anpi/db/domain/training.clj" />
       <jump line="237" column="0" filename="$USER_HOME$/projects/anpi/db/src/anpi/db/domain/training.clj" />
       <jump line="245" column="0" filename="$USER_HOME$/projects/anpi/db/src/anpi/db/domain/training.clj" />
@@ -204,7 +191,6 @@
       <jump line="431" column="13" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
       <jump line="251" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
       <jump line="439" column="13" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
-      <jump line="214" column="17" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
       <jump line="541" column="41" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
       <jump line="162" column="26" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
       <jump line="189" column="54" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
@@ -222,7 +208,6 @@
       <jump line="192" column="3" filename="$USER_HOME$/projects/anpi/db/src/anpi/db/entity/member_role.clj" />
       <jump line="210" column="8" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
       <jump line="460" column="41" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
-      <jump line="542" column="21" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
       <jump line="7" column="39" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
       <jump line="8" column="46" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
       <jump line="24" column="11" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
@@ -232,9 +217,6 @@
       <jump line="538" column="22" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
       <jump line="537" column="27" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
       <jump line="25" column="54" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
-      <jump line="58" column="11" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
-      <jump line="59" column="46" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
-      <jump line="65" column="11" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
       <jump line="534" column="24" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
       <jump line="536" column="26" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
       <jump line="543" column="32" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
@@ -257,54 +239,67 @@
       <jump line="373" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
       <jump line="376" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
       <jump line="393" column="19" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
+      <jump line="491" column="36" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
+      <jump line="75" column="10" filename="$USER_HOME$/projects/anpi/web/src/anpi/handler/system_setting/branch_manager.clj" />
+      <jump line="7" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/handler/system_setting/branch_manager.clj" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
+      <jump line="22" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
+      <jump line="28" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
+      <jump line="45" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
+      <jump line="49" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
+      <jump line="53" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
+      <jump line="57" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
+      <jump line="58" column="11" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
+      <jump line="59" column="46" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
+      <jump line="65" column="11" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
+      <jump line="66" column="46" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
+      <jump line="106" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
+      <jump line="214" column="21" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
+      <jump line="216" column="21" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
+      <jump line="542" column="6" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ezptZW1iZXItcm9sZS1pZCBzL0ludAogICAgICAgICAgICAgIDpkZXBhcnRtZW50LWlkIHMvSW50CiAgICAgICAgICAgICAgOm1lbWJlci1pZCBzL0ludAogICAgICAgICAgICAgIDpmdWxsbmFtZSBzL1N0cgogICAgICAgICAgICAgIDpsZnQgcy9JbnQKICAgICAgICAgICAgICA6Y2FuLWRlbGV0ZT8gcy9Cb29sfQo=</text>
+        <text encoding="base64">KGRlZm4gcmV2b2tlLWJyYW5jaC1yaXNrLW1hbmFnZXIK</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>ids</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxicmFuY2hcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>{:member-role-id s/Int
-              :department-id s/Int
-              :member-id s/Int
-              :fullname s/Str
-              :lft s/Int
-              :can-delete? s/Bool}</text>
+        <text>(map :id m-roles)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ezptZW1iZXItcm9sZS1pZCBzL0ludAogICAgICAgICAgICAgIDpkZXBhcnRtZW50LWlkIHMvSW50CiAgICAgICAgICAgICAgOm1lbWJlci1pZCBzL0ludAogICAgICAgICAgICAgIDpmdWxsbmFtZSBzL1N0cgogICAgICAgICAgICAgIDpsZnQgcy9JbnQKICAgICAgICAgICAgICA6Y2FuLWRlbGV0ZT8gcy9Cb29sfQo=</text>
+        <text encoding="base64">KGRlZm4gcmV2b2tlLWJyYW5jaC1yaXNrLW1hbmFnZXIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KHdoaWNoLWhhbmRsZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgW2FucGkuc2VjdXJpdHkuYXV0aCA6YXMgYXV0aF0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KHJvdXRpbmcvbWF0Y2gtcm91dGUgKC4tcGF0aG5hbWUganMvbG9jYXRpb24pIHs6cmVxdWVzdC1tZXRob2QgOmdldH0pCg==</text>
+        <text encoding="base64">ezptZW1iZXItcm9sZS1pZCBzL0ludAogICAgICAgICAgICAgIDpkZXBhcnRtZW50LWlkIHMvSW50CiAgICAgICAgICAgICAgOm1lbWJlci1pZCBzL0ludAogICAgICAgICAgICAgIDpmdWxsbmFtZSBzL1N0cgogICAgICAgICAgICAgIDpsZnQgcy9JbnQKICAgICAgICAgICAgICA6Y2FuLWRlbGV0ZT8gcy9Cb29sfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KHdoaWNoLWhhbmRsZXIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KHJvdXRpbmcvbWF0Y2gtcm91dGUgKC4tcGF0aG5hbWUganMvbG9jYXRpb24pIHs6cmVxdWVzdC1tZXRob2QgOmdldH0pCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KHMvZGVmbiByZXZva2UtYWxsLWJyYW5jaC1tYW5hZ2VycwogIFtkYiBici1yb2xlcyBjb21wYW55LWlkIDotIHMvSW50XQogIChsZXQgW20taWRzIChtYXAgOmlkIGJyLXJvbGVzKQogICAgICAgIHJvbGUtaWRzIChtYXAgIyhnZXQtaW4gJSBbOm1lbWJlci1yb2xlIDptZW1iZXItcm9sZS1pZF0pCiAgICAgICAgICAgICAgICAgICAgICBici1yb2xlcyldCiAgICAod2hlbiAoYW5kIChzZXEgbS1pZHMpIChzZXEgcm9sZS1pZHMpKQogICAgICAoYXNzZXJ0LWJlZm9yZS1tYW5hZ2VyLXJlbW92YWwgZGIgY29tcGFueS1pZCBici1yb2xlcykKICAgICAgKGJ1bGstcmV2b2tlLXJvbGVzIGRiIHJvbGUtaWRzKSkpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW2FucGkudGVzdC1oZWxwZXIgOnJlZmVyIFt3aXRoLXRlc3QtZGJdXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW2FucGkubGliLnRlc3QtaGVscGVyIDpyZWZlciBbbGV0LXRlc3QtZGF0YV1dCg==</text>
+        <text encoding="base64">KHMvZGVmbiByZXZva2UtYWxsLWJyYW5jaC1tYW5hZ2VycwogIFtkYiBici1yb2xlcyBjb21wYW55LWlkIDotIHMvSW50XQogIChsZXQgW20taWRzIChtYXAgOmlkIGJyLXJvbGVzKQogICAgICAgIHJvbGUtaWRzIChtYXAgIyhnZXQtaW4gJSBbOm1lbWJlci1yb2xlIDptZW1iZXItcm9sZS1pZF0pCiAgICAgICAgICAgICAgICAgICAgICBici1yb2xlcyldCiAgICAod2hlbiAoYW5kIChzZXEgbS1pZHMpIChzZXEgcm9sZS1pZHMpKQogICAgICAoYXNzZXJ0LWJlZm9yZS1tYW5hZ2VyLXJlbW92YWwgZGIgY29tcGFueS1pZCBici1yb2xlcykKICAgICAgKGJ1bGstcmV2b2tlLXJvbGVzIGRiIHJvbGUtaWRzKSkpKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>x</text>
+        <text>jumps</text>
       </register>
     </registers>
     <search>
@@ -340,7 +335,6 @@
         <entry encoding="base64">XDxicmFuY2hcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>23</entry>
         <entry>h</entry>
         <entry>h gU</entry>
         <entry>marks</entry>
@@ -360,6 +354,7 @@
         <entry>action CloseContent</entry>
         <entry>noh</entry>
         <entry>x</entry>
+        <entry>jumps</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
