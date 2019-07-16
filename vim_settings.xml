@@ -47,13 +47,20 @@
         <mark key="[" line="291" column="1" />
         <mark key="]" line="291" column="1" />
       </file>
+      <file name="$USER_HOME$/projects/anpi/admin/test/anpi/service/company_test.clj" timestamp="1563246576972">
+        <mark key="'" line="492" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="74" />
+      </file>
       <file name="/REPL.clj" timestamp="1563164057493">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/anpi/admin/test/anpi/service/training_test.clj" timestamp="1563244252229">
-        <mark key="]" line="48" column="0" />
-        <mark key="^" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/projects/anpi/admin/test/anpi/service/training_test.clj" timestamp="1563246826282">
+        <mark key="'" line="51" column="12" />
+        <mark key="[" line="52" column="12" />
+        <mark key="]" line="53" column="16" />
+        <mark key="^" line="53" column="16" />
+        <mark key="." line="53" column="16" />
       </file>
       <file name="$USER_HOME$/projects/anpi/admin/src/anpi/handler/training.clj" timestamp="1563244357665">
         <mark key="'" line="85" column="0" />
@@ -134,8 +141,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="0" filename="$USER_HOME$/projects/anpi/admin/src/anpi/handler/training.clj" />
-      <jump line="94" column="0" filename="$USER_HOME$/projects/anpi/admin/src/anpi/handler/training.clj" />
       <jump line="87" column="0" filename="$USER_HOME$/projects/anpi/admin/src/anpi/handler/training.clj" />
       <jump line="79" column="0" filename="$USER_HOME$/projects/anpi/admin/src/anpi/handler/training.clj" />
       <jump line="80" column="14" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
@@ -234,31 +239,33 @@
       <jump line="256" column="0" filename="$USER_HOME$/projects/anpi/db/src/anpi/db/domain/training.clj" />
       <jump line="269" column="0" filename="$USER_HOME$/projects/anpi/db/src/anpi/db/domain/training.clj" />
       <jump line="414" column="0" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
+      <jump line="48" column="12" filename="$USER_HOME$/projects/anpi/admin/test/anpi/service/training_test.clj" />
+      <jump line="492" column="0" filename="$USER_HOME$/projects/anpi/admin/test/anpi/service/company_test.clj" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgW2FucGkudGVzdC1oZWxwZXIgOnJlZmVyIFt3aXRoLXRlc3QtZGJdXQo=</text>
       </register>
       <register name="-" type="4">
-        <text>()</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
-        <text>rep</text>
+        <text encoding="base64">XDxhbnBpXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">WyhtYXAtPlRyYWluaW5nQ29tcGFueSB7OnRyYWluaW5nLWlkICg6aWQgdHIpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOnRyYWluaW5nLWF0IGQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6Y29tcGFueS1pZCAoOmlkIGMxKX0pCiAgICAgICAgICAgICAgICAgICAgICAgICAgIChtYXAtPlRyYWluaW5nQ29tcGFueSB7OnRyYWluaW5nLWlkICg6aWQgdHIpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOnRyYWluaW5nLWF0IGQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6Y29tcGFueS1pZCAoOmlkIGMyKX0pCiAgICAgICAgICAgICAgICAgICAgICAgICAgIChtYXAtPlRyYWluaW5nQ29tcGFueSB7OnRyYWluaW5nLWlkICg6aWQgdHIpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOnRyYWluaW5nLWF0IGQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6Y29tcGFueS1pZCAoOmlkIGMzKX0pXQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgW2FucGkubGliLnRlc3QtaGVscGVyIDphcyB0aCA6cmVmZXIgW2xldC10ZXN0LWRhdGFdXQogICAgICAgICAgICBbYW5waS50ZXN0LWhlbHBlciA6cmVmZXIgW3dpdGgtc3luYy10ZXN0LXN0YXRlIHNldHVwLXRlc3QtZGJdXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgW2FucGkudGVzdC1oZWxwZXIgOnJlZmVyIFt3aXRoLXRlc3QtZGJdXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgW2FucGkubGliLnRlc3QtaGVscGVyIDpyZWZlciBbbGV0LXRlc3QtZGF0YV1dCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KGRlZm4gciAgZXBsYWNlLXRyYWluaW5nLWNvbXBhbnkgW2RiIHRyYWluaW5nLWlkIHRyYWluaW5nLWNvbXBhaWVzXQogIChkYi93aXRoLWRiLXRyYW5zYWN0aW9uIFtkYiBkYl0KICAgICh0Yy9kZWxldGUtYnktdHJhaW5pbmctaWQgZGIgdHJhaW5pbmctaWQpCiAgICAoLT4+IHRyYWluaW5nLWNvbXBhaWVzCiAgICAgICAgIChtYXAgIygtPiAlCiAgICAgICAgICAgICAgICAgICAoYXNzb2MgOnRyYWluaW5nLWlkIHRyYWluaW5nLWlkKQogICAgICAgICAgICAgICAgICAgKHVwZGF0ZSA6dHJhaW5pbmctYXQgdWQvLT5zcWwtdGltZXN0YW1wKSkpCiAgICAgICAgICh0Yy9idWxrLWluc2VydCBkYikpKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgW2FucGkudGVzdC1oZWxwZXIgOnJlZmVyIFt3aXRoLXRlc3QtZGJdXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgW2FucGkudGVzdC1oZWxwZXIgOnJlZmVyIFt3aXRoLXRlc3QtZGJdXQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -267,22 +274,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KGRlZm4gciAgZXBsYWNlLXRyYWluaW5nLWNvbXBhbnkgW2RiIHRyYWluaW5nLWlkIHRyYWluaW5nLWNvbXBhaWVzXQogIChkYi93aXRoLWRiLXRyYW5zYWN0aW9uIFtkYiBkYl0KICAgICh0Yy9kZWxldGUtYnktdHJhaW5pbmctaWQgZGIgdHJhaW5pbmctaWQpCiAgICAoLT4+IHRyYWluaW5nLWNvbXBhaWVzCiAgICAgICAgIChtYXAgIygtPiAlCiAgICAgICAgICAgICAgICAgICAoYXNzb2MgOnRyYWluaW5nLWlkIHRyYWluaW5nLWlkKQogICAgICAgICAgICAgICAgICAgKHVwZGF0ZSA6dHJhaW5pbmctYXQgdWQvLT5zcWwtdGltZXN0YW1wKSkpCiAgICAgICAgICh0Yy9idWxrLWluc2VydCBkYikpKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KGRlZm4tIHJlcGxhY2UtdHJhaW5pbmctY29tcGFueQogICJpZOOBruS4gOaWieiok+e3tOOBruWvvuixoeOCkmNvbXBhbnktaWRz44Gr572u5o+b44GZ44KLIgogIFtkYiBpZCBjb21wYW55LWlkc10KICAoaWYtbGV0IFt0cmFpbmluZyAodHJhaW5pbmcvZmluZC1ieS1pZCBkYiBpZCldCiAgICAobGV0IFt0cmFpbmluZy1kYXRlICh1ZC8tPmxvY2FsLWRhdGUgKDp0cmFpbmluZy1kYXRlIHRyYWluaW5nKSkKICAgICAgICAgIGF0LWxpc3QgKG1ha2UtdHJhaW5pbmctZGF0ZXRpbWUtbGlzdCB0cmFpbmluZy1kYXRlKV0KICAgICAgKC0+PiAoZG9tYWluL2ZldGNoLWNvbXBhbnktaWQtd2l0aC10b3RhbCBkYikKICAgICAgICAgICAoZmlsdGVyICMoY29udGFpbnM/IGNvbXBhbnktaWRzICg6aWQgJSkpKQogICAgICAgICAgIChtYWtlLWF0LWNvbXBhbnktaWRzLW1hcCBhdC1saXN0KQogICAgICAgICAgIC0+dHJhaW5pbmctY29tcGFuaWVzCiAgICAgICAgICAgKGRvbWFpbi9yZXBsYWNlLXRyYWluaW5nLWNvbXBhbnkgZGIgaWQpKSkKICAgICh0aHJvdyAoSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uLiAoc3RyICJUaGVyZSBpc24ndCB0cmFpbmluZy5pZDoiIGlkKSkpKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KGRlZm4tIHJlcGxhY2UtdHJhaW5pbmctY29tcGFueQogICJpZOOBruS4gOaWieiok+e3tOOBruWvvuixoeOCkmNvbXBhbnktaWRz44Gr572u5o+b44GZ44KLIgogIFtkYiBpZCBjb21wYW55LWlkc10KICAoaWYtbGV0IFt0cmFpbmluZyAodHJhaW5pbmcvZmluZC1ieS1pZCBkYiBpZCldCiAgICAobGV0IFt0cmFpbmluZy1kYXRlICh1ZC8tPmxvY2FsLWRhdGUgKDp0cmFpbmluZy1kYXRlIHRyYWluaW5nKSkKICAgICAgICAgIGF0LWxpc3QgKG1ha2UtdHJhaW5pbmctZGF0ZXRpbWUtbGlzdCB0cmFpbmluZy1kYXRlKV0KICAgICAgKC0+PiAoZG9tYWluL2ZldGNoLWNvbXBhbnktaWQtd2l0aC10b3RhbCBkYikKICAgICAgICAgICAoZmlsdGVyICMoY29udGFpbnM/IGNvbXBhbnktaWRzICg6aWQgJSkpKQogICAgICAgICAgIChtYWtlLWF0LWNvbXBhbnktaWRzLW1hcCBhdC1saXN0KQogICAgICAgICAgIC0+dHJhaW5pbmctY29tcGFuaWVzCiAgICAgICAgICAgKGRvbWFpbi9yZXBsYWNlLXRyYWluaW5nLWNvbXBhbnkgZGIgaWQpKSkKICAgICh0aHJvdyAoSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uLiAoc3RyICJUaGVyZSBpc24ndCB0cmFpbmluZy5pZDoiIGlkKSkpKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>rep</last-search>
+      <last-search encoding="base64">XDxhbnBpXD4=</last-search>
       <last-offset />
-      <last-pattern>rep</last-pattern>
+      <last-pattern encoding="base64">XDxhbnBpXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx2aWV3XD4=</last-substitute>
       <last-dir>-1</last-dir>
@@ -290,7 +297,6 @@
     </search>
     <history>
       <history-search>
-        <entry>plusHour</entry>
         <entry>db</entry>
         <entry encoding="base64">XDxpc051bWJlclw+</entry>
         <entry encoding="base64">XDxpZHNcPg==</entry>
@@ -310,6 +316,7 @@
         <entry encoding="base64">XDxmYWN0c1w+</entry>
         <entry encoding="base64">XDxjb21wYW5pZXNcPg==</entry>
         <entry>rep</entry>
+        <entry encoding="base64">XDxhbnBpXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>13</entry>
