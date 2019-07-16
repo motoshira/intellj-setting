@@ -43,14 +43,18 @@
         <mark key="[" line="291" column="1" />
         <mark key="]" line="291" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/anpi/web/src/anpi/handler/system_setting/branch_manager.clj" timestamp="1563269510091">
-        <mark key="'" line="24" column="13" />
+      <file name="$USER_HOME$/projects/anpi/web/src/anpi/handler/system_setting/branch_manager.clj" timestamp="1563271277919">
+        <mark key="'" line="20" column="7" />
+        <mark key="]" line="74" column="56" />
+        <mark key="." line="74" column="56" />
+        <mark key="^" line="74" column="56" />
       </file>
-      <file name="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" timestamp="1563269522311">
+      <file name="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" timestamp="1563271324334">
         <mark key="'" line="251" column="0" />
-        <mark key="[" line="534" column="34" />
-        <mark key="]" line="251" column="0" />
-        <mark key="." line="251" column="0" />
+        <mark key="[" line="536" column="77" />
+        <mark key="]" line="536" column="76" />
+        <mark key="." line="536" column="76" />
+        <mark key="^" line="536" column="76" />
       </file>
       <file name="$USER_HOME$/projects/anpi/admin/test/anpi/service/company_test.clj" timestamp="1563246576972">
         <mark key="'" line="492" column="0" />
@@ -143,7 +147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="0" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
       <jump line="26" column="0" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
       <jump line="29" column="0" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
       <jump line="31" column="0" filename="$USER_HOME$/projects/anpi/admin/src/anpi/service/training.clj" />
@@ -243,19 +246,20 @@
       <jump line="493" column="8" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
       <jump line="251" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
       <jump line="24" column="13" filename="$USER_HOME$/projects/anpi/web/src/anpi/handler/system_setting/branch_manager.clj" />
+      <jump line="20" column="7" filename="$USER_HOME$/projects/anpi/web/src/anpi/handler/system_setting/branch_manager.clj" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">KHdoaWNoLWhhbmRsZXIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>{:keys [company-id has-whole-rights? seeable-depts]} :- BranchDataParams</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhbnBpXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW2FucGkubGliLnRlc3QtaGVscGVyIDphcyB0aCA6cmVmZXIgW2xldC10ZXN0LWRhdGFdXQogICAgICAgICAgICBbYW5waS50ZXN0LWhlbHBlciA6cmVmZXIgW3dpdGgtc3luYy10ZXN0LXN0YXRlIHNldHVwLXRlc3QtZGJdXQo=</text>
+      <register name="0" type="4">
+        <text>{:keys [company-id has-whole-rights? seeable-depts]} :- BranchDataParams</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">KHdoaWNoLWhhbmRsZXIpCg==</text>
