@@ -71,12 +71,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/anpi/web/test/anpi/core/role_management_test.clj" timestamp="1563346261019">
-        <mark key="'" line="139" column="40" />
-        <mark key="[" line="111" column="40" />
-        <mark key="]" line="111" column="40" />
-        <mark key="^" line="111" column="40" />
-        <mark key="." line="111" column="40" />
+      <file name="$USER_HOME$/projects/anpi/web/test/anpi/core/role_management_test.clj" timestamp="1563348226907">
+        <mark key="'" line="252" column="41" />
+        <mark key="[" line="252" column="0" />
+        <mark key="]" line="252" column="0" />
+        <mark key="^" line="252" column="53" />
+        <mark key="." line="252" column="0" />
       </file>
       <file name="$USER_HOME$/projects/anpi/admin/test/anpi/service/training_test.clj" timestamp="1563246826282">
         <mark key="'" line="51" column="12" />
@@ -172,8 +172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="317" column="0" filename="$USER_HOME$/projects/anpi/db/src/anpi/db/entity/role.clj" />
-      <jump line="325" column="0" filename="$USER_HOME$/projects/anpi/db/src/anpi/db/entity/role.clj" />
       <jump line="190" column="21" filename="$USER_HOME$/projects/anpi/web/test/anpi/core/role_management_test.clj" />
       <jump line="2" column="0" filename="$USER_HOME$/projects/anpi/web/test/anpi/core/role_management_test.clj" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/anpi/db/src/anpi/db/entity/member_role.clj" />
@@ -207,7 +205,6 @@
       <jump line="234" column="41" filename="$USER_HOME$/projects/anpi/web/test/anpi/core/role_management_test.clj" />
       <jump line="18" column="7" filename="$USER_HOME$/projects/anpi/web/test/anpi/core/role_management_test.clj" />
       <jump line="200" column="0" filename="$USER_HOME$/projects/anpi/web/test/anpi/core/role_management_test.clj" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/anpi/web/test/anpi/core/role_management_test.clj" />
       <jump line="84" column="47" filename="$USER_HOME$/projects/anpi/web/test/anpi/core/role_management_test.clj" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/anpi/README.md" />
       <jump line="96" column="0" filename="$USER_HOME$/projects/anpi/web/test/anpi/core/role_management_test.clj" />
@@ -272,46 +269,49 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/handler/system_setting/branch_system_manager.clj" />
       <jump line="383" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
       <jump line="545" column="22" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
+      <jump line="249" column="7" filename="$USER_HOME$/projects/anpi/web/test/anpi/core/role_management_test.clj" />
+      <jump line="252" column="41" filename="$USER_HOME$/projects/anpi/web/test/anpi/core/role_management_test.clj" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/anpi/web/test/anpi/core/role_management_test.clj" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(res/found (r/href req :system-setting.branch-system-manager/index))</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgIG9ycGhhbi1pZCAoY29kL2ZldGNoLWlkLWJ5LWNvbXBhbnktaWQgZGIgKDppZCBjKSkK</text>
       </register>
       <register name="-" type="4">
-        <text>(:id company)</text>
+        <text>deftest</text>
       </register>
       <register name="/" type="4">
         <text>defn revoke-all</text>
       </register>
       <register name="0" type="4">
-        <text>(res/found (r/href req :system-setting.branch-system-manager/index))</text>
+        <text encoding="base64">KHRoL3dpdGgtdGVzdC1kYiBkYgogICAgKGxldC10ZXN0LWRhdGEgZGIKICAgICAgW1tjIGFkbWluIHJvb3RdIDphY2NvdW50CiAgICAgICBkMSBbOmRlcGFydG1lbnQgYyByb290XQogICAgICAgZDEtMSBbOmRlcGFydG1lbnQgYyBkMV0KICAgICAgIGQyIFs6ZGVwYXJ0bWVudCBjIHJvb3RdCgogICAgICAgbTEgWzptZW1iZXIgY10gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA7IOOCt+OCueODhuODoOeuoeeQhuiAhQogICAgICAgXyBbOm1lbWJlci1yb2xlIGMgbTEgOnN5c3RlbS1tYW5hZ2VyXQogICAgICAgbTIgWzptZW1iZXIgY10gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA7IGQx44Gu6YOo6ZaA44K344K544OG44Og566h55CG6ICFCiAgICAgICBfIFs6bWVtYmVyLXJvbGUgYyBtMiA6YnJhbmNoLXN5c3RlbS1tYW5hZ2VyIGQxXQoKICAgICAgIG0zIFs6bWVtYmVyIGNdICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOyBkMeOBrumDqOmWgOWNseapn+euoeeQhuiyrOS7u+iAhQogICAgICAgbXIzIFs6bWVtYmVyLXJvbGUgYyBtMyA6YnJhbmNoLXJpc2stbWFuYWdlciBkMV0KICAgICAgIG00IFs6bWVtYmVyIGNdICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOyBkMuOBrumDqOmWgOWNseapn+euoeeQhuiyrOS7u+iAhQogICAgICAgbXI0IFs6bWVtYmVyLXJvbGUgYyBtNCA6YnJhbmNoLXJpc2stbWFuYWdlciBkMl0KCiAgICAgICBicmlzay1pZCAoOmlkIChyb2xlL2ZpbmQtcm9sZS1ieS1jb21wYW55LWlkLWFuZC1jb2RlIGRiICg6aWQgYykgcm9sZS9icmFuY2gtcmlzay1tYW5hZ2VyKSldCgogICAgICAoZmFjdCAiU3lzdGVtIG1hbmFnZXIgZG8iCiAgICAgICAgKHdpdGgtcm9sbGJhY2sgZGIKICAgICAgICAgIChyZXZva2UtYWxsLWJyYW5jaC1yaXNrLW1hbmFnZXJzIGRiIHs6Y29tcGFueS1pZCAoOmlkIGMpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOm1lbWJlci1pZCAoOmlkIG0xKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpoYXMtd2hvbGUtcmlnaHRzPyB0cnVlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOnNlZWFibGUtZGVwdHMgI3soOmlkIHJvb3QpfX0pCiAgICAgICAgICA9PiAyCiAgICAgICAgICAobS1yb2xlL2ZpbmQtYnktcm9sZS1pZCBkYiBicmlzay1pZCkgPT4gW10pKQoKICAgICAgKGZhY3QgIkJyYW5jaCBzeXN0ZW0gbWFuYWdlciBkbyIKICAgICAgICAod2l0aC1yb2xsYmFjayBkYgogICAgICAgICAgKHJldm9rZS1hbGwtYnJhbmNoLXJpc2stbWFuYWdlcnMgZGIgezpjb21wYW55LWlkICg6aWQgYykKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6bWVtYmVyLWlkICg6aWQgbTEpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOmhhcy13aG9sZS1yaWdodHM/IGZhbHNlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOnNlZWFibGUtZGVwdHMgI3soOmlkIGQxKX19KQogICAgICAgICAgPT4gMQogICAgICAgICAgKG0tcm9sZS9maW5kLWJ5LXJvbGUtaWQgZGIgYnJpc2staWQpID0+IFttcjRdKSkpKQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgKGFzc2VydC1iZWZvcmUtamtjb21wYW55LWlkIG0tcm9sZXMpCg==</text>
+        <text encoding="base64">ICAgICAgIG9ycGhhbi1pZCAoY29kL2ZldGNoLWlkLWJ5LWNvbXBhbnktaWQgZGIgKDppZCBjKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIGQxIFs6ZGVwYXJ0bWVudCBjIHJvb3RdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIGQyIFs6ZGVwYXJ0bWVudCBjXQo=</text>
+        <text encoding="base64">KGZhY3RzICJyZXZva2UtYWxsLWJyYW5jaC1zeXN0ZW0tbWFuYWdlcnMtdGVzdCIKICApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIGQxIFs6ZGVwYXJ0bWVudCBjXQo=</text>
+        <text encoding="base64">ICAgICAgKGFzc2VydC1iZWZvcmUtamtjb21wYW55LWlkIG0tcm9sZXMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKGNvdW50IChmaW5kLWJyYW5jaC1yaXNrLW1hbmFnZXJzIGRiICg6aWQgYzIpKSkgPT4gMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYiA6YnJhbmNoLW1hbmFnZXIgKDppZCBjMikgKDppZCBhMikpKQo=</text>
+        <text encoding="base64">ICAgICAgIGQyIFs6ZGVwYXJ0bWVudCBjXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgI18oYnVsay1yZXZva2Utcm9sZXMgZGIgKGRlcml2ZS1jb250cm9sbGFibGUtYnJhbmNoLXJvbGUtaWRzCg==</text>
+        <text encoding="base64">ICAgICAgIGQxIFs6ZGVwYXJ0bWVudCBjXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGIgKDppZCBjMikgOmJyYW5jaC1yaXNrLW1hbmFnZXIpKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKGNvdW50IChmaW5kLWJyYW5jaC1yaXNrLW1hbmFnZXJzIGRiICg6aWQgYzIpKSkgPT4gMAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGIgKDppZCAoYW5waS5kYi5lbnRpdHkucm9sZS9maW5kLXJvbGUtYnktY29tcGFueS1pZC1hbmQtY29kZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYiA6YnJhbmNoLW1hbmFnZXIgKDppZCBjMikgKDppZCBhMikpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>20n</text>
