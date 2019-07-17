@@ -197,7 +197,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>x</text>
+        <text>53</text>
       </register>
     </registers>
     <search>
@@ -233,7 +233,6 @@
         <entry>deprecated</entry>
       </history-search>
       <history-cmd>
-        <entry>copy 40</entry>
         <entry>21</entry>
         <entry>165</entry>
         <entry>213</entry>
@@ -253,6 +252,7 @@
         <entry>176</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>x</entry>
+        <entry>53</entry>
       </history-cmd>
       <history-expr />
       <history-input />
