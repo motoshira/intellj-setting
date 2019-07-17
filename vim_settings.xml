@@ -9,14 +9,6 @@
         <mark key="^" line="248" column="25" />
         <mark key="." line="248" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/anpi/web/test/anpi/core/role_management_test.clj" timestamp="1563350238187">
-        <mark key="'" line="200" column="35" />
-        <mark key="j" line="194" column="53" />
-        <mark key="[" line="157" column="0" />
-        <mark key="]" line="157" column="0" />
-        <mark key="^" line="156" column="20" />
-        <mark key="." line="157" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/anpi/web/src/anpi/core/csv_import/member_role.clj" timestamp="1563351084291">
         <mark key="[" line="430" column="43" />
         <mark key="]" line="430" column="47" />
@@ -28,6 +20,12 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
         <mark key="^" line="49" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/anpi/web/src/anpi/handler/system_setting/branch_system_manager.clj" timestamp="1563353566218">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" timestamp="1563350507282">
         <mark key="'" line="260" column="0" />
@@ -175,31 +173,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KGRlZm4gaWkgW2ldIChpbmMgaSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KHMvZGVmbiBidWxrLXJldm9rZS1yb2xlcwogIFtkYiBtZW1iZXItcm9sZS1pZHMgOi0gW3MvSW50XV0KICAoLT4gKHNxbC9kZWxldGUtZnJvbSA6bWVtYmVyLXJvbGUpCiAgICAgIChzcWwvd2hlcmUgYChhbmQgfihpZiAoc2VxIG1lbWJlci1yb2xlLWlkcykKICAgICAgICAgICAgICAgICAgICAgICAgICBgKGluIGlkIH4odmVjIG1lbWJlci1yb2xlLWlkcykpCiAgICAgICAgICAgICAgICAgICAgICAgICAgZmFsc2UpKSkKICAgICAgKC0+PiAoZGIvZXhlY3V0ZSBkYikpKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgI18oYnVsay1yZXZva2Utcm9sZXMgZGIgKG1hcCA6aWQgKG0tcm9sZS9maW5kLWJ5LXJvbGUtaWQgZGIgYnN5cy1pZCkpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKGJ1bGstcmV2b2tlLXJvbGVzIGRiIChtYXAgOmlkIChtLXJvbGUvZmluZC1ieS1yb2xlLWlkIGRiIGJzeXMtaWQpKSkK</text>
+        <text encoding="base64">KHMvZGVmbiBidWxrLXJldm9rZS1yb2xlcwogIFtkYiBtZW1iZXItcm9sZS1pZHMgOi0gW3MvSW50XV0KICAoLT4gKHNxbC9kZWxldGUtZnJvbSA6bWVtYmVyLXJvbGUpCiAgICAgIChzcWwvd2hlcmUgYChhbmQgfihpZiAoc2VxIG1lbWJlci1yb2xlLWlkcykKICAgICAgICAgICAgICAgICAgICAgICAgICBgKGluIGlkIH4odmVjIG1lbWJlci1yb2xlLWlkcykpCiAgICAgICAgICAgICAgICAgICAgICAgICAgZmFsc2UpKSkKICAgICAgKC0+PiAoZGIvZXhlY3V0ZSBkYikpKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgI18oYnVsay1yZXZva2Utcm9sZXMgZGIgKG1hcCA6aWQgKG0tcm9sZS9maW5kLWJ5LXJvbGUtaWQgZGIgYnN5cy1pZCkpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKGJ1bGstcmV2b2tlLXJvbGVzIGRiIChtYXAgOmlkIChtLXJvbGUvZmluZC1ieS1yb2xlLWlkIGRiIGJzeXMtaWQpKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KGRlZm4tIGNvbnRyb2xsYWJsZS1kZXB0LWlkcyBbZGIgbWVtYmVyLWlkXQogICgtPj4gKG1yL2ZpbmQtcm9sZXMgZGIgbWVtYmVyLWlkKQogICAgICAgKGZpbHRlciAjKD0gKGdldC1pbiAlIFs6ZXgtaW5mbyA6cm9sZSA6Y29kZV0pIDpicmFuY2gtc3lzdGVtLW1hbmFnZXIpKQogICAgICAgKGtlZXAgOmRlcGFydG1lbnQtaWQpCiAgICAgICAoaW50byAje30pKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>source ~/.ideavimrc</text>
+        <text>x</text>
       </register>
     </registers>
     <search>
@@ -251,10 +249,10 @@
         <entry>noh</entry>
         <entry>24</entry>
         <entry>20n</entry>
-        <entry>x</entry>
         <entry>211</entry>
         <entry>176</entry>
         <entry>source ~/.ideavimrc</entry>
+        <entry>x</entry>
       </history-cmd>
       <history-expr />
       <history-input />
