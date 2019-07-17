@@ -54,30 +54,31 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="79" column="64" />
       </file>
-      <file name="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" timestamp="1563341187293">
-        <mark key="'" line="519" column="8" />
-        <mark key="[" line="458" column="35" />
+      <file name="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" timestamp="1563343104574">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="71" column="0" />
         <mark key="m" line="154" column="8" />
-        <mark key="]" line="459" column="38" />
-        <mark key="." line="459" column="38" />
-        <mark key="^" line="459" column="38" />
+        <mark key="]" line="71" column="0" />
+        <mark key="^" line="71" column="21" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/projects/anpi/admin/test/anpi/service/company_test.clj" timestamp="1563246576972">
         <mark key="'" line="492" column="0" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="4" column="74" />
       </file>
-      <file name="/REPL.clj" timestamp="1563341451479">
+      <file name="/REPL.clj" timestamp="1563341781846">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/anpi/web/test/anpi/core/role_management_test.clj" timestamp="1563341476235">
+      <file name="$USER_HOME$/projects/anpi/web/test/anpi/core/role_management_test.clj" timestamp="1563342379327">
         <mark key="'" line="125" column="38" />
-        <mark key="[" line="121" column="12" />
-        <mark key="]" line="121" column="33" />
-        <mark key="." line="121" column="33" />
-        <mark key="^" line="121" column="33" />
+        <mark key="[" line="103" column="40" />
+        <mark key="]" line="103" column="41" />
+        <mark key="." line="103" column="41" />
+        <mark key="^" line="103" column="41" />
       </file>
       <file name="$USER_HOME$/projects/anpi/admin/test/anpi/service/training_test.clj" timestamp="1563246826282">
         <mark key="'" line="51" column="12" />
@@ -175,8 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="207" column="8" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
-      <jump line="220" column="5" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
       <jump line="245" column="7" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
       <jump line="538" column="7" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
       <jump line="178" column="24" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
@@ -249,7 +248,6 @@
       <jump line="186" column="30" filename="$USER_HOME$/projects/anpi/web/test/anpi/core/role_management_test.clj" />
       <jump line="181" column="9" filename="$USER_HOME$/projects/anpi/web/test/anpi/core/role_management_test.clj" />
       <jump line="177" column="9" filename="$USER_HOME$/projects/anpi/web/test/anpi/core/role_management_test.clj" />
-      <jump line="520" column="22" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
       <jump line="234" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
       <jump line="20" column="7" filename="$USER_HOME$/projects/anpi/web/src/anpi/handler/system_setting/branch_risk_manager.clj" />
       <jump line="86" column="10" filename="$USER_HOME$/projects/anpi/web/src/anpi/handler/system_setting/branch_risk_manager.clj" />
@@ -275,13 +273,16 @@
       <jump line="121" column="11" filename="$USER_HOME$/projects/anpi/web/test/anpi/core/role_management_test.clj" />
       <jump line="0" column="0" filename="/REPL.clj" />
       <jump line="125" column="38" filename="$USER_HOME$/projects/anpi/web/test/anpi/core/role_management_test.clj" />
+      <jump line="465" column="44" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
+      <jump line="520" column="14" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZGIg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">KC0+PiAKICAgICAobWFwIDptZW1iZXItcm9sZSkpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGIg</text>
+        <text>(find-branch-risk-managers (user/st :hikari-cp) 1 2)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmYWN0XD4=</text>
@@ -293,32 +294,32 @@
                                                  :seeable-depts #{(:id root2)}})</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KHJldm9rZS1hbGwtYnJhbmNoLXJpc2stbWFuYWdlcnMgZGIgezpjb21wYW55LWlkICg6aWQgYzIpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6bWVtYmVyLWlkICg6aWQgYTIpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6aGFzLXdob2xlLXJpZ2h0cz8gdHJ1ZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOnNlZWFibGUtZGVwdHMgI3soOmlkIHJvb3QyKX19KQo=</text>
+        <text encoding="base64">KC0+PiAKICAgICAobWFwIDptZW1iZXItcm9sZSkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBkYiA6YnJhbmNoLXJpc2stbWFuYWdlciAoOmlkIGMyKSAoOmlkIGEyKSkgKDppZCBjMikpCg==</text>
+        <text encoding="base64">ICAgIChjbG9qdXJlLnBwcmludC9wcHJpbnQgZGVwdHMpCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>(derive-controllable-branch-roles
-                 db :branch-risk-manager (:id c2) (:id a2))</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIChwcm4gImZpbmQtYnJhbmNoLXJpc2stbWFuYWdlci1kYXRhIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KHJldm9rZS1hbGwtYnJhbmNoLXJpc2stbWFuYWdlcnMgZGIgezpjb21wYW55LWlkICg6aWQgYzIpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6bWVtYmVyLWlkICg6aWQgYTIpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6aGFzLXdob2xlLXJpZ2h0cz8gdHJ1ZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOnNlZWFibGUtZGVwdHMgI3soOmlkIHJvb3QyKX19KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CihzL2RlZm4gdGVzdGYgOi0gcy9JbnQKICBbaSA6LSBzL0ludF0KICAodGhyb3cgKEV4Y2VwdGlvbi4gImZvbyIpKSkKCih0cnkKICAodGVzdGYgMSkKICAoY2F0Y2ggRXhjZXB0aW9uIGUKICAgICgucHJpbnRTdGFja1RyYWNlIGUpKSkKCih0aHJvdyAoZXgtaW5mbyAidGVzdCIgezppZCAxfSkpCih0aHJvdyAoZXgtaW5mbyAiYmFkIiB7OmVyciAyfSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBkYiA6YnJhbmNoLXJpc2stbWFuYWdlciAoOmlkIGMyKSAoOmlkIGEyKSkgKDppZCBjMikpCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>(derive-controllable-branch-roles
+                 db :branch-risk-manager (:id c2) (:id a2))</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KGZhY3RzICJyZXZva2UtYWxsLWJyYW5jaC1yaXNrLW1hbmFnZXJzLXRlc3QiCiAgKHRoL3dpdGgtdGVzdC1kYiBkYgogICAgKGxldC10ZXN0LWRhdGEgZGIKICAgICAgW1tjIGFkbWluIHJvb3RdIDphY2NvdW50CiAgICAgICBkMSBbOmRlcGFydG1lbnQgYyByb290XQogICAgICAgZDEtMSBbOmRlcGFydG1lbnQgYyBkMV0KICAgICAgIGQyIFs6ZGVwYXJ0bWVudCBjIHJvb3RdCgogICAgICAgbTEgWzptZW1iZXIgY10gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA7IOOCt+OCueODhuODoOeuoeeQhuiAhQogICAgICAgXyBbOm1lbWJlci1yb2xlIGMgbTEgOnN5c3RlbS1tYW5hZ2VyXQogICAgICAgbTIgWzptZW1iZXIgY10gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA7IGQx44Gu6YOo6ZaA44K344K544OG44Og566h55CG6ICFCiAgICAgICBfIFs6bWVtYmVyLXJvbGUgYyBtMiA6YnJhbmNoLXN5c3RlbS1tYW5hZ2VyIGQxXQoKICAgICAgIG0zIFs6bWVtYmVyIGNdICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOyBkMeOBrumDqOmWgOWNseapn+euoeeQhuiyrOS7u+iAhQogICAgICAgbXIzIFs6bWVtYmVyLXJvbGUgYyBtMyA6YnJhbmNoLXJpc2stbWFuYWdlciBkMV0KICAgICAgIG00IFs6bWVtYmVyIGNdICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOyBkMuOBrumDqOmWgOWNseapn+euoeeQhuiyrOS7u+iAhQogICAgICAgbXI0IFs6bWVtYmVyLXJvbGUgYyBtNCA6YnJhbmNoLXJpc2stbWFuYWdlciBkMl0KCiAgICAgICBicmlzay1pZCAoOmlkIChyb2xlL2ZpbmQtcm9sZS1ieS1jb21wYW55LWlkLWFuZC1jb2RlIGRiICg6aWQgYykgcm9sZS9icmFuY2gtcmlzay1tYW5hZ2VyKSldCgogICAgICAoZmFjdCAiU3lzdGVtIG1hbmFnZXIgZG8iCiAgICAgICAgKHdpdGgtcm9sbGJhY2sgZGIKICAgICAgICAgIChyZXZva2UtYWxsLWJyYW5jaC1yaXNrLW1hbmFnZXJzIGRiIHs6Y29tcGFueS1pZCAoOmlkIGMpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOm1lbWJlci1pZCAoOmlkIG0xKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpoYXMtd2hvbGUtcmlnaHRzPyB0cnVlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOnNlZWFibGUtZGVwdHMgI3soOmlkIHJvb3QpfX0pCiAgICAgICAgICA9PiAyCiAgICAgICAgICAobS1yb2xlL2ZpbmQtYnktcm9sZS1pZCBkYiBicmlzay1pZCkgPT4gW10pKQoKICAgICAgKGZhY3QgIkJyYW5jaCBzeXN0ZW0gbWFuYWdlciBkbyIKICAgICAgICAod2l0aC1yb2xsYmFjayBkYgogICAgICAgICAgKHJldm9rZS1hbGwtYnJhbmNoLXJpc2stbWFuYWdlcnMgZGIgezpjb21wYW55LWlkICg6aWQgYykKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6bWVtYmVyLWlkICg6aWQgbTEpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOmhhcy13aG9sZS1yaWdodHM/IGZhbHNlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgOnNlZWFibGUtZGVwdHMgI3soOmlkIGQxKX19KQogICAgICAgICAgPT4gMQogICAgICAgICAgKG0tcm9sZS9maW5kLWJ5LXJvbGUtaWQgZGIgYnJpc2staWQpID0+IFttcjRdKSkpKSkK</text>
+        <text encoding="base64">CihzL2RlZm4gdGVzdGYgOi0gcy9JbnQKICBbaSA6LSBzL0ludF0KICAodGhyb3cgKEV4Y2VwdGlvbi4gImZvbyIpKSkKCih0cnkKICAodGVzdGYgMSkKICAoY2F0Y2ggRXhjZXB0aW9uIGUKICAgICgucHJpbnRTdGFja1RyYWNlIGUpKSkKCih0aHJvdyAoZXgtaW5mbyAidGVzdCIgezppZCAxfSkpCih0aHJvdyAoZXgtaW5mbyAiYmFkIiB7OmVyciAyfSkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIChyZXZva2UtYWxsLWJyYW5jaC1yaXNrLW1hbmFnZXJzIGRiIHs6Y29tcGFueS1pZCAoOmlkIGMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>125</text>
@@ -331,7 +332,7 @@
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx2aWV3XD4=</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -378,6 +379,8 @@
         <entry>q</entry>
         <entry>125</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
