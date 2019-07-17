@@ -27,6 +27,7 @@
   :cljs.core/cond-&gt;&gt; :only-indent
   :cljs.core/defonce :only-indent
   :cljs.core.async/go-loop :only-indent
+  :clojure.core/as-&gt; :only-indent
   :clojure.core/assoc 0
   :clojure.core/cond-&gt; :only-indent
   :clojure.core/cond-&gt;&gt; :only-indent
