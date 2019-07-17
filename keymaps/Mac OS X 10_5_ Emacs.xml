@@ -29,14 +29,6 @@
     <keyboard-shortcut first-keystroke="alt s" />
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
-  <action id=":cursive.repl.actions/load-file">
-    <keyboard-shortcut first-keystroke="shift meta l" />
-    <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="ctrl k" />
-  </action>
-  <action id=":cursive.repl.actions/macroexpansion">
-    <keyboard-shortcut first-keystroke="shift meta back_slash" />
-    <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="ctrl m" />
-  </action>
   <action id=":cursive.testing.actions/run-ns-tests">
     <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="ctrl t" />
   </action>
@@ -50,7 +42,6 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="k" />
   </action>
-  <action id="CollapseSelection" />
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="meta alt slash" />
     <keyboard-shortcut first-keystroke="meta alt divide" />
@@ -100,7 +91,7 @@
   </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt up" />
-    <keyboard-shortcut first-keystroke="ctrl minus" />
+    <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
   <action id="EditorTab" />
   <action id="EditorUnSelectWord">
@@ -128,10 +119,6 @@
   <action id="NextTemplateParameter" />
   <action id="NextTemplateVariable">
     <keyboard-shortcut first-keystroke="enter" />
-  </action>
-  <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="meta alt l" />
-    <keyboard-shortcut first-keystroke="ctrl meta back_slash" />
   </action>
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="s" />

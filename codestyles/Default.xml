@@ -18,61 +18,38 @@
   :anpi.handler.personal-setting/defhandler 1
   :anpi.lib.test-helper/let-test-data :only-indent
   :anpi.security.auth/db 0
-  :anpi.service/with-lock :only-indent
   :anpi.test-helper/with-endpoint :only-indent
   :anpi.test-helper/with-sync-test-state :only-indent
   :anpi.test-helper/with-test-db :only-indent
   :anpi.test-helper/with-test-state :only-indent
-  :clj-http.client/with-connection-pool :only-indent
   :cljs.core/assoc 0
   :cljs.core/cond-&gt; :only-indent
   :cljs.core/cond-&gt;&gt; :only-indent
   :cljs.core/defonce :only-indent
   :cljs.core.async/go-loop :only-indent
-  :cljs.core.async.macros/go-loop :only-indent
-  :clojure.core/as-&gt; :only-indent
   :clojure.core/assoc 0
   :clojure.core/cond-&gt; :only-indent
   :clojure.core/cond-&gt;&gt; :only-indent
-  :clojure.core/defmulti :only-indent
   :clojure.core/defonce :only-indent
   :clojure.core/empty? 1000
   :clojure.java.jdbc/with-db-connection :only-indent
-  :clojure.spec.alpha/fdef :only-indent
-  :clojure.test/are :only-indent
   :cursive.formatting/align-conditionals false
   :cursive.formatting/align-maps false
   :cursive.formatting/one-space-lists true
-  :diehard.core/with-rate-limiter :only-indent
-  :etaoin.api/with-chrome :only-indent
   :etaoin.api/with-chrome-headless :only-indent
   :formative.parse/with-fallback :only-indent
-  :fu.db/with-db-transaction :only-indent
-  :hiccup2.core/html 1000
   :kitchen-async.promise/let :only-indent
   :kitchen-async.promise/loop :only-indent
-  :kmailer.handler/defhandler :only-indent
-  :kmailer.macros/go-loop-sub :only-indent
-  :kmailer.service/defservice :only-indent
-  :kmailer.test-helper/let-test-data :only-indent
-  :kmailer.test-helper/with-test-db :only-indent
-  :kmailer.validation/with-validate :only-indent
-  :kmailer.view.mailset.webhook/defnk :only-indent
-  :merr.core/let :only-indent
   :midje.sweet/=&gt; 0
   :midje.sweet/against-background :only-indent
   :midje.sweet/fact :only-indent
   :midje.sweet/facts 1
   :midje.sweet/provided :only-indent
   :midje.sweet/with-state-changes :only-indent
-  :migration/with-migrator :only-indent
   :mount.lite/defstate :only-indent
   :mount.lite/with-session :only-indent
   :mount.lite/with-substitutes :only-indent
-  :user/with-migrator :only-indent
   :zou.component/with-component :only-indent
-  :zou.component/with-system :only-indent
-  :zou.ext.kmailer.repl/with-migrator :only-indent
 }</ClojureCodeStyleSettings>
   <DBN-PSQL>
     <case-options enabled="false">
