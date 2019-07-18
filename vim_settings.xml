@@ -1,43 +1,26 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/anpi/web/src/anpi/form/mail_common.clj" timestamp="1563351510559">
-        <mark key="[" line="248" column="24" />
-        <mark key="]" line="248" column="25" />
-        <mark key="^" line="248" column="25" />
-        <mark key="." line="248" column="25" />
-      </file>
-      <file name="$USER_HOME$/projects/anpi/web/src/anpi/core/csv_import/member_role.clj" timestamp="1563351084291">
-        <mark key="[" line="430" column="43" />
-        <mark key="]" line="430" column="47" />
-        <mark key="." line="430" column="47" />
-        <mark key="^" line="430" column="47" />
-      </file>
-      <file name="$USER_HOME$/projects/anpi/web/src-cljs/anpi/main.cljs" timestamp="1563270066346">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-        <mark key="^" line="49" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/anpi/web/src/anpi/handler/system_setting/branch_system_manager.clj" timestamp="1563353566218">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" timestamp="1563436808149">
-        <mark key="[" line="44" column="54" />
-        <mark key="]" line="45" column="19" />
-        <mark key="^" line="45" column="19" />
-        <mark key="." line="45" column="19" />
+      <file name="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" timestamp="1563440732790">
+        <mark key="'" line="47" column="19" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="42" column="19" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/clojure/tools.logging/0.4.1/tools.logging-0.4.1.jar!/clojure/tools/logging.clj" timestamp="1563233155594">
         <mark key="[" line="183" column="3" />
         <mark key="]" line="183" column="2" />
         <mark key="^" line="183" column="2" />
         <mark key="." line="183" column="2" />
+      </file>
+      <file name="$USER_HOME$/projects/anpi/web/src/anpi/core/csv_import/member_role.clj" timestamp="1563351084291">
+        <mark key="[" line="430" column="43" />
+        <mark key="]" line="430" column="47" />
+        <mark key="." line="430" column="47" />
+        <mark key="^" line="430" column="47" />
       </file>
       <file name="$USER_HOME$/projects/anpi/db/src/anpi/db/entity/company_orphan_department.clj" timestamp="1563345291447">
         <mark key="[" line="27" column="16" />
@@ -51,9 +34,26 @@
         <mark key="." line="86" column="43" />
         <mark key="^" line="86" column="43" />
       </file>
+      <file name="$USER_HOME$/projects/anpi/web/src/anpi/form/mail_common.clj" timestamp="1563351510559">
+        <mark key="[" line="248" column="24" />
+        <mark key="]" line="248" column="25" />
+        <mark key="^" line="248" column="25" />
+        <mark key="." line="248" column="25" />
+      </file>
+      <file name="$USER_HOME$/projects/anpi/web/src-cljs/anpi/main.cljs" timestamp="1563270066346">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+        <mark key="^" line="49" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/anpi/web/src/anpi/handler/system_setting/branch_system_manager.clj" timestamp="1563353566218">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="516" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
       <jump line="504" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
       <jump line="495" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
       <jump line="473" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
@@ -153,13 +153,14 @@
       <jump line="248" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
       <jump line="255" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
       <jump line="260" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
+      <jump line="47" column="19" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">KGRlZm4gXjpkZXByZWNhdGVkIGZpbmQtYnJhbmNoLXN5c3RlbS1tYW5hZ2VycwogICJUT0RPIOODhuOCueODiOOBp+OBl+OBi+S9v+OCj+OCjOOBpuOBhOOBquOBhOOBruOBp+a2iOOBmSIKICBbZGIgY29tcGFueS1pZCAmIGRlcHQtaWRzXQogIChsZXQgW3JvbGUtaWRzIChnZXQtcm9sZS1pZHMgZGIgY29tcGFueS1pZCA6YnJhbmNoLXN5c3RlbS1tYW5hZ2VyKQogICAgICAgIGRlcHQtaWRzIChzb21lLT4gZGVwdC1pZHMgdmVjKV0KICAgICgtPj4gKGZpbmQtbWFuYWdlci1xdWVyeSBjb21wYW55LWlkIDpyb2xlLWlkcyByb2xlLWlkcyA6ZGVwYXJ0bWVudC1pZHMgZGVwdC1pZHMpCiAgICAgICAgIChkYi9mZXRjaCBkYikKICAgICAgICAgKG1hcCByb3ctPk1hbmFnZXIpKSkpCgooZGVmbiBeOmRlcHJlY2F0ZWQgZmluZC1icmFuY2gtcmlzay1tYW5hZ2VycwogICJUT0RPIOODhuOCueODiOOBp+OBl+OBi+S9v+OCj+OCjOOBpuOBhOOBquOBhOOBruOBp+a2iOOBmSIKICBbZGIgY29tcGFueS1pZCAmIGRlcHQtaWRzXQogIChsZXQgW3JvbGUtaWRzIChnZXQtcm9sZS1pZHMgZGIgY29tcGFueS1pZCA6YnJhbmNoLXJpc2stbWFuYWdlcikKICAgICAgICBkZXB0LWlkcyAoc29tZS0+IGRlcHQtaWRzIHZlYyldCiAgICAoLT4+IChmaW5kLW1hbmFnZXItcXVlcnkgY29tcGFueS1pZCA6cm9sZS1pZHMgcm9sZS1pZHMgOmRlcGFydG1lbnQtaWRzIGRlcHQtaWRzKQogICAgICAgICAoZGIvZmV0Y2ggZGIpCiAgICAgICAgIChtYXAgcm93LT5NYW5hZ2VyKSkpKQoKKGRlZm4gXjpkZXByZWNhdGVkIGZpbmQtYnJhbmNoLW1hbmFnZXJzCiAgIlRPRE8g44OG44K544OI44Gn44GX44GL5L2/44KP44KM44Gm44GE44Gq44GE44Gu44Gn5raI44GZIgogIFtkYiBjb21wYW55LWlkICYgZGVwdC1pZHNdCiAgKGxldCBbcm9sZS1pZHMgKGdldC1yb2xlLWlkcyBkYiBjb21wYW55LWlkIDpicmFuY2gtbWFuYWdlcikKICAgICAgICBkZXB0LWlkcyAoc29tZS0+IGRlcHQtaWRzIHZlYyldCiAgICAoLT4+IChmaW5kLW1hbmFnZXItcXVlcnkgY29tcGFueS1pZCA6cm9sZS1pZHMgcm9sZS1pZHMgOmRlcGFydG1lbnQtaWRzIGRlcHQtaWRzKQogICAgICAgICAoZGIvZmV0Y2ggZGIpCiAgICAgICAgIChtYXAgcm93LT5NYW5hZ2VyKSkpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>so</text>
+        <text>currPlayer</text>
       </register>
       <register name="/" type="4">
         <text>deprecated</text>
@@ -168,34 +169,34 @@
         <text encoding="base64">KGRlZm4gXjpkZXByZWNhdGVkIGZpbmQtYnJhbmNoLXN5c3RlbS1tYW5hZ2VycwogICJUT0RPIOODhuOCueODiOOBp+OBl+OBi+S9v+OCj+OCjOOBpuOBhOOBquOBhOOBruOBp+a2iOOBmSIKICBbZGIgY29tcGFueS1pZCAmIGRlcHQtaWRzXQogIChsZXQgW3JvbGUtaWRzIChnZXQtcm9sZS1pZHMgZGIgY29tcGFueS1pZCA6YnJhbmNoLXN5c3RlbS1tYW5hZ2VyKQogICAgICAgIGRlcHQtaWRzIChzb21lLT4gZGVwdC1pZHMgdmVjKV0KICAgICgtPj4gKGZpbmQtbWFuYWdlci1xdWVyeSBjb21wYW55LWlkIDpyb2xlLWlkcyByb2xlLWlkcyA6ZGVwYXJ0bWVudC1pZHMgZGVwdC1pZHMpCiAgICAgICAgIChkYi9mZXRjaCBkYikKICAgICAgICAgKG1hcCByb3ctPk1hbmFnZXIpKSkpCgooZGVmbiBeOmRlcHJlY2F0ZWQgZmluZC1icmFuY2gtcmlzay1tYW5hZ2VycwogICJUT0RPIOODhuOCueODiOOBp+OBl+OBi+S9v+OCj+OCjOOBpuOBhOOBquOBhOOBruOBp+a2iOOBmSIKICBbZGIgY29tcGFueS1pZCAmIGRlcHQtaWRzXQogIChsZXQgW3JvbGUtaWRzIChnZXQtcm9sZS1pZHMgZGIgY29tcGFueS1pZCA6YnJhbmNoLXJpc2stbWFuYWdlcikKICAgICAgICBkZXB0LWlkcyAoc29tZS0+IGRlcHQtaWRzIHZlYyldCiAgICAoLT4+IChmaW5kLW1hbmFnZXItcXVlcnkgY29tcGFueS1pZCA6cm9sZS1pZHMgcm9sZS1pZHMgOmRlcGFydG1lbnQtaWRzIGRlcHQtaWRzKQogICAgICAgICAoZGIvZmV0Y2ggZGIpCiAgICAgICAgIChtYXAgcm93LT5NYW5hZ2VyKSkpKQoKKGRlZm4gXjpkZXByZWNhdGVkIGZpbmQtYnJhbmNoLW1hbmFnZXJzCiAgIlRPRE8g44OG44K544OI44Gn44GX44GL5L2/44KP44KM44Gm44GE44Gq44GE44Gu44Gn5raI44GZIgogIFtkYiBjb21wYW55LWlkICYgZGVwdC1pZHNdCiAgKGxldCBbcm9sZS1pZHMgKGdldC1yb2xlLWlkcyBkYiBjb21wYW55LWlkIDpicmFuY2gtbWFuYWdlcikKICAgICAgICBkZXB0LWlkcyAoc29tZS0+IGRlcHQtaWRzIHZlYyldCiAgICAoLT4+IChmaW5kLW1hbmFnZXItcXVlcnkgY29tcGFueS1pZCA6cm9sZS1pZHMgcm9sZS1pZHMgOmRlcGFydG1lbnQtaWRzIGRlcHQtaWRzKQogICAgICAgICAoZGIvZmV0Y2ggZGIpCiAgICAgICAgIChtYXAgcm93LT5NYW5hZ2VyKSkpKQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGN1cnJQbGF5ZXIgPSAwOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLm1hcChJbnRlZ2VyOjpwYXJzZUludCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkZEFycmF5cy5zdHJlYW0oaW4ucmVhZExpbmUoKS5zcGxpdCgiICIpKQo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0gaW4gbmV3IFNjYW5uZXIoU3lzdGVtLmluKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZ1tdIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludChzYik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CgogICAgICAgICAgICBpZiAobiA9PSA1MikgewogICAgICAgICAgICAgICAgU3lzdGVtLmV4aXQoMCk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIFNldDxJbnRlZ2VyPiBzID0gbmV3IEhhc2hTZXQ8PigpOwogICAgICAgICAgICBTZXQ8SW50ZWdlcj4gaCA9IG5ldyBIYXNoU2V0PD4oKTsKICAgICAgICAgICAgU2V0PEludGVnZXI+IGMgPSBuZXcgSGFzaFNldDw+KCk7CiAgICAgICAgICAgIFNldDxJbnRlZ2VyPiBkID0gbmV3IEhhc2hTZXQ8PigpOwoKICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBuOyBpKyspIHsKICAgICAgICAgICAgICAgIFN0cmluZ1tdIGFyciA9IGluLnJlYWRMaW5lKCkuc3BsaXQoIiAiKTsKICAgICAgICAgICAgICAgIFN0cmluZyB0eXBlID0gYXJyWzBdOwogICAgICAgICAgICAgICAgaW50IG51bSA9IEludGVnZXIucGFyc2VJbnQoYXJyWzFdKTsKICAgICAgICAgICAgICAgIHN3aXRjaCAodHlwZSkgewogICAgICAgICAgICAgICAgICAgIGNhc2UgIlMiOgogICAgICAgICAgICAgICAgICAgICAgICBzLmFkZChudW0pOwogICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgICAgICBjYXNlICJIIjoKICAgICAgICAgICAgICAgICAgICAgICAgaC5hZGQobnVtKTsKICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICAgICAgY2FzZSAiQyI6CiAgICAgICAgICAgICAgICAgICAgICAgIGMuYWRkKG51bSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgICAgIGRlZmF1bHQ6CiAgICAgICAgICAgICAgICAgICAgICAgIGQuYWRkKG51bSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CgogICAgICAgICAgICBTdHJpbmdCdWlsZGVyIHNiID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsKCiAgICAgICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgMTM7IGkrKykgewogICAgICAgICAgICAgICAgaW50IG51bSA9IGkgKyAxOwogICAgICAgICAgICAgICAgaWYgKCFzLmNvbnRhaW5zKG51bSkpIHsKICAgICAgICAgICAgICAgICAgICBzYi5hcHBlbmQoIlMgIikuYXBwZW5kKG51bSkuYXBwZW5kKCJcbiIpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgMTM7IGkrKykgewogICAgICAgICAgICAgICAgaW50IG51bSA9IGkgKyAxOwogICAgICAgICAgICAgICAgaWYgKCFoLmNvbnRhaW5zKG51bSkpIHsKICAgICAgICAgICAgICAgICAgICBzYi5hcHBlbmQoIkggIikuYXBwZW5kKG51bSkuYXBwZW5kKCJcbiIpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgMTM7IGkrKykgewogICAgICAgICAgICAgICAgaW50IG51bSA9IGkgKyAxOwogICAgICAgICAgICAgICAgaWYgKCFjLmNvbnRhaW5zKG51bSkpIHsKICAgICAgICAgICAgICAgICAgICBzYi5hcHBlbmQoIkMgIikuYXBwZW5kKG51bSkuYXBwZW5kKCJcbiIpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgMTM7IGkrKykgewogICAgICAgICAgICAgICAgaW50IG51bSA9IGkgKyAxOwogICAgICAgICAgICAgICAgaWYgKCFkLmNvbnRhaW5zKG51bSkpIHsKICAgICAgICAgICAgICAgICAgICBzYi5hcHBlbmQoIkQgIikuYXBwZW5kKG51bSkuYXBwZW5kKCJcbiIpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IEggPSBJbnRlZ2VyLnBhcnNlSW50KGluLnJlYWRMaW5lKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50ICA9IEludGVnZXIucGFyc2VJbnQoaW4ucmVhZExpbmUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc29yZTIrKzsK</text>
       </register>
       <register name=":" type="4">
-        <text>53</text>
+        <text>x</text>
       </register>
     </registers>
     <search>
@@ -205,7 +206,7 @@
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx2aWV3XD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -231,7 +232,6 @@
         <entry>deprecated</entry>
       </history-search>
       <history-cmd>
-        <entry>21</entry>
         <entry>165</entry>
         <entry>213</entry>
         <entry>163</entry>
@@ -249,8 +249,9 @@
         <entry>211</entry>
         <entry>176</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>x</entry>
         <entry>53</entry>
+        <entry>48</entry>
+        <entry>x</entry>
       </history-cmd>
       <history-expr />
       <history-input />
