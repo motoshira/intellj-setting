@@ -1,0 +1,78 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/javasample/src/com/makinoshi/Main.java" timestamp="1563506810018">
+        <mark key="'" line="48" column="34" />
+        <mark key="[" line="48" column="33" />
+        <mark key="]" line="48" column="33" />
+        <mark key="^" line="48" column="32" />
+        <mark key="." line="48" column="33" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="45" column="0" filename="$USER_HOME$/IdeaProjects/javasample/src/com/makinoshi/Main.java" />
+      <jump line="2" column="29" filename="$USER_HOME$/IdeaProjects/javasample/src/com/makinoshi/Main.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/javasample/src/com/makinoshi/Main.java" />
+      <jump line="48" column="34" filename="$USER_HOME$/IdeaProjects/javasample/src/com/makinoshi/Main.java" />
+    </jumps>
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uQnVmZmVyZWRSZWFkZXI7CmltcG9ydCBqYXZhLmlvLklPRXhjZXB0aW9uOwppbXBvcnQgamF2YS5pby5JbnB1dFN0cmVhbVJlYWRlcjsKaW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7CmltcG9ydCBqYXZhLnV0aWwuQXJyYXlzOwppbXBvcnQgamF2YS51dGlsLkNvbXBhcmF0b3I7CmltcG9ydCBqYXZhLnV0aWwuTGlzdDsKCnB1YmxpYyBjbGFzcyBNYWluIHsKCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CiAgICAgICAgdHJ5IChCdWZmZXJlZFJlYWRlciBpbiA9IG5ldyBCdWZmZXJlZFJlYWRlcihuZXcgSW5wdXRTdHJlYW1SZWFkZXIoU3lzdGVtLmluKSkpIHsKICAgICAgICAgICAgaW50IG4gPSBJbnRlZ2VyLnBhcnNlSW50KGluLnJlYWRMaW5lKCkpOwoKICAgICAgICAgICAgTGlzdDxpbnRbXT4gaW5wdXQgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBuOyBpKyspIHsKICAgICAgICAgICAgICAgIGlucHV0LmFkZChBcnJheXMuc3RyZWFtKGluLnJlYWRMaW5lKCkuc3BsaXQoIiAiKSkKICAgICAgICAgICAgICAgICAgICAgICAgLm1hcFRvSW50KEludGVnZXI6OnBhcnNlSW50KS50b0FycmF5KCkpOwogICAgICAgICAgICB9CgogICAgICAgICAgICBMaXN0PGludFtdW10+IHJldCA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgICAgICBpbnQgbkJ1aWxkaW5ncyA9IGlucHV0LnN0cmVhbSgpLm1hcChhIC0+IGFbMF0pLm1heChDb21wYXJhdG9yLm5hdHVyYWxPcmRlcigpKS5nZXQoKTsKICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBuQnVpbGRpbmdzOyBpKyspIHsKICAgICAgICAgICAgICAgIHJldC5hZGQobmV3IGludFszXVsxMF0pOwogICAgICAgICAgICB9CgogICAgICAgICAgICBpbnB1dC5mb3JFYWNoKGFyciAtPiB7CiAgICAgICAgICAgICAgICBpbnQgYiA9IGFyclswXTsKICAgICAgICAgICAgICAgIGludCBmID0gYXJyWzFdOwogICAgICAgICAgICAgICAgaW50IHIgPSBhcnJbMl07CiAgICAgICAgICAgICAgICBpbnQgdiA9IGFyclszXTsKCiAgICAgICAgICAgICAgICByZXQuZ2V0KGIgLSAxKVtmIC0gMV1bciAtIDFdICs9IHY7CiAgICAgICAgICAgIH0pOwoKICAgICAgICAgICAgU3RyaW5nQnVpbGRlciBzYiA9IG5ldyBTdHJpbmdCdWlsZGVyKCk7CiAgICAgICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgcmV0LnNpemUoKTsgaSsrKSB7CiAgICAgICAgICAgICAgICBpZiAoaSA+IDApIHsKICAgICAgICAgICAgICAgICAgICBzYi5hcHBlbmQoIiMjIyMjIyMjIyMjIyMjIyMjIyMjXG4iKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGludFtdW10gYnVpbGRpbmcgPSByZXQuZ2V0KGkpOwogICAgICAgICAgICAgICAgZm9yIChpbnQgaiA9IDA7IGogPCAzOyBqKyspIHsKICAgICAgICAgICAgICAgICAgICBpbnRbXSBmbG9vciA9IGJ1aWxkaW5nW2pdOwogICAgICAgICAgICAgICAgICAgIFN0cmluZ1tdIHNGbG9vciA9IEFycmF5cy5zdHJlYW0oZmxvb3IpLm1hcFRvT2JqKFN0cmluZzo6dmFsdWVPZikudG9BcnJheShTdHJpbmdbXTo6bmV3KTsKICAgICAgICAgICAgICAgICAgICBzYi5hcHBlbmQoIiAiKTsKICAgICAgICAgICAgICAgICAgICBzYi5hcHBlbmQoU3RyaW5nLmpvaW4oIiAiLCBzRmxvb3IpKTsKICAgICAgICAgICAgICAgICAgICBzYi5hcHBlbmQoIlxuXG4iKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc2IpOwogICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9CiAgICAgICAgU3lzdGVtLmV4aXQoMCk7CiAgICB9Cn0K</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5zdHJlYW0uQ29sbGVjdG9yczsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2IuYXBwZW5kKCIjIyMjIyMjIyMjIyMjIyMjIyMjIyIpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoaSA+IDApIHsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNiLmFwcGVuZCgiXG4iKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNiLmFwcGVuZChzKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBzID0gU3RyaW5nLmpvaW4oIiAiLCBzYXJyKTsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZ1tdIHNhcnIgPSBBcnJheXMuc3RyZWFtKHJldC5nZXQoaSkpLm1hcChTdHJpbmc6OnZhbHVlT2YpLnRvQXJyYXkoU3RyaW5nW106Om5ldyk7Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>\</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>true</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
