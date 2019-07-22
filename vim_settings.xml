@@ -10,6 +10,9 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="51" />
       </file>
+      <file name="$USER_HOME$/projects/anpi/web/src/anpi/state/handler.clj" timestamp="1563770860820">
+        <mark key="'" line="21" column="29" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/clojure/tools.logging/0.4.1/tools.logging-0.4.1.jar!/clojure/tools/logging.clj" timestamp="1563233155594">
         <mark key="[" line="183" column="3" />
         <mark key="]" line="183" column="2" />
@@ -54,8 +57,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="504" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
-      <jump line="495" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
       <jump line="473" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
       <jump line="451" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
       <jump line="429" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
@@ -154,6 +155,8 @@
       <jump line="255" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
       <jump line="260" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
       <jump line="47" column="19" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/state/handler.clj" />
+      <jump line="21" column="29" filename="$USER_HOME$/projects/anpi/web/src/anpi/state/handler.clj" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -163,7 +166,7 @@
         <text>currPlayer</text>
       </register>
       <register name="/" type="4">
-        <text>deprecated</text>
+        <text>locale</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">KGRlZm4gXjpkZXByZWNhdGVkIGZpbmQtYnJhbmNoLXN5c3RlbS1tYW5hZ2VycwogICJUT0RPIOODhuOCueODiOOBp+OBl+OBi+S9v+OCj+OCjOOBpuOBhOOBquOBhOOBruOBp+a2iOOBmSIKICBbZGIgY29tcGFueS1pZCAmIGRlcHQtaWRzXQogIChsZXQgW3JvbGUtaWRzIChnZXQtcm9sZS1pZHMgZGIgY29tcGFueS1pZCA6YnJhbmNoLXN5c3RlbS1tYW5hZ2VyKQogICAgICAgIGRlcHQtaWRzIChzb21lLT4gZGVwdC1pZHMgdmVjKV0KICAgICgtPj4gKGZpbmQtbWFuYWdlci1xdWVyeSBjb21wYW55LWlkIDpyb2xlLWlkcyByb2xlLWlkcyA6ZGVwYXJ0bWVudC1pZHMgZGVwdC1pZHMpCiAgICAgICAgIChkYi9mZXRjaCBkYikKICAgICAgICAgKG1hcCByb3ctPk1hbmFnZXIpKSkpCgooZGVmbiBeOmRlcHJlY2F0ZWQgZmluZC1icmFuY2gtcmlzay1tYW5hZ2VycwogICJUT0RPIOODhuOCueODiOOBp+OBl+OBi+S9v+OCj+OCjOOBpuOBhOOBquOBhOOBruOBp+a2iOOBmSIKICBbZGIgY29tcGFueS1pZCAmIGRlcHQtaWRzXQogIChsZXQgW3JvbGUtaWRzIChnZXQtcm9sZS1pZHMgZGIgY29tcGFueS1pZCA6YnJhbmNoLXJpc2stbWFuYWdlcikKICAgICAgICBkZXB0LWlkcyAoc29tZS0+IGRlcHQtaWRzIHZlYyldCiAgICAoLT4+IChmaW5kLW1hbmFnZXItcXVlcnkgY29tcGFueS1pZCA6cm9sZS1pZHMgcm9sZS1pZHMgOmRlcGFydG1lbnQtaWRzIGRlcHQtaWRzKQogICAgICAgICAoZGIvZmV0Y2ggZGIpCiAgICAgICAgIChtYXAgcm93LT5NYW5hZ2VyKSkpKQoKKGRlZm4gXjpkZXByZWNhdGVkIGZpbmQtYnJhbmNoLW1hbmFnZXJzCiAgIlRPRE8g44OG44K544OI44Gn44GX44GL5L2/44KP44KM44Gm44GE44Gq44GE44Gu44Gn5raI44GZIgogIFtkYiBjb21wYW55LWlkICYgZGVwdC1pZHNdCiAgKGxldCBbcm9sZS1pZHMgKGdldC1yb2xlLWlkcyBkYiBjb21wYW55LWlkIDpicmFuY2gtbWFuYWdlcikKICAgICAgICBkZXB0LWlkcyAoc29tZS0+IGRlcHQtaWRzIHZlYyldCiAgICAoLT4+IChmaW5kLW1hbmFnZXItcXVlcnkgY29tcGFueS1pZCA6cm9sZS1pZHMgcm9sZS1pZHMgOmRlcGFydG1lbnQtaWRzIGRlcHQtaWRzKQogICAgICAgICAoZGIvZmV0Y2ggZGIpCiAgICAgICAgIChtYXAgcm93LT5NYW5hZ2VyKSkpKQoK</text>
@@ -196,13 +199,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>x</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>deprecated</last-search>
+      <last-search>locale</last-search>
       <last-offset />
-      <last-pattern>deprecated</last-pattern>
+      <last-pattern>locale</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx2aWV3XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -210,7 +213,6 @@
     </search>
     <history>
       <history-search>
-        <entry>date</entry>
         <entry encoding="base64">XDxmYWN0c1w+</entry>
         <entry encoding="base64">XDxjb21wYW5pZXNcPg==</entry>
         <entry>rep</entry>
@@ -230,6 +232,7 @@
         <entry encoding="base64">XDxmYWN0XD4=</entry>
         <entry>defn revoke-all</entry>
         <entry>deprecated</entry>
+        <entry>locale</entry>
       </history-search>
       <history-cmd>
         <entry>165</entry>
@@ -243,7 +246,6 @@
         <entry>125</entry>
         <entry>116</entry>
         <entry>47</entry>
-        <entry>noh</entry>
         <entry>24</entry>
         <entry>20n</entry>
         <entry>211</entry>
@@ -252,6 +254,7 @@
         <entry>53</entry>
         <entry>48</entry>
         <entry>x</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
