@@ -28,12 +28,12 @@
         <mark key="." line="430" column="47" />
         <mark key="^" line="430" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/anpi/worker/src/anpi/service/send_bulk_mail.clj" timestamp="1563784328320">
+      <file name="$USER_HOME$/projects/anpi/worker/src/anpi/service/send_bulk_mail.clj" timestamp="1563785036711">
         <mark key="'" line="106" column="31" />
-        <mark key="[" line="148" column="70" />
-        <mark key="]" line="149" column="63" />
-        <mark key="^" line="149" column="63" />
-        <mark key="." line="149" column="63" />
+        <mark key="[" line="101" column="18" />
+        <mark key="]" line="102" column="1" />
+        <mark key="^" line="102" column="1" />
+        <mark key="." line="102" column="1" />
       </file>
       <file name="$USER_HOME$/projects/anpi/db/src/anpi/db/entity/company_orphan_department.clj" timestamp="1563345291447">
         <mark key="[" line="27" column="16" />
