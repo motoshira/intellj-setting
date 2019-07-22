@@ -19,11 +19,21 @@
         <mark key="^" line="183" column="2" />
         <mark key="." line="183" column="2" />
       </file>
+      <file name="/REPL.clj" timestamp="1563784210768">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/anpi/web/src/anpi/core/csv_import/member_role.clj" timestamp="1563351084291">
         <mark key="[" line="430" column="43" />
         <mark key="]" line="430" column="47" />
         <mark key="." line="430" column="47" />
         <mark key="^" line="430" column="47" />
+      </file>
+      <file name="$USER_HOME$/projects/anpi/worker/src/anpi/service/send_bulk_mail.clj" timestamp="1563784328320">
+        <mark key="'" line="106" column="31" />
+        <mark key="[" line="148" column="70" />
+        <mark key="]" line="149" column="63" />
+        <mark key="^" line="149" column="63" />
+        <mark key="." line="149" column="63" />
       </file>
       <file name="$USER_HOME$/projects/anpi/db/src/anpi/db/entity/company_orphan_department.clj" timestamp="1563345291447">
         <mark key="[" line="27" column="16" />
@@ -57,8 +67,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="473" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
-      <jump line="451" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
       <jump line="429" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
       <jump line="413" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
       <jump line="407" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
@@ -157,6 +165,8 @@
       <jump line="47" column="19" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/state/handler.clj" />
       <jump line="21" column="29" filename="$USER_HOME$/projects/anpi/web/src/anpi/state/handler.clj" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/anpi/worker/src/anpi/service/send_bulk_mail.clj" />
+      <jump line="106" column="31" filename="$USER_HOME$/projects/anpi/worker/src/anpi/service/send_bulk_mail.clj" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
