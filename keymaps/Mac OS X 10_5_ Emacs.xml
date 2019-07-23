@@ -75,10 +75,6 @@
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="EditorIndentSelection" />
-  <action id="EditorPageDown">
-    <keyboard-shortcut first-keystroke="page_down" />
-    <keyboard-shortcut first-keystroke="ctrl v" />
-  </action>
   <action id="EditorScrollToCenter">
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
