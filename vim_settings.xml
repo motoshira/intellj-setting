@@ -3,13 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" timestamp="1564014280967">
-        <mark key="'" line="66" column="0" />
-        <mark key="j" line="33" column="0" />
-        <mark key="[" line="38" column="21" />
-        <mark key="]" line="40" column="41" />
-        <mark key="." line="40" column="41" />
-        <mark key="^" line="40" column="41" />
+      <file name="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" timestamp="1564015929137">
+        <mark key="'" line="56" column="18" />
+        <mark key="j" line="37" column="0" />
+        <mark key="[" line="43" column="42" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="28" column="46" />
       </file>
       <file name="$USER_HOME$/projects/anpi/web/src/anpi/state/handler.clj" timestamp="1563770860820">
         <mark key="'" line="21" column="29" />
@@ -71,7 +71,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
       <jump line="57" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
       <jump line="64" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
       <jump line="71" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
@@ -171,13 +170,14 @@
       <jump line="29" column="0" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
       <jump line="31" column="0" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
+      <jump line="54" column="18" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">KGRlZm4gXjpkZXByZWNhdGVkIGZpbmQtYnJhbmNoLXN5c3RlbS1tYW5hZ2VycwogICJUT0RPIOODhuOCueODiOOBp+OBl+OBi+S9v+OCj+OCjOOBpuOBhOOBquOBhOOBruOBp+a2iOOBmSIKICBbZGIgY29tcGFueS1pZCAmIGRlcHQtaWRzXQogIChsZXQgW3JvbGUtaWRzIChnZXQtcm9sZS1pZHMgZGIgY29tcGFueS1pZCA6YnJhbmNoLXN5c3RlbS1tYW5hZ2VyKQogICAgICAgIGRlcHQtaWRzIChzb21lLT4gZGVwdC1pZHMgdmVjKV0KICAgICgtPj4gKGZpbmQtbWFuYWdlci1xdWVyeSBjb21wYW55LWlkIDpyb2xlLWlkcyByb2xlLWlkcyA6ZGVwYXJ0bWVudC1pZHMgZGVwdC1pZHMpCiAgICAgICAgIChkYi9mZXRjaCBkYikKICAgICAgICAgKG1hcCByb3ctPk1hbmFnZXIpKSkpCgooZGVmbiBeOmRlcHJlY2F0ZWQgZmluZC1icmFuY2gtcmlzay1tYW5hZ2VycwogICJUT0RPIOODhuOCueODiOOBp+OBl+OBi+S9v+OCj+OCjOOBpuOBhOOBquOBhOOBruOBp+a2iOOBmSIKICBbZGIgY29tcGFueS1pZCAmIGRlcHQtaWRzXQogIChsZXQgW3JvbGUtaWRzIChnZXQtcm9sZS1pZHMgZGIgY29tcGFueS1pZCA6YnJhbmNoLXJpc2stbWFuYWdlcikKICAgICAgICBkZXB0LWlkcyAoc29tZS0+IGRlcHQtaWRzIHZlYyldCiAgICAoLT4+IChmaW5kLW1hbmFnZXItcXVlcnkgY29tcGFueS1pZCA6cm9sZS1pZHMgcm9sZS1pZHMgOmRlcGFydG1lbnQtaWRzIGRlcHQtaWRzKQogICAgICAgICAoZGIvZmV0Y2ggZGIpCiAgICAgICAgIChtYXAgcm93LT5NYW5hZ2VyKSkpKQoKKGRlZm4gXjpkZXByZWNhdGVkIGZpbmQtYnJhbmNoLW1hbmFnZXJzCiAgIlRPRE8g44OG44K544OI44Gn44GX44GL5L2/44KP44KM44Gm44GE44Gq44GE44Gu44Gn5raI44GZIgogIFtkYiBjb21wYW55LWlkICYgZGVwdC1pZHNdCiAgKGxldCBbcm9sZS1pZHMgKGdldC1yb2xlLWlkcyBkYiBjb21wYW55LWlkIDpicmFuY2gtbWFuYWdlcikKICAgICAgICBkZXB0LWlkcyAoc29tZS0+IGRlcHQtaWRzIHZlYyldCiAgICAoLT4+IChmaW5kLW1hbmFnZXItcXVlcnkgY29tcGFueS1pZCA6cm9sZS1pZHMgcm9sZS1pZHMgOmRlcGFydG1lbnQtaWRzIGRlcHQtaWRzKQogICAgICAgICAoZGIvZmV0Y2ggZGIpCiAgICAgICAgIChtYXAgcm93LT5NYW5hZ2VyKSkpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>数値の場合、stackに何があるかによって挙動が変わる</text>
+        <text>数値や(を積む</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwoXD4=</text>
@@ -186,31 +186,31 @@
         <text encoding="base64">aW1wb3J0IGphdmEuaW8uQnVmZmVyZWRSZWFkZXI7CmltcG9ydCBqYXZhLmlvLklPRXhjZXB0aW9uOwppbXBvcnQgamF2YS5pby5JbnB1dFN0cmVhbVJlYWRlcjsKCnB1YmxpYyBjbGFzcyBNYWluIHsKICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICB0cnkgKEJ1ZmZlcmVkUmVhZGVyIGluID0gbmV3IEJ1ZmZlcmVkUmVhZGVyKG5ldyBJbnB1dFN0cmVhbVJlYWRlcihTeXN0ZW0uaW4pKSkgewogICAgICAgICAgICBTdHJpbmcgaW5wdXQgPSBpbi5yZWFkTGluZSgpOwogICAgICAgICAgICBTdHJpbmdCdWlsZGVyIG91dCA9IG5ldyBTdHJpbmdCdWlsZGVyKCk7CiAgICAgICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgaW5wdXQubGVuZ3RoKCk7IGkrKykgewogICAgICAgICAgICAgICAgaWYgKENoYXJhY3Rlci5pc1VwcGVyQ2FzZShpbnB1dC5jaGFyQXQoaSkpKSB7CiAgICAgICAgICAgICAgICAgICAgb3V0LmFwcGVuZChDaGFyYWN0ZXIudG9Mb3dlckNhc2UoaW5wdXQuY2hhckF0KGkpKSk7CiAgICAgICAgICAgICAgICB9IGVsc2UgaWYgKENoYXJhY3Rlci5pc0xvd2VyQ2FzZShpbnB1dC5jaGFyQXQoaSkpKSB7CiAgICAgICAgICAgICAgICAgICAgb3V0LmFwcGVuZChDaGFyYWN0ZXIudG9VcHBlckNhc2UoaW5wdXQuY2hhckF0KGkpKSk7CiAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgIG91dC5hcHBlbmQoaW5wdXQuY2hhckF0KGkpKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQoKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG91dCk7CiAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0KICAgICAgICBTeXN0ZW0uZXhpdCgwKTsKICAgIH0KfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHN0YWNrLmNvbnRhaW5zKCcoJykpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIOOBi+OBo+OBk+WGheOBp+OBguOCjOOBsOOBvuOBoOWxlemWi+W+jOaWh+Wtl+WIl+OCkueiuuWumuOBp+OBjeOBquOBhOOBruOBp+OCueOCv+ODg+OCr+OBq+OBpOOCgAogICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RhY2suYWRkRmlyc3QoYyk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAvLyDjgYvjgaPjgZPlhoXjgafjgarjgYTjga7jgarjgonjgIHjgrnjgr/jg4Pjgq/jgavjgYLjgovjga7jga/mlbDlgKTjga7jgb/jgaoKICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIG1vZGUgPSAiIjsgLy8gbnVtYmVyLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IGxlbiA9IFMubGVuZ3RoKCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">U3RyaW5nQnVpbGRlciBvdXQgPSBuZXcgU3RyaW5nQnVpbGRlcigpOwogICAgICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDI2OyBpKyspIHsKICAgICAgICAgICAgICAgIENoYXJhY3RlciBjID0gKGNoYXIpIChpICsgOTcpOwogICAgICAgICAgICAgICAgb3V0LmFwcGVuZChjKTsKICAgICAgICAgICAgICAgIG91dC5hcHBlbmQoIiAiKTsKICAgICAgICAgICAgICAgIG91dC5hcHBlbmQocmV0LmdldChjKSk7CiAgICAgICAgICAgICAgICBvdXQuYXBwZW5kKHI=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3RhY2suYWRkRmlyc3QoYyk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIG1vZGUgPSAiIjsgLy8gbnVtYmVyLAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dC5hcHBlbmQocmV0LmdldChjKSk7CiAgICAgICAgICAgICAgICBvdXQuYXBwZW5kKHJldC5nZXQoYykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0LnB1dChjLCByZXQuZ2V0KGMpICsgMSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50W10gcmVzdWx0ID0gbmV3IGludFsyNl07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIG1vZGUgPSAiIjsgLy8gbnVtYmVyLAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
