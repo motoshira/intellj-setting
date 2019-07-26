@@ -224,7 +224,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJZZXMiKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>x</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -274,12 +274,12 @@
         <entry>53</entry>
         <entry>48</entry>
         <entry>63</entry>
-        <entry>q</entry>
         <entry>w</entry>
         <entry>89</entry>
         <entry>290</entry>
         <entry>noh</entry>
         <entry>x</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
