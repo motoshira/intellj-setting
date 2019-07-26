@@ -57,6 +57,13 @@
         <mark key="." line="430" column="47" />
         <mark key="^" line="430" column="47" />
       </file>
+      <file name="$USER_HOME$/projects/anpi/web/src-dev/user.clj" timestamp="1564125820062">
+        <mark key="'" line="68" column="6" />
+        <mark key="[" line="1" column="18" />
+        <mark key="]" line="1" column="12" />
+        <mark key="^" line="1" column="12" />
+        <mark key="." line="1" column="12" />
+      </file>
       <file name="$USER_HOME$/projects/anpi/db/src/anpi/db/entity/company_orphan_department.clj" timestamp="1563345291447">
         <mark key="[" line="27" column="16" />
         <mark key="]" line="27" column="24" />
@@ -77,10 +84,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="192" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
-      <jump line="171" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
-      <jump line="154" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
-      <jump line="147" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
       <jump line="22" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
       <jump line="343" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
@@ -177,6 +180,10 @@
       <jump line="13" column="13" filename="$USER_HOME$/projects/anpi/mobileapi/src/anpi/routes.clj" />
       <jump line="301" column="0" filename="$USER_HOME$/projects/anpi/mobileapi/src/anpi/core/main.clj" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/anpi/mobileapi/src/anpi/core/main.clj" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/anpi/web/src-dev/user.clj" />
+      <jump line="1" column="18" filename="$USER_HOME$/projects/anpi/web/src-dev/user.clj" />
+      <jump line="2" column="36" filename="$USER_HOME$/projects/anpi/web/src-dev/user.clj" />
+      <jump line="68" column="6" filename="$USER_HOME$/projects/anpi/web/src-dev/user.clj" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -186,7 +193,7 @@
         <text>int</text>
       </register>
       <register name="/" type="4">
-        <text>device</text>
+        <text>migra</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGphdmEuaW8uQnVmZmVyZWRSZWFkZXI7CmltcG9ydCBqYXZhLmlvLklPRXhjZXB0aW9uOwppbXBvcnQgamF2YS5pby5JbnB1dFN0cmVhbVJlYWRlcjsKaW1wb3J0IGphdmEudXRpbC5BcnJheURlcXVlOwppbXBvcnQgamF2YS51dGlsLkRlcXVlOwppbXBvcnQgamF2YS51dGlsLkhhc2hNYXA7CmltcG9ydCBqYXZhLnV0aWwuTWFwOwoKcHVibGljIGNsYXNzIE1haW4gewogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgewogICAgICAgIHRyeSAoQnVmZmVyZWRSZWFkZXIgaW4gPSBuZXcgQnVmZmVyZWRSZWFkZXIobmV3IElucHV0U3RyZWFtUmVhZGVyKFN5c3RlbS5pbikpKXsKICAgICAgICAgICAgU3RyaW5nIHMgPSBpbi5yZWFkTGluZSgpOwovLyAgICAgICAgICAgIFN0cmluZyBzID0gIjJhMihiYykiOwoKICAgICAgICAgICAgTWFwPENoYXJhY3RlciwgTG9uZz4gcmV0ID0gbmV3IEhhc2hNYXA8PigpOwogICAgICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDI2OyBpKyspIHsKICAgICAgICAgICAgICAgIENoYXJhY3RlciBjID0gKGNoYXIpIChpICsgOTcpOwogICAgICAgICAgICAgICAgcmV0LnB1dChjLCAobG9uZykwKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgRGVxdWU8TG9uZz4gc3RhY2sgPSBuZXcgQXJyYXlEZXF1ZTw+KCk7CiAgICAgICAgICAgIFN0cmluZ0J1aWxkZXIgbnVtYmVyID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsKICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBzLmxlbmd0aCgpOyBpKyspIHsKICAgICAgICAgICAgICAgIGNoYXIgYyA9IHMuY2hhckF0KGkpOwogICAgICAgICAgICAgICAgaWYgKENoYXJhY3Rlci5pc0RpZ2l0KGMpKSB7CiAgICAgICAgICAgICAgICAgICAgbnVtYmVyLmFwcGVuZChjKTsKICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAoQ2hhcmFjdGVyLmlzQWxwaGFiZXRpYyhjKSkgewogICAgICAgICAgICAgICAgICAgIGxvbmcgbjsKICAgICAgICAgICAgICAgICAgICBpZiAobnVtYmVyLmxlbmd0aCgpID09IDApIG4gPSAxOwogICAgICAgICAgICAgICAgICAgIGVsc2UgbiA9IExvbmcucGFyc2VMb25nKG51bWJlci50b1N0cmluZygpKTsKICAgICAgICAgICAgICAgICAgICBudW1iZXIgPSBuZXcgU3RyaW5nQnVpbGRlcigpOwoKICAgICAgICAgICAgICAgICAgICBzdGFjay5hZGRGaXJzdChuKTsKICAgICAgICAgICAgICAgICAgICBsb25nIGluYyA9IHN0YWNrLnN0cmVhbSgpLnJlZHVjZSgobG9uZykxLCAoYWNjLCB4KSAtPiBhY2MgKiB4KTsKICAgICAgICAgICAgICAgICAgICByZXQucHV0KGMsIHJldC5nZXQoYykgKyBpbmMpOwogICAgICAgICAgICAgICAgICAgIHN0YWNrLnJlbW92ZUZpcnN0KCk7CiAgICAgICAgICAgICAgICB9IGVsc2UgaWYgKGMgPT0gJygnKSB7CiAgICAgICAgICAgICAgICAgICAgbG9uZyBuOwogICAgICAgICAgICAgICAgICAgIGlmIChudW1iZXIubGVuZ3RoKCkgPT0gMCkgbiA9IDE7CiAgICAgICAgICAgICAgICAgICAgZWxzZSBuID0gSW50ZWdlci5wYXJzZUludChudW1iZXIudG9TdHJpbmcoKSk7CiAgICAgICAgICAgICAgICAgICAgbnVtYmVyID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsKCiAgICAgICAgICAgICAgICAgICAgc3RhY2suYWRkRmlyc3Qobik7CiAgICAgICAgICAgICAgICB9IGVsc2UgaWYgKGMgPT0gJyknKSB7CiAgICAgICAgICAgICAgICAgICAgc3RhY2sucmVtb3ZlRmlyc3QoKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQoKICAgICAgICAgICAgU3RyaW5nQnVpbGRlciBvdXQgPSBuZXcgU3RyaW5nQnVpbGRlcigpOwogICAgICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDI2OyBpKyspIHsKICAgICAgICAgICAgICAgIGNoYXIgYyA9IChjaGFyKSAoaSArIDk3KTsKICAgICAgICAgICAgICAgIG91dC5hcHBlbmQoYyk7CiAgICAgICAgICAgICAgICBvdXQuYXBwZW5kKCIgIik7CiAgICAgICAgICAgICAgICBvdXQuYXBwZW5kKHJldC5nZXQoYykpOwogICAgICAgICAgICAgICAgb3V0LmFwcGVuZCgiXG4iKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50KG91dCk7CiAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0KICAgIH0KfQo=</text>
@@ -223,17 +230,16 @@
       </register>
     </registers>
     <search>
-      <last-search>device</last-search>
+      <last-search>migra</last-search>
       <last-offset />
-      <last-pattern>device</last-pattern>
+      <last-pattern>migra</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx2aWV3XD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkZWxldGVcPg==</entry>
         <entry>delete</entry>
         <entry>defn delete</entry>
         <entry encoding="base64">XDxtYW5hZ2VyXD4=</entry>
@@ -253,6 +259,7 @@
         <entry>inBlace</entry>
         <entry>ret</entry>
         <entry>device</entry>
+        <entry>migra</entry>
       </history-search>
       <history-cmd>
         <entry>119</entry>
