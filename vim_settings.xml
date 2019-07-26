@@ -34,13 +34,12 @@
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" timestamp="1564103579705">
-        <mark key="'" line="44" column="0" />
-        <mark key="j" line="53" column="12" />
+      <file name="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" timestamp="1564128259144">
+        <mark key="'" line="21" column="32" />
         <mark key="[" line="2" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="35" column="57" />
-        <mark key="^" line="35" column="57" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="19" column="32" />
+        <mark key="^" line="19" column="32" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/clojure/tools.logging/0.4.1/tools.logging-0.4.1.jar!/clojure/tools/logging.clj" timestamp="1563233155594">
         <mark key="[" line="183" column="3" />
@@ -84,7 +83,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
       <jump line="22" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
       <jump line="343" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
       <jump line="28" column="0" filename="$USER_HOME$/projects/anpi/web/src/anpi/core/role_management.clj" />
@@ -132,7 +130,6 @@
       <jump line="16" column="0" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
       <jump line="12" column="26" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
       <jump line="9" column="0" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
-      <jump line="29" column="0" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
       <jump line="31" column="0" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
       <jump line="54" column="18" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
       <jump line="123" column="4" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
@@ -157,7 +154,6 @@
       <jump line="61" column="39" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
       <jump line="102" column="0" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
       <jump line="17" column="36" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
-      <jump line="21" column="16" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
       <jump line="38" column="35" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
       <jump line="57" column="32" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
       <jump line="2" column="0" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
@@ -165,9 +161,7 @@
       <jump line="33" column="25" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
       <jump line="60" column="20" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
       <jump line="105" column="23" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
-      <jump line="19" column="21" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
       <jump line="4" column="0" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
-      <jump line="25" column="28" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
       <jump line="111" column="11" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
       <jump line="45" column="20" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
       <jump line="43" column="0" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
@@ -175,7 +169,6 @@
       <jump line="20" column="0" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
       <jump line="63" column="0" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
-      <jump line="44" column="0" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/anpi/mobileapi/src/anpi/routes.clj" />
       <jump line="13" column="13" filename="$USER_HOME$/projects/anpi/mobileapi/src/anpi/routes.clj" />
       <jump line="301" column="0" filename="$USER_HOME$/projects/anpi/mobileapi/src/anpi/core/main.clj" />
@@ -184,55 +177,61 @@
       <jump line="1" column="18" filename="$USER_HOME$/projects/anpi/web/src-dev/user.clj" />
       <jump line="2" column="36" filename="$USER_HOME$/projects/anpi/web/src-dev/user.clj" />
       <jump line="68" column="6" filename="$USER_HOME$/projects/anpi/web/src-dev/user.clj" />
+      <jump line="29" column="12" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
+      <jump line="19" column="28" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
+      <jump line="15" column="0" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
+      <jump line="25" column="0" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
+      <jump line="44" column="0" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
+      <jump line="21" column="32" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">KGRlZm4gXjpkZXByZWNhdGVkIGZpbmQtYnJhbmNoLXN5c3RlbS1tYW5hZ2VycwogICJUT0RPIOODhuOCueODiOOBp+OBl+OBi+S9v+OCj+OCjOOBpuOBhOOBquOBhOOBruOBp+a2iOOBmSIKICBbZGIgY29tcGFueS1pZCAmIGRlcHQtaWRzXQogIChsZXQgW3JvbGUtaWRzIChnZXQtcm9sZS1pZHMgZGIgY29tcGFueS1pZCA6YnJhbmNoLXN5c3RlbS1tYW5hZ2VyKQogICAgICAgIGRlcHQtaWRzIChzb21lLT4gZGVwdC1pZHMgdmVjKV0KICAgICgtPj4gKGZpbmQtbWFuYWdlci1xdWVyeSBjb21wYW55LWlkIDpyb2xlLWlkcyByb2xlLWlkcyA6ZGVwYXJ0bWVudC1pZHMgZGVwdC1pZHMpCiAgICAgICAgIChkYi9mZXRjaCBkYikKICAgICAgICAgKG1hcCByb3ctPk1hbmFnZXIpKSkpCgooZGVmbiBeOmRlcHJlY2F0ZWQgZmluZC1icmFuY2gtcmlzay1tYW5hZ2VycwogICJUT0RPIOODhuOCueODiOOBp+OBl+OBi+S9v+OCj+OCjOOBpuOBhOOBquOBhOOBruOBp+a2iOOBmSIKICBbZGIgY29tcGFueS1pZCAmIGRlcHQtaWRzXQogIChsZXQgW3JvbGUtaWRzIChnZXQtcm9sZS1pZHMgZGIgY29tcGFueS1pZCA6YnJhbmNoLXJpc2stbWFuYWdlcikKICAgICAgICBkZXB0LWlkcyAoc29tZS0+IGRlcHQtaWRzIHZlYyldCiAgICAoLT4+IChmaW5kLW1hbmFnZXItcXVlcnkgY29tcGFueS1pZCA6cm9sZS1pZHMgcm9sZS1pZHMgOmRlcGFydG1lbnQtaWRzIGRlcHQtaWRzKQogICAgICAgICAoZGIvZmV0Y2ggZGIpCiAgICAgICAgIChtYXAgcm93LT5NYW5hZ2VyKSkpKQoKKGRlZm4gXjpkZXByZWNhdGVkIGZpbmQtYnJhbmNoLW1hbmFnZXJzCiAgIlRPRE8g44OG44K544OI44Gn44GX44GL5L2/44KP44KM44Gm44GE44Gq44GE44Gu44Gn5raI44GZIgogIFtkYiBjb21wYW55LWlkICYgZGVwdC1pZHNdCiAgKGxldCBbcm9sZS1pZHMgKGdldC1yb2xlLWlkcyBkYiBjb21wYW55LWlkIDpicmFuY2gtbWFuYWdlcikKICAgICAgICBkZXB0LWlkcyAoc29tZS0+IGRlcHQtaWRzIHZlYyldCiAgICAoLT4+IChmaW5kLW1hbmFnZXItcXVlcnkgY29tcGFueS1pZCA6cm9sZS1pZHMgcm9sZS1pZHMgOmRlcGFydG1lbnQtaWRzIGRlcHQtaWRzKQogICAgICAgICAoZGIvZmV0Y2ggZGIpCiAgICAgICAgIChtYXAgcm93LT5NYW5hZ2VyKSkpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
-        <text>migra</text>
+        <text encoding="base64">XDxzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uQnVmZmVyZWRSZWFkZXI7CmltcG9ydCBqYXZhLmlvLklPRXhjZXB0aW9uOwppbXBvcnQgamF2YS5pby5JbnB1dFN0cmVhbVJlYWRlcjsKaW1wb3J0IGphdmEudXRpbC5BcnJheURlcXVlOwppbXBvcnQgamF2YS51dGlsLkRlcXVlOwppbXBvcnQgamF2YS51dGlsLkhhc2hNYXA7CmltcG9ydCBqYXZhLnV0aWwuTWFwOwoKcHVibGljIGNsYXNzIE1haW4gewogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgewogICAgICAgIHRyeSAoQnVmZmVyZWRSZWFkZXIgaW4gPSBuZXcgQnVmZmVyZWRSZWFkZXIobmV3IElucHV0U3RyZWFtUmVhZGVyKFN5c3RlbS5pbikpKXsKICAgICAgICAgICAgU3RyaW5nIHMgPSBpbi5yZWFkTGluZSgpOwovLyAgICAgICAgICAgIFN0cmluZyBzID0gIjJhMihiYykiOwoKICAgICAgICAgICAgTWFwPENoYXJhY3RlciwgTG9uZz4gcmV0ID0gbmV3IEhhc2hNYXA8PigpOwogICAgICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDI2OyBpKyspIHsKICAgICAgICAgICAgICAgIENoYXJhY3RlciBjID0gKGNoYXIpIChpICsgOTcpOwogICAgICAgICAgICAgICAgcmV0LnB1dChjLCAobG9uZykwKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgRGVxdWU8TG9uZz4gc3RhY2sgPSBuZXcgQXJyYXlEZXF1ZTw+KCk7CiAgICAgICAgICAgIFN0cmluZ0J1aWxkZXIgbnVtYmVyID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsKICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBzLmxlbmd0aCgpOyBpKyspIHsKICAgICAgICAgICAgICAgIGNoYXIgYyA9IHMuY2hhckF0KGkpOwogICAgICAgICAgICAgICAgaWYgKENoYXJhY3Rlci5pc0RpZ2l0KGMpKSB7CiAgICAgICAgICAgICAgICAgICAgbnVtYmVyLmFwcGVuZChjKTsKICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAoQ2hhcmFjdGVyLmlzQWxwaGFiZXRpYyhjKSkgewogICAgICAgICAgICAgICAgICAgIGxvbmcgbjsKICAgICAgICAgICAgICAgICAgICBpZiAobnVtYmVyLmxlbmd0aCgpID09IDApIG4gPSAxOwogICAgICAgICAgICAgICAgICAgIGVsc2UgbiA9IExvbmcucGFyc2VMb25nKG51bWJlci50b1N0cmluZygpKTsKICAgICAgICAgICAgICAgICAgICBudW1iZXIgPSBuZXcgU3RyaW5nQnVpbGRlcigpOwoKICAgICAgICAgICAgICAgICAgICBzdGFjay5hZGRGaXJzdChuKTsKICAgICAgICAgICAgICAgICAgICBsb25nIGluYyA9IHN0YWNrLnN0cmVhbSgpLnJlZHVjZSgobG9uZykxLCAoYWNjLCB4KSAtPiBhY2MgKiB4KTsKICAgICAgICAgICAgICAgICAgICByZXQucHV0KGMsIHJldC5nZXQoYykgKyBpbmMpOwogICAgICAgICAgICAgICAgICAgIHN0YWNrLnJlbW92ZUZpcnN0KCk7CiAgICAgICAgICAgICAgICB9IGVsc2UgaWYgKGMgPT0gJygnKSB7CiAgICAgICAgICAgICAgICAgICAgbG9uZyBuOwogICAgICAgICAgICAgICAgICAgIGlmIChudW1iZXIubGVuZ3RoKCkgPT0gMCkgbiA9IDE7CiAgICAgICAgICAgICAgICAgICAgZWxzZSBuID0gSW50ZWdlci5wYXJzZUludChudW1iZXIudG9TdHJpbmcoKSk7CiAgICAgICAgICAgICAgICAgICAgbnVtYmVyID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsKCiAgICAgICAgICAgICAgICAgICAgc3RhY2suYWRkRmlyc3Qobik7CiAgICAgICAgICAgICAgICB9IGVsc2UgaWYgKGMgPT0gJyknKSB7CiAgICAgICAgICAgICAgICAgICAgc3RhY2sucmVtb3ZlRmlyc3QoKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQoKICAgICAgICAgICAgU3RyaW5nQnVpbGRlciBvdXQgPSBuZXcgU3RyaW5nQnVpbGRlcigpOwogICAgICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDI2OyBpKyspIHsKICAgICAgICAgICAgICAgIGNoYXIgYyA9IChjaGFyKSAoaSArIDk3KTsKICAgICAgICAgICAgICAgIG91dC5hcHBlbmQoYyk7CiAgICAgICAgICAgICAgICBvdXQuYXBwZW5kKCIgIik7CiAgICAgICAgICAgICAgICBvdXQuYXBwZW5kKHJldC5nZXQoYykpOwogICAgICAgICAgICAgICAgb3V0LmFwcGVuZCgiXG4iKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50KG91dCk7CiAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0KICAgIH0KfQo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uQnVmZmVyZWRSZWFkZXI7CmltcG9ydCBqYXZhLmlvLklPRXhjZXB0aW9uOwppbXBvcnQgamF2YS5pby5JbnB1dFN0cmVhbVJlYWRlcjsKaW1wb3J0IGphdmEudXRpbC5IYXNoTWFwOwppbXBvcnQgamF2YS51dGlsLk1hcDsKCnB1YmxpYyBjbGFzcyBNYWluIHsKICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICB0cnkgKEJ1ZmZlcmVkUmVhZGVyIGluID0gbmV3IEJ1ZmZlcmVkUmVhZGVyKG5ldyBJbnB1dFN0cmVhbVJlYWRlcihTeXN0ZW0uaW4pKSl7CiAgICAgICAgICAgIE1hcDxDaGFyYWN0ZXIsIEludGVnZXI+IHJldCA9IG5ldyBIYXNoTWFwPD4oKTsKICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCAyNjsgaSsrKSB7CiAgICAgICAgICAgICAgICBjaGFyIGMgPSAoY2hhcikgKGkgKyA5Nyk7CiAgICAgICAgICAgICAgICByZXQucHV0KGMsIDApOwogICAgICAgICAgICB9CgogICAgICAgICAgICB3aGlsZSAodHJ1ZSkgewogICAgICAgICAgICAgICAgU3RyaW5nIHMgPSBpbi5yZWFkTGluZSgpOwogICAgICAgICAgICAgICAgaWYgKHMgPT0gbnVsbCB8fCBzLmVxdWFscygiIikpIGJyZWFrOwoKICAgICAgICAgICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgcy5sZW5ndGgoKTsgaSsrKSB7CiAgICAgICAgICAgICAgICAgICAgY2hhciBjID0gcy5jaGFyQXQoaSk7CiAgICAgICAgICAgICAgICAgICAgaWYgKENoYXJhY3Rlci5pc0FscGhhYmV0aWMoYykpIHsKICAgICAgICAgICAgICAgICAgICAgICAgYyA9IENoYXJhY3Rlci50b0xvd2VyQ2FzZShjKTsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0LnB1dChjLCByZXQuZ2V0KGMpICsgMSk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CgogICAgICAgICAgICBTdHJpbmdCdWlsZGVyIHNiID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsKICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCAyNjsgaSsrKSB7CiAgICAgICAgICAgICAgICBjaGFyIGMgPSAoY2hhcikgKGkgKyA5Nyk7CiAgICAgICAgICAgICAgICBzYi5hcHBlbmQoYyk7CiAgICAgICAgICAgICAgICBzYi5hcHBlbmQoIiA6ICIpOwogICAgICAgICAgICAgICAgc2IuYXBwZW5kKHJldC5nZXQoYykpOwogICAgICAgICAgICAgICAgc2IuYXBwZW5kKCJcbiIpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoc2IpOwogICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9CiAgICB9Cn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBudW1iZXIuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtdWx0aXBseUFyci4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHMgPSBpbi5yZWFkTGluZSgpOwogICAgICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IHMubGVuZ3RoKCk7IGkrKykgewogICAgICAgICAgICAgICAgY2hhciBjID0gcy5jaGFyQXQoaSk7CiAgICAgICAgICAgICAgICBpZiAoQ2hhcmFjdGVyLmlzQWxwaGFiZXRpYyhjKSkgewogICAgICAgICAgICAgICAgICAgIGMgPSBDaGFyYWN0ZXIudG9Mb3dlckNhc2UoYyk7CiAgICAgICAgICAgICAgICAgICAgcmV0LnB1dChjLCByZXQuZ2V0KGMpICsgMSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">U3RyaW5nQnVpbGRlciBvdXQgPSBuZXcgU3RyaW5nQnVpbGRlcigpOwogICAgICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDI2OyBpKyspIHsKICAgICAgICAgICAgICAgIGNoYXIgYyA9IChjaGFyKSAoaSArIDk3KTsKICAgICAgICAgICAgICAgIG91dC5hcHBlbmQoYyk7CiAgICAgICAgICAgICAgICBvdXQuYXBwZW5kKCIgIik7CiAgICAgICAgICAgICAgICBvdXQuYXBwZW5kKA==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50W10gcmV0ID0gcC5leHByKCk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUGFyc2VyIHAgPSBuZXcgUGFyc2VyKHMpOwo=</text>
-      </register>
-      <register name="7" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHMgPSBpbi5yZWFkTGluZSgpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHMgPSBpbi5yZWFkTGluZSgpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1bSArPSBuOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBuID0gQ2hhcmFjdGVyLmRpZ2l0KHMuY2hhckF0KGkpLCAxMCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBzLmxlbmd0aCgpOyBpKyspIHsK</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>x</text>
       </register>
     </registers>
     <search>
-      <last-search>migra</last-search>
+      <last-search encoding="base64">XDxzXD4=</last-search>
       <last-offset />
-      <last-pattern>migra</last-pattern>
+      <last-pattern encoding="base64">XDxzXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx2aWV3XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -240,7 +239,6 @@
     </search>
     <history>
       <history-search>
-        <entry>delete</entry>
         <entry>defn delete</entry>
         <entry encoding="base64">XDxtYW5hZ2VyXD4=</entry>
         <entry encoding="base64">XDxmaW5kXD4=</entry>
@@ -260,6 +258,7 @@
         <entry>ret</entry>
         <entry>device</entry>
         <entry>migra</entry>
+        <entry encoding="base64">XDxzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>119</entry>
@@ -278,10 +277,10 @@
         <entry>63</entry>
         <entry>q</entry>
         <entry>w</entry>
-        <entry>x</entry>
         <entry>89</entry>
         <entry>290</entry>
         <entry>noh</entry>
+        <entry>x</entry>
       </history-cmd>
       <history-expr />
       <history-input />
