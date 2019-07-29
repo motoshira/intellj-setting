@@ -77,16 +77,18 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="49" column="0" />
       </file>
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/Math.java" timestamp="1564209192691">
-        <mark key="[" line="642" column="25" />
-        <mark key="]" line="642" column="25" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/Math.java" timestamp="1564443411876">
+        <mark key="[" line="255" column="15" />
+        <mark key="]" line="255" column="29" />
+        <mark key="^" line="255" column="14" />
+        <mark key="." line="255" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" timestamp="1564375091292">
+      <file name="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" timestamp="1564443730082">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="27" column="24" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="17" column="40" />
+        <mark key="." line="17" column="40" />
       </file>
       <file name="$USER_HOME$/projects/kmailer/web/src/kmailer/query/kintone_app.clj" timestamp="1564380777168">
         <mark key="'" line="56" column="17" />
@@ -135,7 +137,6 @@
       <jump line="4" column="0" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
       <jump line="111" column="11" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
       <jump line="45" column="20" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
-      <jump line="37" column="39" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
       <jump line="20" column="0" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
       <jump line="63" column="0" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/anpi/mobileapi/src/anpi/routes.clj" />
@@ -176,7 +177,6 @@
       <jump line="21" column="0" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
       <jump line="13" column="0" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
-      <jump line="2" column="0" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
       <jump line="80" column="38" filename="$USER_HOME$/projects/kmailer/web/src/kmailer/query/smtp_setting.clj" />
       <jump line="96" column="6" filename="$USER_HOME$/projects/kmailer/web/src/kmailer/security/crypt.clj" />
       <jump line="17" column="26" filename="$USER_HOME$/projects/kmailer/web/src/kmailer/query/address_app.clj" />
@@ -218,49 +218,51 @@
       <jump line="102" column="6" filename="$USER_HOME$/projects/kmailer/web/src/kmailer/security/crypt.clj" />
       <jump line="10" column="0" filename="$USER_HOME$/projects/kmailer/web/src/kmailer/query/smtp_setting.clj" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/kmailer/web/src/kmailer/query/template_app.clj" />
+      <jump line="37" column="4" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">KGRlZm4gXjpkZXByZWNhdGVkIGZpbmQtYnJhbmNoLXN5c3RlbS1tYW5hZ2VycwogICJUT0RPIOODhuOCueODiOOBp+OBl+OBi+S9v+OCj+OCjOOBpuOBhOOBquOBhOOBruOBp+a2iOOBmSIKICBbZGIgY29tcGFueS1pZCAmIGRlcHQtaWRzXQogIChsZXQgW3JvbGUtaWRzIChnZXQtcm9sZS1pZHMgZGIgY29tcGFueS1pZCA6YnJhbmNoLXN5c3RlbS1tYW5hZ2VyKQogICAgICAgIGRlcHQtaWRzIChzb21lLT4gZGVwdC1pZHMgdmVjKV0KICAgICgtPj4gKGZpbmQtbWFuYWdlci1xdWVyeSBjb21wYW55LWlkIDpyb2xlLWlkcyByb2xlLWlkcyA6ZGVwYXJ0bWVudC1pZHMgZGVwdC1pZHMpCiAgICAgICAgIChkYi9mZXRjaCBkYikKICAgICAgICAgKG1hcCByb3ctPk1hbmFnZXIpKSkpCgooZGVmbiBeOmRlcHJlY2F0ZWQgZmluZC1icmFuY2gtcmlzay1tYW5hZ2VycwogICJUT0RPIOODhuOCueODiOOBp+OBl+OBi+S9v+OCj+OCjOOBpuOBhOOBquOBhOOBruOBp+a2iOOBmSIKICBbZGIgY29tcGFueS1pZCAmIGRlcHQtaWRzXQogIChsZXQgW3JvbGUtaWRzIChnZXQtcm9sZS1pZHMgZGIgY29tcGFueS1pZCA6YnJhbmNoLXJpc2stbWFuYWdlcikKICAgICAgICBkZXB0LWlkcyAoc29tZS0+IGRlcHQtaWRzIHZlYyldCiAgICAoLT4+IChmaW5kLW1hbmFnZXItcXVlcnkgY29tcGFueS1pZCA6cm9sZS1pZHMgcm9sZS1pZHMgOmRlcGFydG1lbnQtaWRzIGRlcHQtaWRzKQogICAgICAgICAoZGIvZmV0Y2ggZGIpCiAgICAgICAgIChtYXAgcm93LT5NYW5hZ2VyKSkpKQoKKGRlZm4gXjpkZXByZWNhdGVkIGZpbmQtYnJhbmNoLW1hbmFnZXJzCiAgIlRPRE8g44OG44K544OI44Gn44GX44GL5L2/44KP44KM44Gm44GE44Gq44GE44Gu44Gn5raI44GZIgogIFtkYiBjb21wYW55LWlkICYgZGVwdC1pZHNdCiAgKGxldCBbcm9sZS1pZHMgKGdldC1yb2xlLWlkcyBkYiBjb21wYW55LWlkIDpicmFuY2gtbWFuYWdlcikKICAgICAgICBkZXB0LWlkcyAoc29tZS0+IGRlcHQtaWRzIHZlYyldCiAgICAoLT4+IChmaW5kLW1hbmFnZXItcXVlcnkgY29tcGFueS1pZCA6cm9sZS1pZHMgcm9sZS1pZHMgOmRlcGFydG1lbnQtaWRzIGRlcHQtaWRzKQogICAgICAgICAoZGIvZmV0Y2ggZGIpCiAgICAgICAgIChtYXAgcm93LT5NYW5hZ2VyKSkpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text>kintone-app</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uQnVmZmVyZWRSZWFkZXI7CmltcG9ydCBqYXZhLmlvLklPRXhjZXB0aW9uOwppbXBvcnQgamF2YS5pby5JbnB1dFN0cmVhbVJlYWRlcjsKaW1wb3J0IGphdmEudXRpbC5BcnJheXM7CmltcG9ydCBqYXZhLnV0aWwuc3RyZWFtLkNvbGxlY3RvcnM7CgpwdWJsaWMgY2xhc3MgTWFpbiB7CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CiAgICAgICAgdHJ5IChCdWZmZXJlZFJlYWRlciBpbiA9IG5ldyBCdWZmZXJlZFJlYWRlcihuZXcgSW5wdXRTdHJlYW1SZWFkZXIoU3lzdGVtLmluKSkpIHsKICAgICAgICAgICAgaW50IG4gPSBJbnRlZ2VyLnBhcnNlSW50KGluLnJlYWRMaW5lKCkpOwogICAgICAgICAgICBpbnRbXSBBID0gQXJyYXlzLnN0cmVhbShpbi5yZWFkTGluZSgpLnNwbGl0KCIgIikpLm1hcFRvSW50KEludGVnZXI6OnBhcnNlSW50KS50b0FycmF5KCk7CgogICAgICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IG47IGkrKykgewogICAgICAgICAgICAgICAgaW50IHYgPSBBW2ldOwogICAgICAgICAgICAgICAgaW50IGogPSBpIC0gMTsKICAgICAgICAgICAgICAgIHdoaWxlIChqID49IDAgJiYgQVtqXSA+IHYpIHsKICAgICAgICAgICAgICAgICAgICBBW2ogKyAxXSA9IEFbal07CiAgICAgICAgICAgICAgICAgICAgai0tOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgQVtqICsgMV0gPSB2OwogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKEFycmF5cy5zdHJlYW0oQSkubWFwVG9PYmooU3RyaW5nOjp2YWx1ZU9mKS5jb2xsZWN0KENvbGxlY3RvcnMuam9pbmluZygiICIpKSk7CiAgICAgICAgICAgIH0KICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQogICAgfQp9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uQnVmZmVyZWRSZWFkZXI7CmltcG9ydCBqYXZhLmlvLklPRXhjZXB0aW9uOwppbXBvcnQgamF2YS5pby5JbnB1dFN0cmVhbVJlYWRlcjsKCnB1YmxpYyBjbGFzcyBNYWluIHsKICAgIHN0YXRpYyBib29sZWFuIGlzUHJpbWUoaW50IHgpIHsKICAgICAgICBpZiAoeCA9PSAyKSByZXR1cm4gdHJ1ZTsKCiAgICAgICAgaWYgKHggPCAyIHx8IHggJSAyID09IDApIHsKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0KCiAgICAgICAgaW50IGkgPSAzOwogICAgICAgIGRvdWJsZSByb290ID0gTWF0aC5zcXJ0KHgpOwogICAgICAgIHdoaWxlIChpIDw9IHJvb3QpIHsKICAgICAgICAgICAgaWYgKHggJSBpID09IDApIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgaSArPSAyOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIHRydWU7CiAgICB9CgogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgewogICAgICAgIHRyeSAoQnVmZmVyZWRSZWFkZXIgaW4gPSBuZXcgQnVmZmVyZWRSZWFkZXIobmV3IElucHV0U3RyZWFtUmVhZGVyKFN5c3RlbS5pbikpKSB7CiAgICAgICAgICAgIGludCBuID0gSW50ZWdlci5wYXJzZUludChpbi5yZWFkTGluZSgpKTsKICAgICAgICAgICAgaW50IHJldCA9IDA7CiAgICAgICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgbjsgaSsrKSB7CiAgICAgICAgICAgICAgICBpbnQgeCA9IEludGVnZXIucGFyc2VJbnQoaW4ucmVhZExpbmUoKSk7CiAgICAgICAgICAgICAgICBpZiAoaXNQcmltZSh4KSkgcmV0Kys7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihyZXQpOwogICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9CiAgICB9Cn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGx1bWJpbmcuY29yZS9tYXAtdmFscwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ1aWxkZXIucmVwbGFjZUxpbWl0KGxpbSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHkgPSByOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHggPSB5Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJ1aWxkZXIucmVwbGFjZUxpbWl0KGxpbSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCByID0geCAlIHk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpbS5yZXBsYWNlKDUwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2hpbGUgKHkgPiAwKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEtpbnRvbmVRdWVyeUxpbWl0IGxpbSAgPSBidWlsZGVyLmxpbWl0KDUwMCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmxpbWl0KDUwMCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHkgPSB0bXA7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEtpbnRvbmVRdWVyeUJ1aWxkZXIgYnVpbGRlciA9ICBLaW50b25lUGFyc2VyLnBhcnNlKHF1ZXJ5KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHggPSB5Owo=</text>
       </register>
       <register name=":" type="4">
-        <text>x</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -270,7 +272,7 @@
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDx2aWV3XD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -312,10 +314,10 @@
         <entry>63</entry>
         <entry>89</entry>
         <entry>290</entry>
-        <entry>q</entry>
         <entry>noh</entry>
-        <entry>w</entry>
+        <entry>q</entry>
         <entry>x</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
