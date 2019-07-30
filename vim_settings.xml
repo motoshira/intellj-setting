@@ -87,12 +87,12 @@
         <mark key="^" line="255" column="14" />
         <mark key="." line="255" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" timestamp="1564444964263">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="21" column="34" />
-        <mark key="." line="21" column="34" />
+      <file name="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" timestamp="1564528520106">
+        <mark key="'" line="21" column="2" />
+        <mark key="[" line="19" column="8" />
+        <mark key="]" line="19" column="10" />
+        <mark key="^" line="19" column="10" />
+        <mark key="." line="19" column="10" />
       </file>
       <file name="$USER_HOME$/projects/kmailer/web/src/kmailer/query/kintone_app.clj" timestamp="1564380777168">
         <mark key="'" line="56" column="17" />
@@ -178,7 +178,6 @@
       <jump line="151" column="23" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
       <jump line="157" column="43" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
       <jump line="158" column="0" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
-      <jump line="21" column="0" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
       <jump line="13" column="0" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
       <jump line="80" column="38" filename="$USER_HOME$/projects/kmailer/web/src/kmailer/query/smtp_setting.clj" />
@@ -229,6 +228,7 @@
       <jump line="100" column="6" filename="$USER_HOME$/projects/kmailer/web/src/kmailer/service/admin/secrets_encryption.clj" />
       <jump line="91" column="6" filename="$USER_HOME$/projects/kmailer/web/src/kmailer/service/admin/secrets_encryption.clj" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/kmailer/web/src/kmailer/service/admin/secrets_encryption.clj" />
+      <jump line="21" column="2" filename="$USER_HOME$/projects/try-error/javasample/src/jp/co/toyokumo/Main.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
