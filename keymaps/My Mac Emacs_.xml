@@ -230,6 +230,10 @@
     <keyboard-shortcut first-keystroke="meta g" second-keystroke="g" />
     <keyboard-shortcut first-keystroke="meta g" second-keystroke="meta g" />
   </action>
+  <action id="GotoNamespace">
+    <keyboard-shortcut first-keystroke="shift alt n" />
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="meta g" second-keystroke="n" />
     <keyboard-shortcut first-keystroke="meta g" second-keystroke="meta n" />
