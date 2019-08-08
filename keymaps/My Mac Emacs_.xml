@@ -1,4 +1,7 @@
 <keymap version="1" name="My Mac Emacs+" parent="Emacs+">
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="shift ctrl y" />
+  </action>
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="alt 1" />
     <keyboard-shortcut first-keystroke="meta 1" />
@@ -11,6 +14,9 @@
     <keyboard-shortcut first-keystroke="shift enter" />
   </action>
   <action id="CollapseRegion" />
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="shift ctrl y" />
+  </action>
   <action id="EditorBackSpace">
     <keyboard-shortcut first-keystroke="back_space" />
     <keyboard-shortcut first-keystroke="shift back_space" />
