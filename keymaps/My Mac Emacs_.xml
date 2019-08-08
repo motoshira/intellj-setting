@@ -1,4 +1,8 @@
 <keymap version="1" name="My Mac Emacs+" parent="Emacs+">
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="alt 1" />
+    <keyboard-shortcut first-keystroke="meta 1" />
+  </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="meta slash" />
   </action>
@@ -189,6 +193,7 @@
   <action id="Emacs+.TWScrollDown">
     <keyboard-shortcut first-keystroke="meta v" />
   </action>
+  <action id="Emacs+.TransposeChars" />
   <action id="Emacs+.TransposeWords">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
@@ -238,6 +243,10 @@
   <action id="MethodUp">
     <keyboard-shortcut first-keystroke="meta up" />
     <keyboard-shortcut first-keystroke="ctrl meta a" />
+  </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="o" />
+    <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
   <action id="ShowUsages">
     <keyboard-shortcut first-keystroke="ctrl meta f7" />
