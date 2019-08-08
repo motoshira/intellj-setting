@@ -142,6 +142,7 @@
   <action id="Emacs+.ISearchBackwardRegexp">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>
+  <action id="Emacs+.ISearchForward" />
   <action id="Emacs+.ISearchForwardRegexp">
     <keyboard-shortcut first-keystroke="ctrl meta s" />
   </action>
@@ -208,6 +209,9 @@
   <action id="EmacsStyleIndent">
     <keyboard-shortcut first-keystroke="tab" />
     <keyboard-shortcut first-keystroke="meta i" />
+  </action>
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="meta s" />
