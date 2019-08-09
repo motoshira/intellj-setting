@@ -7,6 +7,9 @@
     <keyboard-shortcut first-keystroke="shift alt minus" />
     <keyboard-shortcut first-keystroke="shift ctrl slash" />
   </action>
+  <action id="$Undo">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+  </action>
   <action id=":cursive.actions.paredit/backward">
     <keyboard-shortcut first-keystroke="ctrl left" />
     <keyboard-shortcut first-keystroke="alt b" />
@@ -81,6 +84,10 @@
   <action id="EditorTextStart">
     <keyboard-shortcut first-keystroke="shift meta comma" />
     <keyboard-shortcut first-keystroke="meta less" />
+  </action>
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+    <keyboard-shortcut first-keystroke="shift ctrl minus" />
   </action>
   <action id="Emacs+.AppendNextKill">
     <keyboard-shortcut first-keystroke="ctrl meta w" />
