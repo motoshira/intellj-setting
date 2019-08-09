@@ -2,6 +2,11 @@
   <action id="$Paste">
     <keyboard-shortcut first-keystroke="shift ctrl y" />
   </action>
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
+    <keyboard-shortcut first-keystroke="shift alt minus" />
+    <keyboard-shortcut first-keystroke="shift ctrl slash" />
+  </action>
   <action id=":cursive.actions.paredit/backward">
     <keyboard-shortcut first-keystroke="ctrl left" />
     <keyboard-shortcut first-keystroke="alt b" />
@@ -28,8 +33,14 @@
     <keyboard-shortcut first-keystroke="shift enter" />
   </action>
   <action id="CollapseRegion" />
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift ctrl divide" />
+  </action>
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="shift ctrl y" />
+  </action>
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="shift ctrl slash" />
   </action>
   <action id="EditorBackSpace">
     <keyboard-shortcut first-keystroke="back_space" />
