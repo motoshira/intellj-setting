@@ -2,6 +2,20 @@
   <action id="$Paste">
     <keyboard-shortcut first-keystroke="shift ctrl y" />
   </action>
+  <action id=":cursive.actions.paredit/backward">
+    <keyboard-shortcut first-keystroke="ctrl left" />
+    <keyboard-shortcut first-keystroke="alt b" />
+    <keyboard-shortcut first-keystroke="escape" second-keystroke="ctrl b" />
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
+    <keyboard-shortcut first-keystroke="ctrl meta b" />
+  </action>
+  <action id=":cursive.actions.paredit/forward">
+    <keyboard-shortcut first-keystroke="ctrl right" />
+    <keyboard-shortcut first-keystroke="alt f" />
+    <keyboard-shortcut first-keystroke="escape" second-keystroke="ctrl f" />
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
+    <keyboard-shortcut first-keystroke="ctrl meta f" />
+  </action>
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="alt 1" />
     <keyboard-shortcut first-keystroke="meta 1" />
@@ -39,15 +53,11 @@
     <keyboard-shortcut first-keystroke="ctrl u" second-keystroke="shift meta 6" />
     <keyboard-shortcut first-keystroke="ctrl u" second-keystroke="meta circumflex" />
   </action>
-  <action id="EditorNextWord">
-    <keyboard-shortcut first-keystroke="ctrl meta f" />
-  </action>
+  <action id="EditorNextWord" />
   <action id="EditorPageUp">
     <keyboard-shortcut first-keystroke="meta v" />
   </action>
-  <action id="EditorPreviousWord">
-    <keyboard-shortcut first-keystroke="ctrl meta b" />
-  </action>
+  <action id="EditorPreviousWord" />
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="meta at" />
     <keyboard-shortcut first-keystroke="shift meta 2" />
@@ -269,6 +279,9 @@
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="shift ctrl space" />
     <keyboard-shortcut first-keystroke="ctrl meta slash" />
+  </action>
+  <action id="Switcher">
+    <keyboard-shortcut first-keystroke="ctrl tab" />
   </action>
   <action id="TypeHierarchy" />
 </keymap>
