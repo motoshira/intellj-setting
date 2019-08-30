@@ -24,6 +24,12 @@
     <keyboard-shortcut first-keystroke="ctrl alt f" />
     <keyboard-shortcut first-keystroke="ctrl meta f" />
   </action>
+  <action id=":cursive.testing.actions/run-ns-tests">
+    <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="t" />
+  </action>
+  <action id=":cursive.testing.actions/run-single-test">
+    <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="ctrl t" />
+  </action>
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="alt 1" />
     <keyboard-shortcut first-keystroke="meta 1" />
@@ -301,5 +307,6 @@
   <action id="Switcher">
     <keyboard-shortcut first-keystroke="ctrl tab" />
   </action>
+  <action id="ToggleTemporaryLineBreakpoint" />
   <action id="TypeHierarchy" />
 </keymap>
