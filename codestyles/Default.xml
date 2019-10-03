@@ -28,6 +28,7 @@
   :cljs.core/defonce :only-indent
   :cljs.core/with-redefs :only-indent
   :cljs.core.async/go-loop :only-indent
+  :cljs.core.match/match :only-indent
   :cljs.test/run-tests :only-indent
   :clojure.core/as-&gt; :only-indent
   :clojure.core/assoc 0
