@@ -25,6 +25,7 @@
   :cljs.core/assoc 0
   :cljs.core/cond-&gt; :only-indent
   :cljs.core/cond-&gt;&gt; :only-indent
+  :cljs.core/defmulti :only-indent
   :cljs.core/defonce :only-indent
   :cljs.core/with-redefs :only-indent
   :cljs.core.async/go-loop :only-indent
