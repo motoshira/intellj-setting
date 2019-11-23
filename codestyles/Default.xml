@@ -25,9 +25,11 @@
   :cljs.core/assoc 0
   :cljs.core/cond-&gt; :only-indent
   :cljs.core/cond-&gt;&gt; :only-indent
+  :cljs.core/defmulti :only-indent
   :cljs.core/defonce :only-indent
   :cljs.core/with-redefs :only-indent
   :cljs.core.async/go-loop :only-indent
+  :cljs.core.match/match :only-indent
   :cljs.test/run-tests :only-indent
   :clojure.core/as-&gt; :only-indent
   :clojure.core/assoc 0
@@ -36,9 +38,11 @@
   :clojure.core/defonce :only-indent
   :clojure.core/empty? 1000
   :clojure.java.jdbc/with-db-connection :only-indent
+  :clojure.test/are :only-indent
   :cursive.formatting/align-conditionals false
   :cursive.formatting/align-maps false
   :cursive.formatting/one-space-lists true
+  :devcards.core/defcard-rg :only-indent
   :etaoin.api/with-chrome-headless :only-indent
   :formative.parse/with-fallback :only-indent
   :kitchen-async.promise/let :only-indent
@@ -111,6 +115,9 @@
       </value>
     </option>
   </JavaCodeStyleSettings>
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MarkdownNavigatorCodeStyleSettings>
   <Objective-C-extensions>
     <file>
       <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Import" />
@@ -157,6 +164,12 @@
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="PostgreSQL">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>

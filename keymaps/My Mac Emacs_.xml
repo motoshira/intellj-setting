@@ -42,6 +42,7 @@
     <keyboard-shortcut first-keystroke="shift enter" />
   </action>
   <action id="CollapseRegion" />
+  <action id="CollapseSelection" />
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="shift ctrl divide" />
   </action>
@@ -56,6 +57,7 @@
     <keyboard-shortcut first-keystroke="shift back_space" />
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
+  <action id="EditorChooseLookupItemDot" />
   <action id="EditorCodeBlockEnd">
     <keyboard-shortcut first-keystroke="ctrl alt d" />
   </action>
@@ -266,6 +268,7 @@
     <keyboard-shortcut first-keystroke="meta period" />
     <keyboard-shortcut first-keystroke="escape" second-keystroke="period" />
     <mouse-shortcut keystroke="control button1" />
+    <keyboard-shortcut first-keystroke="ctrl period" />
   </action>
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="ctrl u" second-keystroke="meta period" />
