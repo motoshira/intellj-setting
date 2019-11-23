@@ -35,6 +35,7 @@
   :clojure.core/assoc 0
   :clojure.core/cond-&gt; :only-indent
   :clojure.core/cond-&gt;&gt; :only-indent
+  :clojure.core/defmulti :only-indent
   :clojure.core/defonce :only-indent
   :clojure.core/empty? 1000
   :clojure.java.jdbc/with-db-connection :only-indent
@@ -167,12 +168,6 @@
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
-  <codeStyleSettings language="PostgreSQL">
-    <indentOptions>
-      <option name="INDENT_SIZE" value="2" />
-      <option name="TAB_SIZE" value="2" />
-    </indentOptions>
-  </codeStyleSettings>
   <codeStyleSettings language="TypeScript">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
@@ -267,7 +262,6 @@
                 <XML_NAMESPACE>http://schemas.android.com/apk/res/android</XML_NAMESPACE>
               </AND>
             </match>
-            <order>ANDROID_ATTRIBUTE_ORDER</order>
           </rule>
         </section>
         <section>
