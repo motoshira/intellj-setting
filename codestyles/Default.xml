@@ -46,6 +46,7 @@
   :devcards.core/defcard-rg :only-indent
   :etaoin.api/with-chrome-headless :only-indent
   :formative.parse/with-fallback :only-indent
+  :hiccup.page/html5 0
   :kitchen-async.promise/let :only-indent
   :kitchen-async.promise/loop :only-indent
   :midje.sweet/=&gt; 0
