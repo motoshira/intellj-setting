@@ -34,6 +34,11 @@
     <keyboard-shortcut first-keystroke="alt 1" />
     <keyboard-shortcut first-keystroke="meta 1" />
   </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="meta slash" />
   </action>
