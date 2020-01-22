@@ -305,6 +305,9 @@
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="o" />
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl meta back_slash" />
+  </action>
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift ctrl r" />
     <keyboard-shortcut first-keystroke="shift meta r" />
