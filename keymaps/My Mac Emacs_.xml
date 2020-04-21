@@ -30,6 +30,7 @@
   <action id=":cursive.testing.actions/run-single-test">
     <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="ctrl t" />
   </action>
+  <action id="AceLineAction" />
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="alt 1" />
     <keyboard-shortcut first-keystroke="meta 1" />
@@ -304,10 +305,14 @@
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="o" />
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl meta back_slash" />
+  </action>
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift ctrl r" />
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
+  <action id="ShowRecentTests" />
   <action id="ShowUsages">
     <keyboard-shortcut first-keystroke="ctrl meta f7" />
     <keyboard-shortcut first-keystroke="shift meta s" />
