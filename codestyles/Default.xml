@@ -60,6 +60,7 @@
   :mount.lite/with-session :only-indent
   :mount.lite/with-substitutes :only-indent
   :promesa.core/alet :only-indent
+  :toyokumo.commons.db/with-transaction :only-indent
   :zou.component/with-component :only-indent
 }</ClojureCodeStyleSettings>
   <DBN-PSQL>
