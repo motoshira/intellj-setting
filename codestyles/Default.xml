@@ -28,6 +28,7 @@
   :cljs.core/defmulti :only-indent
   :cljs.core/defonce :only-indent
   :cljs.core/with-redefs :only-indent
+  :cljs.core.async/go :only-indent
   :cljs.core.async/go-loop :only-indent
   :cljs.core.match/match :only-indent
   :cljs.test/run-tests :only-indent
