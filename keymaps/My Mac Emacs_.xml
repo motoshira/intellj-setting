@@ -293,6 +293,7 @@
     <keyboard-shortcut first-keystroke="f2" />
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="back_quote" />
   </action>
+  <action id="MaximizeToolWindow" />
   <action id="MethodDown">
     <keyboard-shortcut first-keystroke="meta up" />
     <keyboard-shortcut first-keystroke="ctrl meta e" />
