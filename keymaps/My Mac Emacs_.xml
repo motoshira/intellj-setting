@@ -1,4 +1,7 @@
 <keymap version="1" name="My Mac Emacs+" parent="Emacs+">
+  <action id="$Cut">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="$Paste">
     <keyboard-shortcut first-keystroke="shift ctrl y" />
   </action>
@@ -51,6 +54,9 @@
   <action id="CollapseSelection" />
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="shift ctrl divide" />
+  </action>
+  <action id="Editor Cut">
+    <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="shift ctrl y" />
@@ -187,6 +193,7 @@
   <action id="Emacs+.ISYankLast">
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
+  <action id="Emacs+.ISYankNextWord" />
   <action id="Emacs+.ISearchBackwardRegexp">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>
@@ -204,6 +211,7 @@
     <keyboard-shortcut first-keystroke="meta space" />
     <keyboard-shortcut first-keystroke="escape" second-keystroke="space" />
   </action>
+  <action id="Emacs+.KillRegion" />
   <action id="Emacs+.KillWord">
     <keyboard-shortcut first-keystroke="meta d" />
     <keyboard-shortcut first-keystroke="ctrl delete" />
