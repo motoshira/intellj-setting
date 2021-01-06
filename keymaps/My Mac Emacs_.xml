@@ -266,6 +266,7 @@
     <keyboard-shortcut first-keystroke="tab" />
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
+  <action id="ExternalSystem.ProjectRefreshAction" />
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
