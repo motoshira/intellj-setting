@@ -97,6 +97,9 @@
     <keyboard-shortcut first-keystroke="shift meta 2" />
     <keyboard-shortcut first-keystroke="ctrl minus" />
   </action>
+  <action id="EditorTab">
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
   <action id="EditorTextEnd">
     <keyboard-shortcut first-keystroke="shift meta period" />
     <keyboard-shortcut first-keystroke="meta greater" />
@@ -263,7 +266,6 @@
     <keyboard-shortcut first-keystroke="escape" second-keystroke="y" />
   </action>
   <action id="EmacsStyleIndent">
-    <keyboard-shortcut first-keystroke="tab" />
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
   <action id="ExternalSystem.ProjectRefreshAction" />
