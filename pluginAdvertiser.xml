@@ -1481,11 +1481,19 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.rule">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="SnakeCharm" />
+              <option name="myPluginName" value="SnakeCharm" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.rules">
           <value>
             <plugin>
-              <option name="myPluginId" value="co.anbora.labs.firebase-syntax-highlighting" />
-              <option name="myPluginName" value="Firebase Rules Syntax Highlighter" />
+              <option name="myPluginId" value="SnakeCharm" />
+              <option name="myPluginName" value="SnakeCharm" />
             </plugin>
           </value>
         </entry>
@@ -1557,6 +1565,22 @@
               <option name="myPluginId" value="com.android.tools.idea.smali" />
               <option name="myPluginName" value="Smali Support" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.smk">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="SnakeCharm" />
+              <option name="myPluginName" value="SnakeCharm" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.smkstringlanguage">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="SnakeCharm" />
+              <option name="myPluginName" value="SnakeCharm" />
             </plugin>
           </value>
         </entry>
@@ -2171,6 +2195,14 @@
             <plugin>
               <option name="myPluginId" value="name.kropp.intellij.makefile" />
               <option name="myPluginName" value="Makefile support" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="Snakefile">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="SnakeCharm" />
+              <option name="myPluginName" value="SnakeCharm" />
             </plugin>
           </value>
         </entry>
