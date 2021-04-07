@@ -4,37 +4,6 @@
       <component name="ClojureProjectResolveSettings">
         <currentScheme>IDE</currentScheme>
       </component>
-      <component name="ProjectInspectionProfilesVisibleTreeState">
-        <entry key="Project Default">
-          <profile-state>
-            <expanded-state>
-              <State />
-              <State>
-                <id>Clojure</id>
-              </State>
-            </expanded-state>
-          </profile-state>
-        </entry>
-      </component>
-      <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="configurable.group.language" />
-      </component>
-      <component name="masterDetails">
-        <states>
-          <state key="ProjectJDKs.UI">
-            <settings>
-              <last-edited>1.8</last-edited>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
-        </states>
-      </component>
     </defaultProject>
   </component>
 </application>
