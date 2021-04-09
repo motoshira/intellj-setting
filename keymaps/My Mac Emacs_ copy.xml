@@ -20,12 +20,20 @@
     <keyboard-shortcut first-keystroke="ctrl alt b" />
     <keyboard-shortcut first-keystroke="ctrl meta b" />
   </action>
+  <action id=":cursive.actions.paredit/barf-forwards">
+    <keyboard-shortcut first-keystroke="shift ctrl close_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="b" />
+  </action>
   <action id=":cursive.actions.paredit/forward">
     <keyboard-shortcut first-keystroke="ctrl right" />
     <keyboard-shortcut first-keystroke="alt f" />
     <keyboard-shortcut first-keystroke="escape" second-keystroke="ctrl f" />
     <keyboard-shortcut first-keystroke="ctrl alt f" />
     <keyboard-shortcut first-keystroke="ctrl meta f" />
+  </action>
+  <action id=":cursive.actions.paredit/slurp-forwards">
+    <keyboard-shortcut first-keystroke="shift ctrl 0" />
+    <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="f" />
   </action>
   <action id=":cursive.testing.actions/run-ns-tests">
     <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="t" />
@@ -333,6 +341,9 @@
   </action>
   <action id="Switcher">
     <keyboard-shortcut first-keystroke="ctrl tab" />
+  </action>
+  <action id="Terminal.CopySelectedText">
+    <keyboard-shortcut first-keystroke="ctrl insert" />
   </action>
   <action id="ToggleTemporaryLineBreakpoint" />
   <action id="TypeHierarchy" />
