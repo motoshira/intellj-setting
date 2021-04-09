@@ -50,6 +50,7 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
+  <action id="BraceOrQuoteOut" />
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="meta slash" />
   </action>
@@ -77,6 +78,7 @@
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
   <action id="EditorChooseLookupItemDot" />
+  <action id="EditorChooseLookupItemReplace" />
   <action id="EditorCodeBlockEnd">
     <keyboard-shortcut first-keystroke="ctrl alt d" />
   </action>
@@ -90,6 +92,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl meta u" />
   </action>
   <action id="EditorDuplicate" />
+  <action id="EditorIndentSelection" />
   <action id="EditorJoinLines">
     <keyboard-shortcut first-keystroke="ctrl u" second-keystroke="shift meta 6" />
     <keyboard-shortcut first-keystroke="ctrl u" second-keystroke="meta circumflex" />
@@ -272,7 +275,9 @@
   <action id="EmacsStyleIndent">
     <keyboard-shortcut first-keystroke="meta i" />
     <keyboard-shortcut first-keystroke="alt tab" />
+    <keyboard-shortcut first-keystroke="tab" />
   </action>
+  <action id="ExpandLiveTemplateByTab" />
   <action id="ExternalSystem.ProjectRefreshAction" />
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl s" />
@@ -318,9 +323,15 @@
     <keyboard-shortcut first-keystroke="meta up" />
     <keyboard-shortcut first-keystroke="ctrl meta a" />
   </action>
+  <action id="NextParameter" />
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="o" />
     <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
+  <action id="NextTemplateParameter" />
+  <action id="NextTemplateVariable">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl meta back_slash" />
@@ -329,6 +340,8 @@
     <keyboard-shortcut first-keystroke="shift ctrl r" />
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
+  <action id="SearchEverywhere.CompleteCommand" />
+  <action id="SearchEverywhere.NextTab" />
   <action id="ShowRecentTests" />
   <action id="ShowUsages">
     <keyboard-shortcut first-keystroke="ctrl meta f7" />
