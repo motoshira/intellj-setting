@@ -39,6 +39,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl 0" />
     <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="f" />
   </action>
+  <action id=":cursive.actions.paredit/toggle">
+    <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="s" />
+  </action>
   <action id=":cursive.testing.actions/run-ns-tests">
     <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="t" />
   </action>
