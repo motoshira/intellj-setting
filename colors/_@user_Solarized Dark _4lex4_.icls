@@ -3,7 +3,7 @@
     <property name="created">2021-07-27T09:01:27</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.1.0.0</property>
-    <property name="modified">2021-07-29T15:58:04</property>
+    <property name="modified">2021-08-12T17:34:35</property>
     <property name="originalScheme">Solarized Dark (4lex4)</property>
   </metaInfo>
   <colors>
@@ -67,6 +67,7 @@
     <option name="INLINE_REFACTORING_SETTINGS_HOVERED" value="4e67708c" />
     <option name="LINE_NUMBERS_COLOR" value="49636b" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="73888c" />
+    <option name="LOOKUP_COLOR" value="" />
     <option name="METHOD_SEPARATORS_COLOR" value="2b4c56" />
     <option name="MODIFIED_LINES_COLOR" value="c4357" />
     <option name="NOTIFICATION_BACKGROUND" value="3359" />
@@ -96,17 +97,17 @@
     <option name="ScrollBar.Mac.thumbBorderColor" value="273259" />
     <option name="ScrollBar.Mac.thumbColor" value="6b808659" />
     <option name="ScrollBar.Mac.trackColor" value="" />
-    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="a384459" />
+    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="384459" />
     <option name="ScrollBar.Transparent.hoverThumbColor" value="99a6a559" />
     <option name="ScrollBar.Transparent.hoverTrackColor" value="6b80861a" />
-    <option name="ScrollBar.Transparent.thumbBorderColor" value="a384447" />
+    <option name="ScrollBar.Transparent.thumbBorderColor" value="384447" />
     <option name="ScrollBar.Transparent.thumbColor" value="99a6a547" />
     <option name="ScrollBar.Transparent.trackColor" value="" />
     <option name="ScrollBar.background" value="16414d" />
-    <option name="ScrollBar.hoverThumbBorderColor" value="a384459" />
+    <option name="ScrollBar.hoverThumbBorderColor" value="384459" />
     <option name="ScrollBar.hoverThumbColor" value="99a6a559" />
     <option name="ScrollBar.hoverTrackColor" value="" />
-    <option name="ScrollBar.thumbBorderColor" value="a384447" />
+    <option name="ScrollBar.thumbBorderColor" value="384447" />
     <option name="ScrollBar.thumbColor" value="99a6a547" />
     <option name="ScrollBar.trackColor" value="" />
     <option name="TEARLINE_COLOR" value="3d5963" />
@@ -270,7 +271,6 @@
         <option name="FOREGROUND" value="519af2" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.FUNCTION_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="COFFEESCRIPT.IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="839496" />
