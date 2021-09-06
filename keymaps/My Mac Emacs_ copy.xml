@@ -329,6 +329,12 @@
     <keyboard-shortcut first-keystroke="meta g" second-keystroke="meta n" />
     <keyboard-shortcut first-keystroke="f2" />
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="back_quote" />
+    <keyboard-shortcut first-keystroke="meta n" />
+  </action>
+  <action id="GotoPreviousError">
+    <keyboard-shortcut first-keystroke="shift f2" />
+    <keyboard-shortcut first-keystroke="shift ctrl x" second-keystroke="back_quote" />
+    <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="Inline" />
   <action id="MaximizeToolWindow" />
