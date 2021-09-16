@@ -1,6 +1,6 @@
 <application>
   <component name="ClojureIdeSettings">
-    <option name="structuralStyle" value="0" />
+    <option name="structuralStyle" value="2" />
     <option name="confirmReplExit" value="false" />
   </component>
 </application>
