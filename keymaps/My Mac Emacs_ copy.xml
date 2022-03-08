@@ -359,10 +359,15 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl meta back_slash" />
   </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="ctrl r" />
+  </action>
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift ctrl r" />
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
+  <action id="Resume" />
   <action id="SearchEverywhere.CompleteCommand" />
   <action id="SearchEverywhere.NextTab" />
   <action id="ShowRecentTests" />
