@@ -4,66 +4,71 @@
   <AndroidXmlCodeStyleSettings>
     <option name="USE_CUSTOM_SETTINGS" value="true" />
   </AndroidXmlCodeStyleSettings>
-  <ClojureCodeStyleSettings>{
-  :defhandler :only-indent
-  :anpi.core.family-test/let-test-data 1000
-  :anpi.core.family-test/with-test-db 0
-  :anpi.db/with-arglists :only-indent
-  :anpi.db/with-db-transaction :only-indent
-  :anpi.db.domain.system-setting-ip-address/check-ip-address 0
-  :anpi.db.test-helper/with-rollback :only-indent
-  :anpi.db.test-helper/with-test-db :only-indent
-  :anpi.handler/defhandler :only-indent
-  :anpi.handler.bbs/defhandler 2
-  :anpi.handler.personal-setting/defhandler 1
-  :anpi.lib.test-helper/let-test-data :only-indent
-  :anpi.security.auth/db 0
-  :anpi.test-helper/with-endpoint :only-indent
-  :anpi.test-helper/with-sync-test-state :only-indent
-  :anpi.test-helper/with-test-db :only-indent
-  :anpi.test-helper/with-test-state :only-indent
-  :cljs.core/assoc 0
-  :cljs.core/cond-&gt; :only-indent
-  :cljs.core/cond-&gt;&gt; :only-indent
-  :cljs.core/defmulti :only-indent
-  :cljs.core/defonce :only-indent
-  :cljs.core/with-redefs :only-indent
-  :cljs.core.async/go :only-indent
-  :cljs.core.async/go-loop :only-indent
-  :cljs.core.match/match :only-indent
-  :cljs.test/run-tests :only-indent
-  :clojure.core/as-&gt; :only-indent
-  :clojure.core/assoc 0
-  :clojure.core/cond-&gt; :only-indent
-  :clojure.core/cond-&gt;&gt; :only-indent
-  :clojure.core/defmulti :only-indent
-  :clojure.core/defonce :only-indent
-  :clojure.core/empty? 1000
-  :clojure.java.jdbc/with-db-connection :only-indent
-  :clojure.test/are :only-indent
-  :cursive.formatting/align-conditionals false
-  :cursive.formatting/align-maps false
-  :cursive.formatting/one-space-lists true
-  :devcards.core/defcard-rg :only-indent
-  :diehard.core/with-rate-limiter :only-indent
-  :etaoin.api/with-chrome-headless :only-indent
-  :formative.parse/with-fallback :only-indent
-  :hiccup.page/html5 0
-  :kitchen-async.promise/let :only-indent
-  :kitchen-async.promise/loop :only-indent
-  :midje.sweet/=&gt; 0
-  :midje.sweet/against-background :only-indent
-  :midje.sweet/fact :only-indent
-  :midje.sweet/facts 1
-  :midje.sweet/provided :only-indent
-  :midje.sweet/with-state-changes :only-indent
-  :mount.lite/defstate :only-indent
-  :mount.lite/with-session :only-indent
-  :mount.lite/with-substitutes :only-indent
-  :promesa.core/alet :only-indent
-  :toyokumo.commons.db/with-transaction :only-indent
-  :zou.component/with-component :only-indent
-}</ClojureCodeStyleSettings>
+  <ClojureCodeStyleSettings>
+    <option name="alignMapValues" value="false" />
+    <option name="alignReaderConditionals" value="false" />
+    <option name="oneSpaceLists" value="true" />
+    <option name="indentCustomisations">
+      <map>
+        <entry key="anpi.core.family-test/let-test-data" value="1000" />
+        <entry key="anpi.core.family-test/with-test-db" value="0" />
+        <entry key="anpi.db.domain.system-setting-ip-address/check-ip-address" value="0" />
+        <entry key="anpi.db.test-helper/with-rollback" value="-1" />
+        <entry key="anpi.db.test-helper/with-test-db" value="-1" />
+        <entry key="anpi.db/with-arglists" value="-1" />
+        <entry key="anpi.db/with-db-transaction" value="-1" />
+        <entry key="anpi.handler.bbs/defhandler" value="2" />
+        <entry key="anpi.handler.personal-setting/defhandler" value="1" />
+        <entry key="anpi.handler/defhandler" value="-1" />
+        <entry key="anpi.lib.test-helper/let-test-data" value="-1" />
+        <entry key="anpi.security.auth/db" value="0" />
+        <entry key="anpi.test-helper/with-endpoint" value="-1" />
+        <entry key="anpi.test-helper/with-sync-test-state" value="-1" />
+        <entry key="anpi.test-helper/with-test-db" value="-1" />
+        <entry key="anpi.test-helper/with-test-state" value="-1" />
+        <entry key="cljs.core.async/go" value="-1" />
+        <entry key="cljs.core.async/go-loop" value="-1" />
+        <entry key="cljs.core.match/match" value="-1" />
+        <entry key="cljs.core/UUID" value="-1" />
+        <entry key="cljs.core/assoc" value="0" />
+        <entry key="cljs.core/cond-&gt;" value="-1" />
+        <entry key="cljs.core/cond-&gt;&gt;" value="-1" />
+        <entry key="cljs.core/defmulti" value="-1" />
+        <entry key="cljs.core/defonce" value="-1" />
+        <entry key="cljs.core/with-redefs" value="-1" />
+        <entry key="cljs.test/run-tests" value="-1" />
+        <entry key="clojure.core/as-&gt;" value="-1" />
+        <entry key="clojure.core/assoc" value="0" />
+        <entry key="clojure.core/cond-&gt;" value="-1" />
+        <entry key="clojure.core/cond-&gt;&gt;" value="-1" />
+        <entry key="clojure.core/defmulti" value="-1" />
+        <entry key="clojure.core/defonce" value="-1" />
+        <entry key="clojure.core/empty?" value="1000" />
+        <entry key="clojure.java.jdbc/with-db-connection" value="-1" />
+        <entry key="clojure.test/are" value="-1" />
+        <entry key="defhandler" value="-1" />
+        <entry key="devcards.core/defcard-rg" value="-1" />
+        <entry key="diehard.core/with-rate-limiter" value="-1" />
+        <entry key="etaoin.api/with-chrome-headless" value="-1" />
+        <entry key="formative.parse/with-fallback" value="-1" />
+        <entry key="hiccup.page/html5" value="0" />
+        <entry key="kitchen-async.promise/let" value="-1" />
+        <entry key="kitchen-async.promise/loop" value="-1" />
+        <entry key="midje.sweet/=&gt;" value="0" />
+        <entry key="midje.sweet/against-background" value="-1" />
+        <entry key="midje.sweet/fact" value="-1" />
+        <entry key="midje.sweet/facts" value="1" />
+        <entry key="midje.sweet/provided" value="-1" />
+        <entry key="midje.sweet/with-state-changes" value="-1" />
+        <entry key="mount.lite/defstate" value="-1" />
+        <entry key="mount.lite/with-session" value="-1" />
+        <entry key="mount.lite/with-substitutes" value="-1" />
+        <entry key="promesa.core/alet" value="-1" />
+        <entry key="toyokumo.commons.db/with-transaction" value="-1" />
+        <entry key="zou.component/with-component" value="-1" />
+      </map>
+    </option>
+  </ClojureCodeStyleSettings>
   <DBN-PSQL>
     <case-options enabled="false">
       <option name="KEYWORD_CASE" value="lower" />
